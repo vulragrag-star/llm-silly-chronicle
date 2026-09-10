@@ -8,8 +8,8 @@
 ## Progress
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
-- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席).
-- Last focus: 2024-04 Llama 3 home-lab海啸 rewrite (open-weight jump × Phi-3 / TITLE_STYLE H1); also 2024-06 dual-blade landed.
+- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席)；`floors/2024-10.md` (戏眼：Computer Use桌面长手／点错键ASMR × 新Sonnet).
+- Last focus: 2024-10 Computer Use桌面长手戏眼 rewrite（Agent矩阵＋反唇相讥／点错键ASMR × 新Sonnet烫工牌）；TITLE_STYLE H1 后颈发麻／长手。
 
 ## Dec→Jan hooks (from 2022-12 rewrite)
 - **{{user}} Dec outline handwritten** — vow held for提纲; body/交正文 pressure into 元旦; public-mockery contract live (Nov mirror + SD「十一月的誓言，十二月的粘贴键」).
@@ -93,6 +93,26 @@
 - **Claude 3.5 Sonnet** 拒加冕、收工位；欢迎失败题砸、不欢迎成功当皈依。
 - Carry into Jul: 对照表是否还在；侧栏保险柜键；亲戚群问号；开源河与默认位河勿混；勿把易主写成信仰。
 - Do **not** spoil inside Jun floor (already avoided): Llama 3.1 / GPT-4o mini / Grok-2 / o1 / Computer Use / Claude 新Sonnet十月线等。
+
+## Oct→Nov hooks (from 2024-10 rewrite)
+- **戏眼爆点（Agent／自治）：** **Computer Use** public beta——Claude 控鼠标／键盘；GUI agent newly real；公共刺：演示 wow × 点错键 ASMR／关窗合集／安全焦虑；极端话语「终于不用自己点了／键鼠已死」；反唇：Demo≠交付、能点≠该点、缺人工刹车、主会话不可拖入、失败重试不可剪掉骗人。
+- **硬旁刺：** 新 **Claude 3.5 Sonnet**（Oct 22）工牌升级——默认工位再烫；版本号谜语；可运行≠可上线／六月 Artifacts 焊死令续命；拒「键鼠已死」绑架。
+- **旁支≤30%：** **Kimi Explore**（Oct 11）Agent／长文侧门（塞得下≠该塞／敏感 PDF 不灌）；**Devin** 抢饭气味／落差梗对照；**Cursor** IDE diff／回滚 vs 桌面点击险种；**o1** 慢刹车（点不可回滚／确认框恐惧）。
+- **{{user}} 烫伤决定：** 仅沙盒＋任务写死「做什么 + 然后停」；主浏览器／邮箱／支付／生产焊死；神迹与翻车两列收藏缺一不可；对照表续写不皈依；不把升级写成「改信鼠标」；旧线（作业／真表／二月黑名单／六月隐私／十一月花生）续命；公开嘲讽到窗口标题＋任务原文＋时间戳。
+- **Computer Use** 自求：公测手会抖；合集惨案当史实；点得动≠点得该。
+- Carry into Nov: 沙盒是否还在；停字是否还写；两列收藏是否缺列；勿把挂机点击当默认；版本号谜语是否还晕着皈依。
+- Do **not** spoil inside Oct floor (already avoided): Haiku 3.5 正式发布细节、Computer Use GA、o1 满血／o3、Operator 等后月产品。
+
+
+
+## Aug→Sep hooks (from 2024-08 rewrite)
+- **戏眼爆点（Agent）：** Cursor Composer / Tab **Accept-all 信仰**——多文件连改主流化；IDE agent 文化把仓库当草稿纸；空转／烧额度／绿勾谎言／缺人工刹车；Chaos「我也不知道谁写的」；可连改≠可上线；一次一文件＋测试红回滚；实验仅 `~/playground/2024-08-composer/`；禁「先 accept 再看」。
+- **硬旁刺（多模态≥20%）：** Qwen2-VL／Audio／Math 开源多模态雨——选型权回来；反唇相讥：自信胡说、OCR 鬼画符、Audio 数字听错；失败题（糊图／旋转／水印／否定句）；输出当嫌疑人，禁粘财务／客户原件结论。
+- **旁刺：** Grok-2（Aug 13）realtime X 身份嘴炮；时间线佐料≠判决；引用要链接；禁情绪架构圣旨。
+- **薄记：** Command R Aug refresh 企业席潜水；Claude 3.5 Sonnet 编码椅／可运行≠可上线制动续命；GPT-4o 在场不抢戏（低摩擦税对照）。
+- **{{user}} 烫伤：** Accept-all 焊死；VL 失败题；时间线分抽屉；七月 405B／mini 核查／照片备份锁／十一月花生续命。
+- Carry into Sep: Tab 键是否还热；playground 是否只疯在隔离目录；VL 嫌疑人协议；Grok 时间线分抽屉；勿把「省了两小时」当读过 diff。
+- Do **not** spoil inside Aug floor (already avoided): o1-preview / Llama 3.2 / Qwen2.5 / Pixtral / Computer Use / Claude 新Sonnet十月线 / DeepSeek-V3 / Sora public 等。
 
 ## Cast sizes (DB)
 - Core ≥8 mo: 7
