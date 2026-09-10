@@ -8,8 +8,8 @@
 ## Progress
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
-- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席)；`floors/2024-05.md` (GPT-4o omni语音)；`floors/2024-07.md` (405B磁盘哭墙×4o-mini)；`floors/2024-08.md` (Composer/Tab Accept-all × Qwen2-VL胡说 × Grok-2)；`floors/2024-10.md` (戏眼：Computer Use桌面长手／点错键ASMR × 新Sonnet／空转烧额度)；`floors/2024-11.md`（MCP插座×QwQ开源think×Pixtral）；`floors/2024-12.md`（戏眼：DeepSeek-V3性价比／成本冲击 × Pro两百刀 × Gemini 2.0代理 × Sora公开放片）；`floors/2025-02.md`（戏眼：Claude Code×3.7同日终端／hybrid × Grok3直播 × GPT-4.5人味门票）；`floors/2025-03.md`（戏眼：Manus邀请制通用Agent／邀请码社交货币 × Gemini 2.5刷榜 × Gemma3多模态雨 × QwQ/Omni；AGI海报黑幽默）.
-- Last focus: 2025-03 Manus邀请制通用Agent／「我帮你办完」×邀请码社交货币 × Gemini 2.5 Pro刷榜 × Gemma3开源多模态胡说／电税 × QwQ-32B+Omni/QVQ；agent+multimodal+pricing面子税+拒答／护栏+AGI／末日营销黑幽默.
+- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席)；`floors/2024-05.md` (GPT-4o omni语音)；`floors/2024-07.md` (405B磁盘哭墙×4o-mini)；`floors/2024-08.md` (Composer/Tab Accept-all × Qwen2-VL胡说 × Grok-2)；`floors/2024-10.md` (戏眼：Computer Use桌面长手／点错键ASMR × 新Sonnet／空转烧额度)；`floors/2024-11.md`（MCP插座×QwQ开源think×Pixtral）；`floors/2024-12.md`（戏眼：DeepSeek-V3性价比／成本冲击 × Pro两百刀 × Gemini 2.0代理 × Sora公开放片）；`floors/2025-01.md`（双戏眼：DeepSeek-R1开源推理／价牌海啸 × Operator订餐长手／终端工头海报vs flop）；`floors/2025-02.md`（戏眼：Claude Code×3.7同日终端／hybrid × Grok3直播 × GPT-4.5人味门票）；`floors/2025-03.md`（戏眼：Manus邀请制通用Agent／邀请码社交货币 × Gemini 2.5刷榜 × Gemma3多模态雨 × QwQ/Omni；AGI海报黑幽默）.
+- Last focus: 2025-01 双戏眼 DeepSeek-R1 R1 moment／蒸馏全家桶／挤爆／API成本战争 × Operator预览订餐chores／空转烧额度／确认键刹车；K1.5＋Qwen2.5-VL／1M／Max＋o3-mini；AGI／为人类／终端工头营销黑话＋对齐恐慌三派互嘲（海报vs flop同夜）。
 
 ## Dec→Jan hooks (from 2022-12 rewrite)
 - **{{user}} Dec outline handwritten** — vow held for提纲; body/交正文 pressure into 元旦; public-mockery contract live (Nov mirror + SD「十一月的誓言，十二月的粘贴键」).
@@ -128,6 +128,17 @@
 - Do **not** spoil inside Dec floor (already avoided): DeepSeek-R1 / o3 / Operator / 2025 产品线等。
 
 
+
+
+
+## Jan→Feb hooks (from 2025-01 rewrite)
+- **戏眼双刺：** ① **DeepSeek-R1（Jan 20）** open reasoning／R1 moment——思维链可看；蒸馏全家桶；服务器挤爆；API 成本战争；东半球击穿西方时间线；反唇：便宜≠可靠、垃圾流量、单位成本幻觉、禁加冕「已取代闭源沉思」／禁低价＝奇点附赠。② **OpenAI Operator preview（Jan 23）**——ChatGPT 生态电脑点击员；订餐／chores；能点≠该点；确认键刹车；空转烧额度；预览≠交付；**终端工头／替你上班**营销黑话 vs flop 同夜。
+- **硬旁刺：** **Kimi K1.5** 同日推理（塞得下≠该塞）；**Qwen2.5-VL／1M／Max** late-Jan（多模态胡说＋长上下文军备＋电税）；**o3-mini（Jan 31）** 降价刀／mini 取代（便宜≠免检）。
+- **黑幽默：** AGI／临近／为人类／替你上班循环海报与挤爆／悬停确认同刷；暂停信派／流量派／用恐惧推销会员派三桌互嘲。
+- **薄记：** MiniMax Text-01／VL-01；Gemini 2.0 Flash GA；ChatGPT 前台≠每个 agent 法人；会员栏≠代劳保险。
+- **{{user}} 烫伤决定：** R1 三道失败题＋蒸馏对照＋七天价牌表；Operator 仅沙盒＋停字＋结账／邮箱／生产焊死＋空转＞三次撤权；K1.5／1M 密级；海报与flop并收藏；十月沙盒／八月 Accept-all／二月黑名单／花生续命。
+- Carry into Feb: 对照表是否还在；确认前两厘米是否还空；终端工头海报是否冲掉停字；蒸馏全家桶是否只晒成功；勿把代劳写成职责转移。
+- Do **not** spoil inside Jan floor (already avoided): Claude Code / Claude 3.7 / Grok 3 / GPT-4.5 / Manus 等后月产品。
 
 ## Feb→Mar hooks (from 2025-02 rewrite)
 - **戏眼爆点：** **Claude Code（Feb 24）× Claude 3.7 Sonnet hybrid** 同日套装——终端代理离开聊天框；Agentic CLI／接管仓库；可见拐弯≠真理；空转／烧额度／缺刹车；研究预览≠SLA；拒答墙对立＋护栏辩护。
