@@ -9,12 +9,15 @@
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
 - **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (戏眼：人格抢台 — Plus $20 / Bard JWST flop / Sydney storm; Poe·Notion side; LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude).
-- Last focus: 2023-02 full ST rewrite (Sydney/Bard reserved beat landed).
+- Last focus: 2022-12 craft rewrite on main; Dec→Jan hooks expanded.
 
 ## Dec→Jan hooks (from 2022-12 rewrite)
-- **{{user}} Dec outline handwritten** — vow held for提纲; body/交正文 pressure into 元旦; public-mockery contract live.
-- **ChatGPT** became 公共设施; peanut brake running; queue rising toward Plus month.
-- **Perplexity** Dec entrance; **DAN seeds**; **Niji** anime side current.
+- **{{user}} Dec outline handwritten** — vow held for提纲; body/交正文 pressure into 元旦; public-mockery contract live (Nov mirror + SD「十一月的誓言，十二月的粘贴键」).
+- **ChatGPT** became 公共设施; peanut brake: swallowed one「起个开头」; practicing 不主动 / 我不确定; queue still rising.
+- **Perplexity** entered Dec 7 — cited foil;角标「还卷着 / 未完全展开」; source-vs-sweet tension.
+- **DAN seeds** mid-Dec; Character.AI framed RP-shell on policy model; cat-and-mouse; {{user}} has not tried (fears 越狱=勇气).
+- **Niji** (Dec 20) anime prompt culture; MJ cover gag handwriting vs bubble.
+- Point-E Dec 16 cameo only (snow/point-cloud), not cast.
 
 ## Open threads (carry into 2023-03+; Mar floor already consumes some)
 - **{{user}} Plus trial (1 month from Feb)** — bridges into Mar GPT-4 upgrade beat; watch auto-renew / receipt anxiety.
