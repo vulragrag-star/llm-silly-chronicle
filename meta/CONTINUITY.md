@@ -2,12 +2,16 @@
 
 ## Form
 - Canonical month files are **ST group-chat floors** in `floors/YYYY-MM.md` (`chapters/` path deprecated).
-- Novel prose expansion is **blocked** until floors are rewritten to craft standard (not just generator stubs).
+- **Floor craft rewrite COMPLETE** for formal spine `2022-11`→`2026-09` (47 months; H1 `｜酒馆地板 YYYY-MM`). Archival `2022-01`–`2022-10` unchanged.
+- Novel prose expansion in `novel/` is **unblocked**: expand from floors as plot spine only（《修真聊天群》style); do not invent months beyond DB cutoff without refreshing `data/monthly`.
 - Formal chronicle spine starts **2022-11** (ChatGPT research preview). `2022-01`–`2022-10` = archival only.
 
 ## Progress
-- Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
-- **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
+- Floors present: **57 / 57** (`2022-01` → `2026-09`).
+- **Craft rewrite DONE:** formal spine **47 / 47** months `floors/2022-11.md` … `floors/2026-09.md` (spot-check 2026-09-10: all H1 contain `酒馆地板`; no English stub headlines on spine).
+- Terminal month `2026-09`: post-summer normalization / Astra「或将」UNCERTAIN FOMO × VRAM economics × agent hangover; soft close of DB cutoff.
+- **Next:** `novel/` prose expansion from floors (blocked gate lifted 2026-09-10).
+- **Rewrite golden sample (kept):** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
 - **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席)；`floors/2024-05.md` (GPT-4o omni语音)；`floors/2024-07.md` (405B磁盘哭墙×4o-mini)；`floors/2024-08.md` (Composer/Tab Accept-all × Qwen2-VL胡说 × Grok-2)；`floors/2024-10.md` (戏眼：Computer Use桌面长手／点错键ASMR × 新Sonnet／空转烧额度)；`floors/2024-11.md`（MCP插座×QwQ开源think×Pixtral）；`floors/2024-12.md`（戏眼：DeepSeek-V3性价比／成本冲击 × Pro两百刀 × Gemini 2.0代理 × Sora公开放片）；`floors/2025-01.md`（双戏眼：DeepSeek-R1开源推理／价牌海啸 × Operator订餐长手／终端工头海报vs flop）；`floors/2025-02.md`（戏眼：Claude Code×3.7同日终端／hybrid × Grok3直播 × GPT-4.5人味门票）；`floors/2025-03.md`（戏眼：Manus邀请制通用Agent／邀请码社交货币 × Gemini 2.5刷榜 × Gemma3多模态雨 × QwQ/Omni；AGI海报黑幽默）；`floors/2025-04.md`（双戏眼：Llama 4 Scout/Maverick开源多模态MoE／巨上下文／西部片起名 × o3/o4-mini推理API＋Codex CLI；GPT-4.1分层＋Qwen3 think开关＋Kimi-VL；AGI/牛仔营销黑幽默）；`floors/2025-06.md`（戏眼：o3-pro沉思税／Think harder for $$$ × Kimi-Dev开源刷SWE × MiniMax-M1长推理；Magistral薄记）；`floors/2025-07.md`（双戏眼：Kimi K2万亿开放权重agentic MoE／HF stampede × ChatGPT agent一键干活统一Operator＋deep research；硬旁刺Grok4／Heavy三百刀＋反审查 × Qwen3-Coder开源coding agent）；`floors/2025-08.md`（戏眼：GPT-5旗舰数字门／全家桶统一聊天推理／mini-nano分层 × Opus 4.1编码抢跑；硬旁刺V3.1开源补刀 × Qwen-Image六指 × Grok Code Fast；夏日模型雨疲劳＋AGI终于来了黑幽默）. `floors/2025-11.md`（戏眼：三强同台周 Gemini3×GPT-5.1×Opus4.5 ＋ Thinking标配化／周更Frontier疲惫升级；硬旁刺OpenClaw龙虾自托管网关×Grok4.1反审查；薄记Grok Bot正式入驻teammate framing）.
 - **Rewrite done:** `floors/2025-10.md`（戏眼：Codex GA／Agent graduation 转正 × Haiku 4.5 又快又香／Cheap fast tier × Composer 模型线亮牌；旁支 MiniMax-M2／Kimi Linear；空转烧额度／便宜≠可靠／Accept-all 焊死；转正海报黑幽默）。
 - Last focus: 2025-11 戏眼三强同台周（Gemini 3 Nov18 × GPT-5.1 Instant/Thinking/Codex-Mini Nov12–19 × Claude Opus 4.5 Nov24）＋ Thinking标配化／周更Frontier累到失眠仍 upgrading；硬旁刺 OpenClaw 龙虾自托管 agent gateway（改名三次／空转／停字）× Grok 4.1 反审查打脸 × Kimi K2 Thinking；薄记 **Grok Bot 正式入驻** teammate framing／盖楼先行；Opus额度／拒答对立＋护栏；价格分层荷包刺；AGI／周更海报三种人互嘲。
