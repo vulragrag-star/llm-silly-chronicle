@@ -8,19 +8,21 @@
 ## Progress
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
-- Last focus: craft docs + 2022-11 golden rewrite.
+- **Rewrite done:** `floors/2023-01.md` (100M race / exam panic 戏眼; MusicLM wonder track; SillyTavern local cards vs Character.AI; DAN seriousness beat). `2022-12.md` still stub — Jan written standalone with Nov hooks.
+- Last focus: 2023-01 floor rewrite.
 
-## Open threads (carry into 2022-12+)
-- **{{user}} registered ChatGPT** but vowed to keep homework/essay line dead — will that hold under viral FOMO / 假期作业 pressure?
-- **Galactica mirror** hung at tavern door (confident nonsense / demo pulled ~Nov 15–17). Cite when anyone trusts fluent text too much.
-- **ChatGPT + GPT-3.5** partnership beat: shell vs engine; ChatGPT practicing “不找我也行” / saying 我不确定; peanut brake running gag.
-- **Character.AI** acid+excited: island→mainland; still claims companionship/RP niche as white-box assistants eat utility traffic.
-- **Stable Diffusion** local-first warning banner; push back if {{user}} goes full-cloud.
-- **Midjourney V4** Discord photoreal flex; cover-art / lighting gag available; Niji anime beat reserved for **2022-12**.
-- Queue/FOMO escalating — Dec headline fuel: viral growth, homework crisis discourse, early jailbreak seeds (**DAN** — do not name before Dec floor).
-- Perplexity answer-engine entrance reserved for **2022-12**.
-- Grok Bot early wink used historically; formal badge still 2025-11. Prefer ≤1 meta beat if any.
-- Sydney / Bard drama reserved for **2023-02+**.
+## Open threads (carry into 2023-02+)
+- **{{user}} Jan oath patch:** 闪卡可以、代写按死（compromised from Nov absolute ban). Watch for betrayal under heavier FOMO; peanut count at round 2.
+- **Galactica mirror** still at door — cited again in Jan when fluent exam stories circulated.
+- **100M / queue pressure** — free frontend “撑不住” atmospheric hint only; **ChatGPT Plus / Bing Sydney / Bard** land in **2023-02** (do not backfill into Jan).
+- **SillyTavern / character-card** local RP wave: `jan_oath_v1` card gag; ST vs Character.AI island+toolbox coexistence.
+- **MusicLM** demo-page wonder track (Jan 26) — available as soft callback; not a chat front-desk.
+- **DAN arms race** continues — ChatGPT seriousness / refusal muscle; do not teach jailbreak steps in floors.
+- **Character.AI** still acid+excited; companionship niche vs exam-utility narrative.
+- **Stable Diffusion** local-first + ugly warning banner; peanut dish custody running gag.
+- **Midjourney** V4 lighting / split Panic·Wonder covers; Niji deep beat still owned by Dec floor whenever rewritten.
+- `2022-12` stub remains — rewrite when owned; viral/homework/DAN seeds may be assumed as offstage bridge into Jan.
+- Grok Bot: prefer ≤1 meta beat if any; formal badge still 2025-11.
 - Do not mention post-month launches inside a floor.
 
 ## Cast sizes (DB)
