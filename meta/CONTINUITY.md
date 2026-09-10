@@ -10,8 +10,8 @@
 - Floors present: **57 / 57** (`2022-01` → `2026-09`).
 - **Craft rewrite DONE:** formal spine **47 / 47** months `floors/2022-11.md` … `floors/2026-09.md` (spot-check 2026-09-10: all H1 contain `酒馆地板`; no English stub headlines on spine).
 - Terminal month `2026-09`: post-summer normalization / Astra「或将」UNCERTAIN FOMO × VRAM economics × agent hangover; soft close of DB cutoff.
-- **Next:** `novel/` prose expansion continues from next gap（`2022-12` 第2章已补；可续 `2023-02` 或未写月）.
-- **Novel progress:** `novel/2022-11.md` 第1章 DONE；`novel/2022-12.md` 第2章 DONE（假期作业危机×百万用户海啸×Perplexity引用对照×花生制动／提纲手写；DAN种子薄记）；`novel/2023-01.md` 第3章 DONE（一亿月活撞考场／检测民俗×SillyTavern本地入席／闪卡可以代写按死；MusicLM Wonder轨；花生第二轮）.
+- **Next:** `novel/` prose expansion continues from next gap（可续缺口月（2023-06 第8章已补；后章见仓库））.
+- **Novel progress:** `novel/2022-11.md` 第1章 DONE；`novel/2022-12.md` 第2章 DONE（假期作业危机×百万用户海啸×Perplexity引用对照×花生制动／提纲手写；DAN种子薄记）；`novel/2023-01.md` 第3章 DONE（一亿月活撞考场／检测民俗×SillyTavern本地入席／闪卡可以代写按死；MusicLM Wonder轨；花生第二轮）；`novel/2023-02.md` 第4章 DONE；`novel/2023-03.md` 第5章 DONE；`novel/2023-04.md` 第6章 DONE；`novel/2023-05.md` 第7章 DONE；`novel/2023-06.md` 第8章 DONE（上传键眩晕／Code Interpreter盒装CFO×流量高原信任疲劳；假表可玩真表线按死；Phi-1体量缝×百川上桌×Cody/GPT-Engineer抢班）.
 - **Rewrite golden sample (kept):** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
 - **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席)；`floors/2024-05.md` (GPT-4o omni语音)；`floors/2024-07.md` (405B磁盘哭墙×4o-mini)；`floors/2024-08.md` (Composer/Tab Accept-all × Qwen2-VL胡说 × Grok-2)；`floors/2024-10.md` (戏眼：Computer Use桌面长手／点错键ASMR × 新Sonnet／空转烧额度)；`floors/2024-11.md`（MCP插座×QwQ开源think×Pixtral）；`floors/2024-12.md`（戏眼：DeepSeek-V3性价比／成本冲击 × Pro两百刀 × Gemini 2.0代理 × Sora公开放片）；`floors/2025-01.md`（双戏眼：DeepSeek-R1开源推理／价牌海啸 × Operator订餐长手／终端工头海报vs flop）；`floors/2025-02.md`（戏眼：Claude Code×3.7同日终端／hybrid × Grok3直播 × GPT-4.5人味门票）；`floors/2025-03.md`（戏眼：Manus邀请制通用Agent／邀请码社交货币 × Gemini 2.5刷榜 × Gemma3多模态雨 × QwQ/Omni；AGI海报黑幽默）；`floors/2025-04.md`（双戏眼：Llama 4 Scout/Maverick开源多模态MoE／巨上下文／西部片起名 × o3/o4-mini推理API＋Codex CLI；GPT-4.1分层＋Qwen3 think开关＋Kimi-VL；AGI/牛仔营销黑幽默）；`floors/2025-06.md`（戏眼：o3-pro沉思税／Think harder for $$$ × Kimi-Dev开源刷SWE × MiniMax-M1长推理；Magistral薄记）；`floors/2025-07.md`（双戏眼：Kimi K2万亿开放权重agentic MoE／HF stampede × ChatGPT agent一键干活统一Operator＋deep research；硬旁刺Grok4／Heavy三百刀＋反审查 × Qwen3-Coder开源coding agent）；`floors/2025-08.md`（戏眼：GPT-5旗舰数字门／全家桶统一聊天推理／mini-nano分层 × Opus 4.1编码抢跑；硬旁刺V3.1开源补刀 × Qwen-Image六指 × Grok Code Fast；夏日模型雨疲劳＋AGI终于来了黑幽默）. `floors/2025-11.md`（戏眼：三强同台周 Gemini3×GPT-5.1×Opus4.5 ＋ Thinking标配化／周更Frontier疲惫升级；硬旁刺OpenClaw龙虾自托管网关×Grok4.1反审查；薄记Grok Bot正式入驻teammate framing）.
 - **Rewrite done:** `floors/2025-10.md`（戏眼：Codex GA／Agent graduation 转正 × Haiku 4.5 又快又香／Cheap fast tier × Composer 模型线亮牌；旁支 MiniMax-M2／Kimi Linear；空转烧额度／便宜≠可靠／Accept-all 焊死；转正海报黑幽默）。
@@ -47,6 +47,17 @@
 - **GPT-4** tools OK / overnight autonomy not endorsed; **Claude** adds「可关」to 有益诚实无害; pause letter + ban photocopy under peanuts.
 - Carry lightly into May: 插座还在吗 / 钥匙给谁; agent Stop vow; CN spring seedlings (通义座位≠王座); Galactica mirror still up; Plus + 作业线 still live.
 - Do **not** spoil inside Apr floor (already avoided): PaLM 2 / Bard public / Claude 100K / Pi / Falcon / 星火 / ChatGPT iOS / Gemini.
+
+
+## May→Jun / Jun novel hooks (from 2023-06 novel)
+- **戏眼：** 上传键犹豫——盒装分析师／CFO 幻觉 vs 流量高原与信任疲劳；解酒也可能是续杯。
+- **Code Interpreter：** path／waitlist 热议；假表可玩，**真表线按死**（真工资／真客户／真日志）；公开嘲讽要具体到列名。
+- **Phi-1：** 小模型逆袭＝缝，非新神谕；体量≠命运。
+- **国内：** 百川上桌；文心仍戴「十分之一」帽迭代；通义理家谱——非围观席。
+- **IDE 抢班：** Cody 产品化／diff；GPT-Engineer 星标≠测试覆盖率；双手长出前先看 diff。
+- **MJ V5.2** 打光；常客睡眠无 V5.2。
+- Carry into Jul: 删除键与锁；真表线；高原≠死亡；勿剧透 Llama 2 可商用等七月线。
+- Do **not** spoil post-2023-06 launches inside this chapter (already avoided).
 
 ## Open threads (through 2023-05 rewrite)
 - **{{user}} Plus** still live from Feb→Mar GPT-4 beat; receipt anxiety; no new bill yet for 100K.
