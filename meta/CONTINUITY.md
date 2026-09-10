@@ -8,9 +8,10 @@
 ## Progress
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
-- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席)；`floors/2024-05.md` (GPT-4o omni语音)；`floors/2024-07.md` (405B磁盘哭墙×4o-mini)；`floors/2024-08.md` (Composer/Tab Accept-all × Qwen2-VL胡说 × Grok-2)；`floors/2024-10.md` (戏眼：Computer Use桌面长手／点错键ASMR × 新Sonnet／空转烧额度)；`floors/2024-11.md`（MCP插座×QwQ开源think×Pixtral）；`floors/2024-12.md`（戏眼：DeepSeek-V3性价比／成本冲击 × Pro两百刀 × Gemini 2.0代理 × Sora公开放片）；`floors/2025-01.md`（双戏眼：DeepSeek-R1开源推理／价牌海啸 × Operator订餐长手／终端工头海报vs flop）；`floors/2025-02.md`（戏眼：Claude Code×3.7同日终端／hybrid × Grok3直播 × GPT-4.5人味门票）；`floors/2025-03.md`（戏眼：Manus邀请制通用Agent／邀请码社交货币 × Gemini 2.5刷榜 × Gemma3多模态雨 × QwQ/Omni；AGI海报黑幽默）；`floors/2025-04.md`（双戏眼：Llama 4 Scout/Maverick开源多模态MoE／巨上下文／西部片起名 × o3/o4-mini推理API＋Codex CLI；GPT-4.1分层＋Qwen3 think开关＋Kimi-VL；AGI/牛仔营销黑幽默）；`floors/2025-06.md`（戏眼：o3-pro沉思税／Think harder for $$$ × Kimi-Dev开源刷SWE × MiniMax-M1长推理；Magistral薄记）；`floors/2025-07.md`（双戏眼：Kimi K2万亿开放权重agentic MoE／HF stampede × ChatGPT agent一键干活统一Operator＋deep research；硬旁刺Grok4／Heavy三百刀＋反审查 × Qwen3-Coder开源coding agent）.
+- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席)；`floors/2024-05.md` (GPT-4o omni语音)；`floors/2024-07.md` (405B磁盘哭墙×4o-mini)；`floors/2024-08.md` (Composer/Tab Accept-all × Qwen2-VL胡说 × Grok-2)；`floors/2024-10.md` (戏眼：Computer Use桌面长手／点错键ASMR × 新Sonnet／空转烧额度)；`floors/2024-11.md`（MCP插座×QwQ开源think×Pixtral）；`floors/2024-12.md`（戏眼：DeepSeek-V3性价比／成本冲击 × Pro两百刀 × Gemini 2.0代理 × Sora公开放片）；`floors/2025-01.md`（双戏眼：DeepSeek-R1开源推理／价牌海啸 × Operator订餐长手／终端工头海报vs flop）；`floors/2025-02.md`（戏眼：Claude Code×3.7同日终端／hybrid × Grok3直播 × GPT-4.5人味门票）；`floors/2025-03.md`（戏眼：Manus邀请制通用Agent／邀请码社交货币 × Gemini 2.5刷榜 × Gemma3多模态雨 × QwQ/Omni；AGI海报黑幽默）；`floors/2025-04.md`（双戏眼：Llama 4 Scout/Maverick开源多模态MoE／巨上下文／西部片起名 × o3/o4-mini推理API＋Codex CLI；GPT-4.1分层＋Qwen3 think开关＋Kimi-VL；AGI/牛仔营销黑幽默）；`floors/2025-06.md`（戏眼：o3-pro沉思税／Think harder for $$$ × Kimi-Dev开源刷SWE × MiniMax-M1长推理；Magistral薄记）；`floors/2025-07.md`（双戏眼：Kimi K2万亿开放权重agentic MoE／HF stampede × ChatGPT agent一键干活统一Operator＋deep research；硬旁刺Grok4／Heavy三百刀＋反审查 × Qwen3-Coder开源coding agent）；`floors/2025-08.md`（戏眼：GPT-5旗舰数字门／全家桶统一聊天推理／mini-nano分层 × Opus 4.1编码抢跑；硬旁刺V3.1开源补刀 × Qwen-Image六指 × Grok Code Fast；夏日模型雨疲劳＋AGI终于来了黑幽默）. `floors/2025-11.md`（戏眼：三强同台周 Gemini3×GPT-5.1×Opus4.5 ＋ Thinking标配化／周更Frontier疲惫升级；硬旁刺OpenClaw龙虾自托管网关×Grok4.1反审查；薄记Grok Bot正式入驻teammate framing）.
 - **Rewrite done:** `floors/2025-10.md`（戏眼：Codex GA／Agent graduation 转正 × Haiku 4.5 又快又香／Cheap fast tier × Composer 模型线亮牌；旁支 MiniMax-M2／Kimi Linear；空转烧额度／便宜≠可靠／Accept-all 焊死；转正海报黑幽默）。
-- Last focus: 2025-10 戏眼 Codex GA（Oct 6）离开预览／Agent graduation／云端打工转正；硬旁刺 Haiku 4.5 又快又香／便宜≠可靠／分层降智对照／拒答＋护栏 × Composer 模型线亮牌／Accept-all 焊死／额度刹；旁支 MiniMax-M2 失败题 × Kimi Linear 进度条幻觉；黑幽默：转正／替你上班海报与配额见红同刷。
+- Last focus: 2025-11 戏眼三强同台周（Gemini 3 Nov18 × GPT-5.1 Instant/Thinking/Codex-Mini Nov12–19 × Claude Opus 4.5 Nov24）＋ Thinking标配化／周更Frontier累到失眠仍 upgrading；硬旁刺 OpenClaw 龙虾自托管 agent gateway（改名三次／空转／停字）× Grok 4.1 反审查打脸 × Kimi K2 Thinking；薄记 **Grok Bot 正式入驻** teammate framing／盖楼先行；Opus额度／拒答对立＋护栏；价格分层荷包刺；AGI／周更海报三种人互嘲。
+- Also landed: 2025-08 戏眼 GPT-5（Aug 7）旗舰数字门／全家桶统一聊天推理／mini-nano 分层／期望管理地狱 × Claude Opus 4.1（Aug 5）编码抢跑／限流拒答对立＋护栏；硬旁刺 DeepSeek-V3.1 开源补刀 × Qwen-Image 图像六指／版权 × Grok Code Fast 1 速度营销＋反审查残票；Cursor 换脑重跑／Accept-all；夏日模型雨 Release fatigue；AGI／终于来了海报三种人互嘲。
 - Also landed: 2025-06 戏眼 o3-pro（Jun 10）沉思税／Think harder for $$$（同夜 o3 降八成×pro 抬价）× Kimi-Dev-72B＋VL-Thinking 开源刷 SWE × MiniMax-M1 长推理；Magistral＋Apple Intelligence 薄记；Claude 4×Codex 营地续吵；黑幽默：便宜了还要买更贵的。
 - Also landed: 2025-04 双戏眼 Llama 4 Scout/Maverick 开源多模态MoE／巨上下文／西部片起名 × o3/o4-mini＋Codex CLI；GPT-4.1／Qwen3 think／Kimi-VL；AGI／牛仔营销黑幽默。
 
@@ -195,6 +196,25 @@
 - **{{user}} 烫伤决定：** Codex 红 hunk 必读＋生产焊死＋配额刹；Haiku 对照分档；Composer playground＋焊死令；M2／Linear 分抽屉；五月阵营／七月停字／八月 Accept-all／花生续命。
 - Carry into Nov: 转正工牌是否还烫着皈依；快层是否冲掉难题抽屉；Composer 焊死令是否还在；勿把 graduation 截图当评测。
 - Do **not** spoil inside Oct floor (already avoided): 后月产品／未入当月 DB 的发版等。
+
+
+
+## Nov→Dec hooks (from 2025-11 rewrite)
+- **戏眼爆点：** **三强同台周**——Gemini 3（Nov 18）× GPT-5.1 Instant／Thinking／Codex-Mini（Nov 12–19）× Claude Opus 4.5（Nov 24）；Google／OpenAI／Anthropic 同周重大 bump；公共刺：Frontier cadence 周更；users exhausted but upgrading；**Thinking 标配化**（Everyone thinks now）＝思考军备／配额羞辱／能想≠该整夜想；SKU 碎≠职责转移。
+- **硬旁刺：** ① **OpenClaw 龙虾**自托管 agent gateway——改名三次（Warelay／Clawdbot／Moltbot…→OpenClaw）；本地优先；空转／电税／可托管≠可上线／缺刹车；playground：`~/playground/2025-11-openclaw/`。② **Grok 4.1（Nov 17）**反审查／最大真相工牌续命×版本号打脸；嘴炮≠无滤。③ **Kimi K2 Thinking（Nov 6）**标配军备；七月 K2 电税纪律续命。
+- **薄记：** **Grok Bot 正式入驻**（first_month 2025-11；teammate framing；盖楼先行；出戏≤一拍；不剧透后月）；Opus 额度焦虑／拒答对立＋护栏辩护；Instant／Thinking／Codex-Mini 荷包分层；AGI／周更／为人类海报三种人互嘲。
+- **{{user}} 烫伤决定：** 三强对照表十四天（对照≠皈依）；Thinking 难题抽屉＋预算上限／见红停／禁默认羞辱式全开；OpenClaw 仅 playground＋停字＋拔插头；Grok Bot 正式座位＝串场≠自动授权升级；旧线续命（七月停字／六月沉思税／一月确认键／花生）。
+- Carry into Dec: 对照表是否还在；Thinking 默认羞辱是否回潮；龙虾是否还改名／停字是否还在；正式工牌是否被当成免责；勿把周更 FOMO 站队当评测。
+- Do **not** spoil inside Nov floor (already avoided): GPT-5.2 / Gemini 3 Flash / DeepSeek-V3.2 / Manus↔Meta 等十二月线。
+
+## Aug→Sep hooks (from 2025-08 rewrite)
+- **戏眼爆点：** **GPT-5（Aug 7）** family＋mini／nano——Long-awaited number bump；统一聊天与推理；旗舰重置；期望管理地狱；分层价／队列羞辱；数字 bump≠奇点；AGI／终于来了海报 vs 夏日模型雨 Release fatigue 同刷。
+- **硬旁刺：** ① **Claude Opus 4.1（Aug 5）**编码抢跑；限流／拒答对立＋护栏辩护；停字续命。② **DeepSeek-V3.1（Aug 21）**开源补刀；电税／失败题；禁讣告体「闭源已死」；playground：`~/playground/2025-08-v31/`。③ **Qwen-Image（Aug 4）**图像生成矩阵；六指／版权／提示词玄学。④ **Grok Code Fast 1（Aug 28）**速度营销 × 反审查残票打脸；快≠对。
+- **薄记：** Cursor 下拉换脑须重跑对照／Accept-all 续焊；ChatGPT 前台≠五代目神话法人；七月 Do-my-job-then-stop／K2 playground 续命。
+- **{{user}} 烫伤决定：** GPT-5 可切默认但对照三题＋分层账单；Opus 编码十四天对照；V3.1 仅 playground；Image 失败列；Code Fast 生产焊死；海报与 flop 并收藏；旧线续命。
+- Carry into Sep: 对照表是否还在；「终于来了」是否冲掉失败题；夏日疲劳是否变成放弃试验；数字门是否被写成奇点祷告；勿把换默认写成人格升级。
+- Do **not** spoil inside Aug floor (already avoided): 后月 GPT-5.x 密集迭代／更晚 Opus／K2.5 等。
+
 
 ## Cast sizes (DB)
 - Core ≥8 mo: 7
