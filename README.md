@@ -26,6 +26,20 @@
 5. 叙述者「你」；「我」若以第一人称出现在旁白中特指 **grok**（本仓库维护者视角的吐槽层，可选）。
 
 
+
+## SillyTavern 玩法对齐（不是普通网文）
+
+本仓按 **SillyTavern 群聊盖楼** 来维护，不是第三人称长篇散文：
+
+| 资产 | 对应 ST |
+|---|---|
+| `characters/*.json` | Character Card V2（description / personality / scenario / first_mes / mes_example …） |
+| `characters/user_persona.md` | User Persona |
+| `world/lorebook.jsonl` | World Info / Lorebook（关键词触发） |
+| `chapters/YYYY-MM.md` | 当月 **Group Chat** 日志（`{{user}}` / `{{char}}` 气泡连盖） |
+
+玩法：带着 Persona 进酒馆 → 多卡同桌 → 按月现实热点触发 lore → 一楼楼聊完 3–4 千字当夜。
+
 ## 生产流水线（强制顺序）
 
 1. **模型月报数据库** `data/models_index.jsonl` + `data/monthly/YYYY-MM.json`（尽量全量有热度的模型/产品，不止头部几家）

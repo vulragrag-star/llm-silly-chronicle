@@ -28,3 +28,5 @@ Identity: Jason Wang <vulragrag@gmail.com>
 | Months completed | 57 (2022-01 … 2026-09) |
 | Entities in index | 180 |
 | Scope | global + CN; LLMs, agents, IDEs, image/video/audio, platforms |
+
+- [ ] ST Card V2 JSON + lorebook + group-chat chapters (pivoted)
