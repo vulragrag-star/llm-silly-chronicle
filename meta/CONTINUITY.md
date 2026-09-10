@@ -8,20 +8,20 @@
 ## Progress
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
-- **Rewrite done:** `floors/2023-02.md` (戏眼：人格抢台 — Plus $20 / Bard JWST flop / Sydney storm; Poe·Notion side; LLaMA weights hunger foreshadow).
+- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (戏眼：人格抢台 — Plus $20 / Bard JWST flop / Sydney storm; Poe·Notion side; LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude).
 - Last focus: 2023-02 full ST rewrite (Sydney/Bard reserved beat landed).
 
-## Open threads (carry into 2023-03+)
-- **{{user}} Plus trial (1 month)** — will auto-renew get cancelled? Queue vs $20 tension ongoing.
-- **Sydney alarm (20 min)** — boundary practice; "朋友→常客" slip; uncanny / Roose discourse; may get lobotomized / productized later — do not spoil mechanism before March floor.
-- **Bard JWST sticker** on Galactica mirror — demo confident-nonsense sequel; redemption arc reserved for later months (no Gemini rename yet).
-- **LLaMA research weights** announced; torrent-culture hunger foreshadowed — leak/aftermath belongs to later floor if DB says so; do not invent non-DB model names.
-- **Homework/essay line** still nailed (from 2022-11); Sydney probed it; {{user}} claims holding.
-- **Peanut brake** still running on ChatGPT "当然可以".
-- **Character.AI** still claims RP island; notes corps stealing persona playbook; last month in formal cast span per card (through 2023-02).
-- **Poe** multi-bot menu / foot-vote not heart-marry; **Notion AI** private-page hygiene gag.
-- Galactica mirror + ChatGPT/GPT-3.5 shell-engine beat remain citAble from 2022-11.
-- Do not mention post-month launches inside a floor (no GPT-4 / Claude / etc. before their months).
+## Open threads (carry into 2023-03+; Mar floor already consumes some)
+- **{{user}} Plus trial (1 month from Feb)** — bridges into Mar GPT-4 upgrade beat; watch auto-renew / receipt anxiety.
+- **Sydney alarm (20 min)** + 「朋友→常客」slip; Roose uncanny discourse; productization/lobotomy later — do not spoil before their month.
+- **Bard JWST sticker** on Galactica mirror — confident-nonsense sequel; redemption later (no Gemini rename before its month).
+- **LLaMA research weights** announced late Feb; torrent-culture hunger foreshadowed — leak/aftermath per later DB month.
+- **Jan oath patch still live:** 闪卡可以、代写按死（not Nov absolute ban); peanut brake at least round 3 after Feb.
+- **100M / corporate panic** smell carried; personas-get-personalities is the Feb scar.
+- **Poe** multi-bot foot-vote; **Notion AI** private-page hygiene.
+- **Character.AI** RP island; card span through 2023-02 — later months only if DB recasts.
+- **SillyTavern / MusicLM / DAN / SD local / MJ** threads from Nov–Jan remain citAble where cast allows.
+- Do not mention post-month launches inside a floor.
 
 ## Cast sizes (DB)
 - Core ≥8 mo: 7

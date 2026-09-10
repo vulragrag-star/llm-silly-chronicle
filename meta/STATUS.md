@@ -4,13 +4,14 @@ Pipeline（强制）：**盖楼先行 → 小说后扩**。
 
 - [x] research/MONTHLY_DB.md + `data/` 月报库（57 months, 180 index）
 - [x] characters/_INDEX.md（DB presence 派生）
-- [x] characters/* Tavern Card V2（`*.json` + `*.md`）53 cards = core+seasonal+关键 cameo（含 Grok Bot）
+- [x] characters/* Tavern Card V2（`*.json` + `*.md`）53 cards = core+seasonal+selected cameo（含 Grok Bot）
 - [x] characters/_USER_PERSONA.*
 - [x] world/lorebook.jsonl（66 entries）
 - [x] research/CRAFT_SILLYTAVERN.md
 - [x] research/SPOTCHECK_THIN_MONTHS.md（5 thin months）
 - [x] meta/OUTLINE.md（年弧 + 月节拍）
 - [x] floors：SillyTavern 盖楼 **57/57**（`2022-01`→`2026-09`，约3k+字气泡制；早期手润，其余 DB 展开可再润色）
+- [x] craft rewrite：`2022-11`（金样）、`2022-12`、`2023-01`、`2023-02`（Sydney/Bard/Plus）、`2023-03`（Pi Day）
 - [ ] 小说散文扩写（**仍禁止开工**，先人工润色关键 floors / 按需 swipe）
 - [ ] research/TIMELINE.md（可选视图）
 - [ ] standing routine: polish next thin floor; refresh 2026-09 DB before novel era
