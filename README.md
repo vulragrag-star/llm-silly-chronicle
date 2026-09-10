@@ -54,13 +54,20 @@
 
 1. **模型月报数据库** `data/models_index.jsonl` + `data/monthly/YYYY-MM.json`（尽量全量有热度的模型/产品，不止头部几家）
 2. **从数据库派生角色卡** `characters/`（出场名单由当月 `cast_candidates` 与累计热度决定）
-3. **按月连载正文** `chapters/YYYY-MM.md`
+3. **按月盖楼 floors** `chapters/YYYY-MM.md`（SillyTavern 群聊气泡，主交付）
+4. **全部 floors 完成后**再扩小说散文（非现在）
 
-不要跳过第 1 步直接定死小圈子人设。
+不要跳过第 1 步直接定死小圈子人设；**不要**在 floors 完成前写小说腔长章。
 
 ## 状态
 
-脚手架搭建中；调研与前几章并行生产。见 `meta/STATUS.md`。
+**盖楼先行 → 小说后扩。** 见 `meta/STATUS.md`。
+
+- 月报 DB：`data/` + `research/MONTHLY_DB.md`
+- 角色卡：`characters/*.json`（Tavern Card V2）+ `*.md`
+- Lorebook：`world/lorebook.jsonl`
+- 盖楼 floors：`chapters/YYYY-MM.md`（`**{{user}}:**` / `**角色:**` 气泡）
+- 小说散文：等全部 floors 完成后再扩（修真聊天群式：聊天为骨、小说为肉）
 
 ## License
 
