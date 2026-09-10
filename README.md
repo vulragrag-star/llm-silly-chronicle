@@ -25,6 +25,15 @@
 4. 作者身份提交：Jason Wang \<vulragrag@gmail.com\> / `vulragrag-star`。
 5. 叙述者「你」；「我」若以第一人称出现在旁白中特指 **grok**（本仓库维护者视角的吐槽层，可选）。
 
+
+## 生产流水线（强制顺序）
+
+1. **模型月报数据库** `data/models_index.jsonl` + `data/monthly/YYYY-MM.json`（尽量全量有热度的模型/产品，不止头部几家）
+2. **从数据库派生角色卡** `characters/`（出场名单由当月 `cast_candidates` 与累计热度决定）
+3. **按月连载正文** `chapters/YYYY-MM.md`
+
+不要跳过第 1 步直接定死小圈子人设。
+
 ## 状态
 
 脚手架搭建中；调研与前几章并行生产。见 `meta/STATUS.md`。
