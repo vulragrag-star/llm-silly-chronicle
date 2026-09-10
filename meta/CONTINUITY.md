@@ -8,8 +8,8 @@
 ## Progress
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
-- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席).
-- Last focus: 2024-06 dual-blade rewrite (Sonnet workhorse + Apple Intelligence / TITLE_STYLE H1).
+- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席).
+- Last focus: 2024-04 Llama 3 home-lab海啸 rewrite (open-weight jump × Phi-3 / TITLE_STYLE H1); also 2024-06 dual-blade landed.
 
 ## Dec→Jan hooks (from 2022-12 rewrite)
 - **{{user}} Dec outline handwritten** — vow held for提纲; body/交正文 pressure into 元旦; public-mockery contract live (Nov mirror + SD「十一月的誓言，十二月的粘贴键」).
@@ -74,6 +74,16 @@
 - Carry into Feb: 商场灯仍亮；五问是否还在；路径海报 vs 失败复述；Consolidation／等 frontier 的空虚感；勿把「精选」当评测。
 - Do **not** spoil inside Jan floor (already avoided): Sora / Gemini 1.5 1M / Gemma / Mistral Large / Claude 3 / GPT-4o 等。
 
+
+
+## Apr→May hooks (from 2024-04 rewrite)
+- **戏眼爆点：** Llama 3 8B/70B (Apr 18) 开放权重质量跃迁——「接近 GPT-4 阶级」拖进客厅；本地党海啸；HF 微调成灾（褒义）；公共刺点：强不必只由登录墙颁发；逼近≠加冕。
+- **同月硬刺：** Phi-3 mini/medium 小钢炮——小参数凿评测墙，扇吨位信仰耳光；刷分≠架构决议。
+- **旁支≤30%：** Mixtral 8x22B 对照；Command R+ 企业 RAG；Amazon Q GA 会议室键（≠同事默认大脑）；MiniMax abab6.5 中文迭代（角色戏标戏）；Udio 音乐旁听／版权阴云。
+- **{{user}} 烫伤决定：** 8B 三道失败题先行→再 70B 仅 `~/playground/2024-04-llama3/`；禁讣告体「本地已取代」；禁来路不明无审查微调；企业键另抽屉；Sonnet 七天对照／Devin stop／Store 五问／二月黑名单／十一月花生续命。
+- **冲突轴：** 开源复兴（选择权/可关进程）vs Claude 3 尖刻（责任写你名字／关进程≠对齐完毕）。
+- Carry into May: playground 是否还在；策展 vs 吞咽；风扇声≠信仰；勿剧透 GPT-4o／omni 等（留给五月）。
+- Do **not** spoil inside Apr floor (already avoided): GPT-4o / Claude 3.5 / Llama 3.1 405B / o1 / Apple Intelligence 等。
 
 ## Jun→Jul hooks (from 2024-06 rewrite)
 - **戏眼双刃：** ① **Claude 3.5 Sonnet (Jun 20) + Artifacts**——编码/写作默认位一夜易主；侧栏占屏；工作马/打工主力公共刺点；可运行≠可上线；责任仍在键盘前。② **Apple Intelligence @ WWDC**——On-device + Private Cloud Compute；「Not training on you」隐私牌；消费者/亲戚群合法入席（入席≠加冕≠免检）。
