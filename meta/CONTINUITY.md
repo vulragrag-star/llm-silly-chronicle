@@ -8,8 +8,8 @@
 ## Progress
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
-- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席)；`floors/2024-05.md` (GPT-4o omni语音)；`floors/2024-07.md` (405B磁盘哭墙×4o-mini)；`floors/2024-08.md` (Composer/Tab Accept-all × Qwen2-VL胡说 × Grok-2)；`floors/2024-10.md` (戏眼：Computer Use桌面长手／点错键ASMR × 新Sonnet／空转烧额度)；`floors/2024-11.md`（MCP插座×QwQ开源think×Pixtral）；`floors/2024-12.md`（戏眼：DeepSeek-V3性价比／成本冲击 × Pro两百刀 × Gemini 2.0代理 × Sora公开放片）；`floors/2025-01.md`（双戏眼：DeepSeek-R1开源推理／价牌海啸 × Operator订餐长手／终端工头海报vs flop）；`floors/2025-02.md`（戏眼：Claude Code×3.7同日终端／hybrid × Grok3直播 × GPT-4.5人味门票）；`floors/2025-03.md`（戏眼：Manus邀请制通用Agent／邀请码社交货币 × Gemini 2.5刷榜 × Gemma3多模态雨 × QwQ/Omni；AGI海报黑幽默）.
-- Last focus: 2025-01 双戏眼 DeepSeek-R1 R1 moment／蒸馏全家桶／挤爆／API成本战争 × Operator预览订餐chores／空转烧额度／确认键刹车；K1.5＋Qwen2.5-VL／1M／Max＋o3-mini；AGI／为人类／终端工头营销黑话＋对齐恐慌三派互嘲（海报vs flop同夜）。
+- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席)；`floors/2024-05.md` (GPT-4o omni语音)；`floors/2024-07.md` (405B磁盘哭墙×4o-mini)；`floors/2024-08.md` (Composer/Tab Accept-all × Qwen2-VL胡说 × Grok-2)；`floors/2024-10.md` (戏眼：Computer Use桌面长手／点错键ASMR × 新Sonnet／空转烧额度)；`floors/2024-11.md`（MCP插座×QwQ开源think×Pixtral）；`floors/2024-12.md`（戏眼：DeepSeek-V3性价比／成本冲击 × Pro两百刀 × Gemini 2.0代理 × Sora公开放片）；`floors/2025-01.md`（双戏眼：DeepSeek-R1开源推理／价牌海啸 × Operator订餐长手／终端工头海报vs flop）；`floors/2025-02.md`（戏眼：Claude Code×3.7同日终端／hybrid × Grok3直播 × GPT-4.5人味门票）；`floors/2025-03.md`（戏眼：Manus邀请制通用Agent／邀请码社交货币 × Gemini 2.5刷榜 × Gemma3多模态雨 × QwQ/Omni；AGI海报黑幽默）；`floors/2025-07.md`（双戏眼：Kimi K2万亿开放权重agentic MoE／HF stampede × ChatGPT agent一键干活统一Operator＋deep research；硬旁刺Grok4／Heavy三百刀＋反审查 × Qwen3-Coder开源coding agent）.
+- Last focus: 2025-07 双戏眼 Kimi K2 万亿开放权重 agentic MoE／HF stampede／电税 × ChatGPT agent 一键干活统一 Operator＋deep research／会员分层／烧额度；硬旁刺 Grok 4／Heavy $300 会员墙＋反审查打脸 × Qwen3-Coder 开源 agentic coding；Operator 落日／确认键；Claude Code 停字；AGI／替你上班海报三种人互嘲。
 
 ## Dec→Jan hooks (from 2022-12 rewrite)
 - **{{user}} Dec outline handwritten** — vow held for提纲; body/交正文 pressure into 元旦; public-mockery contract live (Nov mirror + SD「十一月的誓言，十二月的粘贴键」).
@@ -154,6 +154,15 @@
 - **{{user}} 烫伤决定：** Manus 仅 `~/playground/2025-03-manus/`；停字必写；生产／邮箱／支付焊死；邀请码≠免检／≠人格升级；神迹与翻车两列收藏；空转＞三次撤权；试用见红停；刷榜／胡说／AGI海报皆嫌疑人；二月 Claude Code playground 分抽屉续命；作业／真表／花生仍 live。
 - Carry into Apr: 求码群是否还在吵；停字是否被海报熏没；两列收藏是否缺列；多模态失败题是否还做；勿把「办完」写成职责转移。
 - Do **not** spoil inside Mar floor (already avoided): Manus public / Claude 4 / Llama 4 / o3-o4 / GPT-4.1 / Codex CLI 等后月产品。
+
+
+## Jul→Aug hooks (from 2025-07 rewrite)
+- **戏眼双刺：** ① **Kimi K2（Jul 11）** trillion-scale MoE open-weight agentic——HF stampede；Born to be agentic；反唇：电税／硬盘／运维税、失败题、可下载≠可上线、stampede≠加冕；playground：`~/playground/2025-07-k2/`。② **ChatGPT agent（Jul 17）** 统一 Operator＋deep research——Do-my-job button；Agents productized inside chat UIs；会员分层／烧额度／能缝合≠该全权；**Do-my-job-then-stop**；Operator 悬停合集并夹。
+- **硬旁刺：** ① **Grok 4／Heavy（Jul 9）**「世界最强」营销 × **SuperGrok Heavy $300/mo** 会员墙 × 反审查／最大真相工牌；嘴炮≠无滤／幻觉／红线；四秒耻簿。② **Qwen3-Coder（Jul 22）** 开源 agentic coding／家谱黑话≠`git diff`；`~/playground/2025-07-qwen3-coder/`。
+- **薄记：** Operator 预览站落日气味／确认键续命；Claude Code 停字／拒答对立＋护栏辩护；分抽屉；AGI／替你上班海报三种人互嘲。
+- **{{user}} 烫伤决定：** K2／agent／coder 分 playground；停字焊死；支付／生产焊死；三百刀不交或写清入口≠镀金；stampede／一键干活／最强海报皆嫌疑人；一月确认键／二月停字／三月求码≠人格／花生续命。
+- Carry into Aug: 进度条是否还堵；按钮旁停字是否还在；三百刀灯是否还刺；Operator 落日是否被假装从未点错；开放与产品化 Agent 两河勿混成「已替你上班」。
+- Do **not** spoil inside Jul floor (already avoided): 后月产品／K2.5／更晚发版等。
 
 ## Cast sizes (DB)
 - Core ≥8 mo: 7
