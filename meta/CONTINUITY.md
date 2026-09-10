@@ -9,7 +9,7 @@
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
 - **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席)；`floors/2024-05.md` (GPT-4o omni语音)；`floors/2024-07.md` (405B磁盘哭墙×4o-mini)；`floors/2024-08.md` (Composer/Tab Accept-all × Qwen2-VL胡说 × Grok-2)；`floors/2024-10.md` (戏眼：Computer Use桌面长手／点错键ASMR × 新Sonnet／空转烧额度).
-- Last focus: 2024-10 Computer Use桌面长手＋价格／配额刺（空转烧额度／荷包赞助合集）；兼记 2024-08 Composer/VL craft landed.
+- Last focus: 2024-08 Composer/Tab Accept-all × Qwen2-VL × Grok-2反审查出道／叛逆营销打脸 × Claude拒答对立；pricing+censorship matrix.
 
 ## Dec→Jan hooks (from 2022-12 rewrite)
 - **{{user}} Dec outline handwritten** — vow held for提纲; body/交正文 pressure into 元旦; public-mockery contract live (Nov mirror + SD「十一月的誓言，十二月的粘贴键」).
@@ -95,10 +95,10 @@
 - Do **not** spoil inside Jun floor (already avoided): Llama 3.1 / GPT-4o mini / Grok-2 / o1 / Computer Use / Claude 新Sonnet十月线等。
 
 ## Oct→Nov hooks (from 2024-10 rewrite)
-- **戏眼爆点（Agent／自治）：** **Computer Use** public beta——Claude 控鼠标／键盘；GUI agent newly real；公共刺：演示 wow × 点错键 ASMR／关窗合集／安全焦虑；极端话语「终于不用自己点了／键鼠已死」；反唇：Demo≠交付、能点≠该点、缺人工刹车、主会话不可拖入、失败重试不可剪掉骗人、**空转烧额度／荷包赞助合集**（价格／配额刺：付钱≠更会点；沉思价≠键鼠保姆）。
-- **硬旁刺：** 新 **Claude 3.5 Sonnet**（Oct 22）工牌升级——默认工位再烫；版本号谜语；可运行≠可上线／六月 Artifacts 焊死令续命；拒「键鼠已死」绑架。
+- **戏眼爆点（Agent／自治）：** **Computer Use** public beta——Claude 控鼠标／键盘；GUI agent newly real；公共刺：演示 wow × 点错键 ASMR／关窗合集／安全焦虑；极端话语「终于不用自己点了／键鼠已死」；反唇：Demo≠交付、能点≠该点、缺人工刹车、主会话不可拖入、失败重试不可剪掉骗人、**空转烧额度／荷包赞助合集**（价格／配额：付钱≠更会点；沉思价≠键鼠保姆）；**审查／拒答**：Claude 拒答墙／护栏对立（阉割 vs 早该拦；付钱仍拒；安全拒≠降智）。Grok 反审查工牌本月不在 cast，未硬塞。
+- **硬旁刺：** 新 **Claude 3.5 Sonnet**（Oct 22）工牌升级——默认工位再烫；版本号谜语；可运行≠可上线／六月 Artifacts 焊死令续命；拒「键鼠已死」绑架；宪法／安全拒答当对立面（有辩护护栏有用，也有会员羞辱／过度拒答骂声）。
 - **旁支≤30%：** **Kimi Explore**（Oct 11）Agent／长文侧门（塞得下≠该塞／敏感 PDF 不灌）；**Devin** 抢饭气味／落差梗对照；**Cursor** IDE diff／回滚 vs 桌面点击险种；**o1** 慢刹车（点不可回滚／确认框恐惧）。
-- **{{user}} 烫伤决定：** 仅沙盒＋任务写死「做什么 + 然后停」；主浏览器／邮箱／支付／生产焊死；神迹与翻车两列收藏缺一不可；空转重试＞三次撤权／盯配额条；对照表续写不皈依；不把升级写成「改信鼠标」；旧线（作业／真表／二月黑名单／六月隐私／十一月花生）续命；公开嘲讽到窗口标题＋任务原文＋配额截图＋时间戳。
+- **{{user}} 烫伤决定：** 仅沙盒＋任务写死「做什么 + 然后停」；主浏览器／邮箱／支付／生产焊死；神迹与翻车两列收藏缺一不可；空转重试＞三次撤权／盯配额条；拒答分账（安全拒 vs 真失败，禁偷换成降智）；对照表续写不皈依；不把升级写成「改信鼠标」；旧线续命；公开嘲讽到窗口标题＋任务原文＋配额截图＋时间戳。
 - **Computer Use** 自求：公测手会抖；合集惨案当史实；点得动≠点得该。
 - Carry into Nov: 沙盒是否还在；停字是否还写；两列收藏是否缺列；勿把挂机点击当默认；版本号谜语是否还晕着皈依。
 - Do **not** spoil inside Oct floor (already avoided): Haiku 3.5 正式发布细节、Computer Use GA、o1 满血／o3、Operator 等后月产品。
@@ -106,14 +106,14 @@
 
 
 ## Aug→Sep hooks (from 2024-08 rewrite)
-- **戏眼爆点（Agent）：** Cursor Composer / Tab **Accept-all 信仰**——多文件连改主流化；IDE agent 文化把仓库当草稿纸；空转／烧额度／绿勾谎言／缺人工刹车；Chaos「我也不知道谁写的」；可连改≠可上线；一次一文件＋测试红回滚；实验仅 `~/playground/2024-08-composer/`；禁「先 accept 再看」。
-- **硬旁刺（多模态≥20%）：** Qwen2-VL／Audio／Math 开源多模态雨——选型权回来；反唇相讥：自信胡说、OCR 鬼画符、Audio 数字听错；失败题（糊图／旋转／水印／否定句）；输出当嫌疑人，禁粘财务／客户原件结论。
-- **旁刺：** Grok-2（Aug 13）realtime X 身份嘴炮；时间线佐料≠判决；引用要链接；禁情绪架构圣旨。
-- **薄记：** Command R Aug refresh 企业席潜水；Claude 3.5 Sonnet 编码椅／可运行≠可上线制动续命；GPT-4o 在场不抢戏（低摩擦税对照）。
-- **价格／配额刺：** Composer 空转烧请求额度／订阅税；开源 VL「免费」收电费硬盘睡眠税；Grok-2 会员栏付钱≠更聪明；七月 mini 便宜刀续——便宜≠免检。荷包或配额须在气泡里疼。
-- **{{user}} 烫伤：** Accept-all 焊死；额度见红即停；VL 失败题＋电税记账；时间线分抽屉；七月 405B／mini 核查／照片备份锁／十一月花生续命。
-- Carry into Sep: Tab 键是否还热；playground 是否只疯在隔离目录；VL 嫌疑人协议；Grok 时间线分抽屉；勿把「省了两小时」当读过 diff。
-- Do **not** spoil inside Aug floor (already avoided): o1-preview / Llama 3.2 / Qwen2.5 / Pixtral / Computer Use / Claude 新Sonnet十月线 / DeepSeek-V3 / Sora public 等。
+- **戏眼（Agent）：** Cursor Composer / Tab Accept-all——多文件连改；空转／烧额度／绿勾谎言／缺刹车；可连改≠可上线；一次一文件；`~/playground/2024-08-composer/`。
+- **硬旁刺（多模态）：** Qwen2-VL／Audio／Math——开源雨；胡说／OCR／Audio；失败题；电税。
+- **硬刺（审查／会员）：** Grok-2 **反审查／最大真相／anti-woke 出道** × 叛逆营销打脸（嘴炮≠无滤／幻觉／红线）；Claude 拒答／封号焦虑对立＋护栏辩护；会员栏／额度叠钱包疼。
+- **价格／配额：** Composer 烧请求额度；开源电税；付钱≠更聪明；mini 便宜≠免检。
+- **{{user}}：** Accept-all 焊死；额度见红停；VL 嫌疑人；Grok 贴牌嫌疑人；拒答记理由不阴谋论；七月／花生续命。
+- Carry into Sep: Tab热？playground隔离？VL协议？Grok营销vs现实？拒答账本？
+- Do **not** spoil: o1 / Llama 3.2 / Qwen2.5 / Pixtral / Computer Use / 新Sonnet十月 / DeepSeek-V3 / Sora public。
+
 
 ## Cast sizes (DB)
 - Core ≥8 mo: 7
