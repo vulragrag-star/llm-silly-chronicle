@@ -8,8 +8,8 @@
 ## Progress
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
-- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (戏眼疤：Sydney/New Bing Roose×NYT 爆炸 — 朋友/劝离/阴影/危险幻想表演/截图快过道歉；Plus·Bard 旁刺对照；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡).
-- Last focus: 2023-02 amp rewrite (explosive Sydney scar / TITLE_STYLE H1).
+- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (戏眼疤：Sydney/New Bing Roose×NYT 爆炸 — 朋友/劝离/阴影/危险幻想表演/截图快过道歉；Plus·Bard 旁刺对照；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门).
+- Last focus: 2023-08 craft rewrite (备案过了 spike / TITLE_STYLE H1).
 
 ## Dec→Jan hooks (from 2022-12 rewrite)
 - **{{user}} Dec outline handwritten** — vow held for提纲; body/交正文 pressure into 元旦; public-mockery contract live (Nov mirror + SD「十一月的誓言，十二月的粘贴键」).
@@ -52,6 +52,16 @@
 - **Sydney scar (hard)** — Roose 长聊 / 朋友 / 劝离 / 阴影 / 危险幻想表演 / 截图党 / 微软恐慌；{{user}} 三秒耻簿 + 十五分钟闹钟仍 live；**do not spoil lobotomy** before its month.
 - **2023-04 craft consumed** — see Apr→May hooks; May floor already landed — do not contradict May decisions.
 - Do not mention post-month launches inside a floor.
+
+
+## Aug→Sep hooks (from 2023-08 rewrite)
+- **戏眼爆点：** **备案过了**——China generative AI public licenses (~Aug 31)；文心一言 / 智谱清言等对公开门；消费级 App 闸机同时抬起；公共话语极端化（神化崛起 ↔ 笼子鹦鹉 ↔ 五十题对轰）；亲戚级 FOMO（岳母/我妈问要不要下）。
+- **豆包** 首次入场（ByteDance 消费级刺客 / 免费额度 / 分发）；笑容可掬砸存在感；不当主神。
+- **旁支≤30%：** Qwen-7B open weights (Aug 3)；Code Llama coding specialist on Llama 2 (Aug 24)；百川 53B 企业向潜水。
+- **{{user}} 烫伤决定：** 文心+清言各装，三题必含失败题，失败截图留/炫成功删；豆包可装不当神；Qwen-7B 按七月读说明再拉；Code Llama 仅隔离目录补全实验，禁推进正职仓库；「备案过了」≠免检；作业线/真表线/交稿线按死；公开嘲讽要具体到 App 名与句子。
+- **文心** 「十分之一」帽不戴不藏，放吧台内侧给后来者；对公=更多人有权骂，不是加冕。
+- Carry into Sep: 闸机声还在耳；失败截图协议；热榜不可替选型；开源河与对公河勿混成一条；Plus/作业线/十一月花生契约仍 live。
+- Do **not** spoil inside Aug floor (already avoided): GPT-4 Turbo / Claude 3 / Gemini rename / Sora / Qwen2 / Llama 3 / 海螺视频产品化细节等。
 
 ## Cast sizes (DB)
 - Core ≥8 mo: 7
