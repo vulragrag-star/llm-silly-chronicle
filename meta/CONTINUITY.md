@@ -8,7 +8,8 @@
 ## Progress
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
-- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (戏眼：人格抢台 — Plus $20 / Bard JWST flop / Sydney storm; Poe·Notion side; LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude).
+- **Rewrite done:** `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (戏眼：人格抢台 — Plus $20 / Bard JWST flop / Sydney storm; Poe·Notion side; LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude).
+- `2022-12.md` may still be stub on main — do not assume Dec rewrite until floor file itself lands.
 - Last focus: 2023-02 full ST rewrite (Sydney/Bard reserved beat landed).
 
 ## Open threads (carry into 2023-03+; Mar floor already consumes some)
