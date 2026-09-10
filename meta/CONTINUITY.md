@@ -9,7 +9,8 @@
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
 - **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席)；`floors/2024-05.md` (GPT-4o omni语音)；`floors/2024-07.md` (405B磁盘哭墙×4o-mini)；`floors/2024-08.md` (Composer/Tab Accept-all × Qwen2-VL胡说 × Grok-2)；`floors/2024-10.md` (戏眼：Computer Use桌面长手／点错键ASMR × 新Sonnet／空转烧额度)；`floors/2024-11.md`（MCP插座×QwQ开源think×Pixtral）；`floors/2024-12.md`（戏眼：DeepSeek-V3性价比／成本冲击 × Pro两百刀 × Gemini 2.0代理 × Sora公开放片）；`floors/2025-01.md`（双戏眼：DeepSeek-R1开源推理／价牌海啸 × Operator订餐长手／终端工头海报vs flop）；`floors/2025-02.md`（戏眼：Claude Code×3.7同日终端／hybrid × Grok3直播 × GPT-4.5人味门票）；`floors/2025-03.md`（戏眼：Manus邀请制通用Agent／邀请码社交货币 × Gemini 2.5刷榜 × Gemma3多模态雨 × QwQ/Omni；AGI海报黑幽默）；`floors/2025-04.md`（双戏眼：Llama 4 Scout/Maverick开源多模态MoE／巨上下文／西部片起名 × o3/o4-mini推理API＋Codex CLI；GPT-4.1分层＋Qwen3 think开关＋Kimi-VL；AGI/牛仔营销黑幽默）；`floors/2025-06.md`（戏眼：o3-pro沉思税／Think harder for $$$ × Kimi-Dev开源刷SWE × MiniMax-M1长推理；Magistral薄记）；`floors/2025-07.md`（双戏眼：Kimi K2万亿开放权重agentic MoE／HF stampede × ChatGPT agent一键干活统一Operator＋deep research；硬旁刺Grok4／Heavy三百刀＋反审查 × Qwen3-Coder开源coding agent）.
-- Last focus: 2025-07 双戏眼 Kimi K2 万亿开放权重 agentic MoE／HF stampede／电税 × ChatGPT agent 一键干活统一 Operator＋deep research／会员分层／烧额度；硬旁刺 Grok 4／Heavy $300 会员墙＋反审查打脸 × Qwen3-Coder 开源 agentic coding；Operator 落日／确认键；Claude Code 停字；AGI／替你上班海报三种人互嘲。
+- **Rewrite done:** `floors/2025-10.md`（戏眼：Codex GA／Agent graduation 转正 × Haiku 4.5 又快又香／Cheap fast tier × Composer 模型线亮牌；旁支 MiniMax-M2／Kimi Linear；空转烧额度／便宜≠可靠／Accept-all 焊死；转正海报黑幽默）。
+- Last focus: 2025-10 戏眼 Codex GA（Oct 6）离开预览／Agent graduation／云端打工转正；硬旁刺 Haiku 4.5 又快又香／便宜≠可靠／分层降智对照／拒答＋护栏 × Composer 模型线亮牌／Accept-all 焊死／额度刹；旁支 MiniMax-M2 失败题 × Kimi Linear 进度条幻觉；黑幽默：转正／替你上班海报与配额见红同刷。
 - Also landed: 2025-06 戏眼 o3-pro（Jun 10）沉思税／Think harder for $$$（同夜 o3 降八成×pro 抬价）× Kimi-Dev-72B＋VL-Thinking 开源刷 SWE × MiniMax-M1 长推理；Magistral＋Apple Intelligence 薄记；Claude 4×Codex 营地续吵；黑幽默：便宜了还要买更贵的。
 - Also landed: 2025-04 双戏眼 Llama 4 Scout/Maverick 开源多模态MoE／巨上下文／西部片起名 × o3/o4-mini＋Codex CLI；GPT-4.1／Qwen3 think／Kimi-VL；AGI／牛仔营销黑幽默。
 
@@ -184,6 +185,16 @@
 - **{{user}} 烫伤决定：** K2／agent／coder 分 playground；停字焊死；支付／生产焊死；三百刀不交或写清入口≠镀金；stampede／一键干活／最强海报皆嫌疑人；一月确认键／二月停字／三月求码≠人格／花生续命。
 - Carry into Aug: 进度条是否还堵；按钮旁停字是否还在；三百刀灯是否还刺；Operator 落日是否被假装从未点错；开放与产品化 Agent 两河勿混成「已替你上班」。
 - Do **not** spoil inside Jul floor (already avoided): 后月产品／K2.5／更晚发版等。
+
+
+## Oct→Nov hooks (from 2025-10 rewrite)
+- **戏眼爆点：** **Codex GA（Oct 6）**——Cloud coding agent leaves preview；**Agent graduation**／转正工牌；云端打工编制进 ChatGPT 生态正式栏；反唇：GA≠SLA、能开 PR≠该合并、空转／烧额度／缺刹车、前台壳≠法人；Do-my-job-then-stop 七月令续命。
+- **硬旁刺：** ① **Claude Haiku 4.5（Oct 15）**——又快又香／Cheap fast tier；便宜≠可靠；分层羞辱／降智对照题；拒答墙对立＋护栏辩护；禁讣告体「贵已死」。② **Composer 模型线亮牌**——可连改≠可上线；Accept-all 焊死令续命（maxAccept=1）；请求额度见红停；playground：`~/playground/2025-10-composer/`。
+- **旁支≤30%：** MiniMax-M2（Oct 27）编码特化失败题；Kimi Linear（Oct 30）长上下文／进度条≠能力／密级不灌。
+- **黑幽默：** 「Agent 已毕业／替你上班·转正加强版」循环海报与配额见红／绿勾谎言／便宜重试同刷；怕岗位／涨粉／预热三派互嘲。
+- **{{user}} 烫伤决定：** Codex 红 hunk 必读＋生产焊死＋配额刹；Haiku 对照分档；Composer playground＋焊死令；M2／Linear 分抽屉；五月阵营／七月停字／八月 Accept-all／花生续命。
+- Carry into Nov: 转正工牌是否还烫着皈依；快层是否冲掉难题抽屉；Composer 焊死令是否还在；勿把 graduation 截图当评测。
+- Do **not** spoil inside Oct floor (already avoided): 后月产品／未入当月 DB 的发版等。
 
 ## Cast sizes (DB)
 - Core ≥8 mo: 7
