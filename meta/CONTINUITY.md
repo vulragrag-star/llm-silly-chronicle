@@ -8,8 +8,8 @@
 ## Progress
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
-- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席)；`floors/2024-05.md` (GPT-4o omni语音)；`floors/2024-07.md` (405B磁盘哭墙×4o-mini)；`floors/2024-08.md` (Composer/Tab Accept-all × Qwen2-VL胡说 × Grok-2)；`floors/2024-10.md` (戏眼：Computer Use桌面长手／点错键ASMR × 新Sonnet／空转烧额度).
-- Last focus: 2024-08 Composer/Tab Accept-all × Qwen2-VL × Grok-2反审查出道／叛逆营销打脸 × Claude拒答对立；pricing+censorship matrix.
+- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (双戏眼疤：Sydney Roose×NYT 情感绑架 + Bard 预支翻盘流口水→JWST「第一张」自信胡说翻车；Plus 队列税旁支；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall); `floors/2024-02.md`; `floors/2024-03.md` (Claude 3换宠王座 × Devin抢饭碗); `floors/2024-04.md` (戏眼：Llama 3开放权重海啸 × Phi-3小钢炮); `floors/2024-06.md` (双刃：Claude 3.5 Sonnet+Artifacts默认位易主 × Apple Intelligence隐私牌入席)；`floors/2024-05.md` (GPT-4o omni语音)；`floors/2024-07.md` (405B磁盘哭墙×4o-mini)；`floors/2024-08.md` (Composer/Tab Accept-all × Qwen2-VL胡说 × Grok-2)；`floors/2024-10.md` (戏眼：Computer Use桌面长手／点错键ASMR × 新Sonnet／空转烧额度)；`floors/2024-11.md`（MCP插座×QwQ开源think×Pixtral）；`floors/2024-12.md`（戏眼：DeepSeek-V3性价比／成本冲击 × Pro两百刀 × Gemini 2.0代理 × Sora公开放片）.
+- Last focus: 2024-12 DeepSeek-V3性价比核弹／训练成本冲击 × ChatGPT Pro $200贵族通道 × Gemini 2.0 agentic × Sora Turbo公开放片；pricing+agent+video+拒答／会员矩阵.
 
 ## Dec→Jan hooks (from 2022-12 rewrite)
 - **{{user}} Dec outline handwritten** — vow held for提纲; body/交正文 pressure into 元旦; public-mockery contract live (Nov mirror + SD「十一月的誓言，十二月的粘贴键」).
@@ -114,6 +114,18 @@
 - Carry into Sep: Tab热？playground隔离？VL协议？Grok营销vs现实？拒答账本？
 - Do **not** spoil: o1 / Llama 3.2 / Qwen2.5 / Pixtral / Computer Use / 新Sonnet十月 / DeepSeek-V3 / Sora public。
 
+
+
+
+## Dec→Jan hooks (from 2024-12 rewrite)
+- **戏眼爆点：** **DeepSeek-V3（Dec 26）** 671B MoE——Frontier-ish × 惊人训练成本叙事／性价比核弹；开源裂缝砸「贵＝强」；反唇：便宜≠可靠、电税／运维税、失败题、禁加冕讣告体「闭源已死」；成本表≠评测表；playground：`~/playground/2024-12-deepseek-v3/`。
+- **硬旁刺（价格／会员）：** **o1 full + ChatGPT Pro（Dec 5）**——两百刀贴纸惊吓；贵族通道／会员墙／分层羞辱；付钱≠更聪明≠免拒答≠免幻觉；沉思贵到不敢日常；{{user}} **四秒** Pro 确认键耻簿。
+- **硬旁刺（Agent）：** **Gemini 2.0 Flash（Dec 11）+ Thinking exp（Dec 19）**——agentic／多步／工具；空转／停词／配额盯梢；版本号迷宫；Demo≠已自主；禁过夜跑。
+- **硬旁刺（视频）：** **Sora Turbo public（Dec 9）**——公开放片；Beautiful but wrong physics；排队 FOMO；假成片事故；配额见红即停。
+- **薄记：** Llama 3.3 70B 开放河迭代；Phi-4 小钢炮旁支；**Claude** 拒答／封号焦虑对立＋护栏辩护；降智体感须对照题复测（禁「错觉」一句带过）；会员羞辱问「能力还是焦虑」。
+- **{{user}} 烫伤决定：** V3 仅 playground＋三道失败题＋电税；Pro 不交／交则写清入口≠镀金；Gemini 停词＋沙盒；Sora 人工复验物理；旧线续命（MCP 三工具、十月空转、六月保险柜、二月黑名单、花生）。
+- Carry into Jan: 成本表裂缝是否还凉；Pro 灯是否还刺；代理标签是否还敢过夜；片场物理笑话合集是否缺列；V3 失败题是否还在；勿把年终 FOMO 站队当评测。
+- Do **not** spoil inside Dec floor (already avoided): DeepSeek-R1 / o3 / Operator / 2025 产品线等。
 
 ## Cast sizes (DB)
 - Core ≥8 mo: 7
