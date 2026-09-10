@@ -1,68 +1,65 @@
 {
   "month": "2026-08",
-  "headline": "Grok 4.6; GPT-5.6 Sol/Luna consumer; OpenAI↔Cursor contract tension reports",
+  "headline": "Qwen3.8-Max + Grok 4.6 + Muse Spark 1.2 + Manus independence",
   "models_released_or_updated": [
     {
+      "id": "qwen",
+      "what_changed": "Qwen3.8-Max GA (~Aug 2–3); open weights ~Aug 12",
+      "heat": 5
+    },
+    {
       "id": "grok-4.6",
-      "what_changed": "Grok 4.6 (Aug 12)",
+      "what_changed": "Grok 4.6 (~Aug 12)",
+      "heat": 4
+    },
+    {
+      "id": "muse-spark",
+      "what_changed": "Muse Spark 1.2 (Aug 5)",
       "heat": 3
     },
     {
-      "id": "gpt-5.6",
-      "what_changed": "Sol/Luna ChatGPT UX (Aug 6+)",
-      "heat": 4
+      "id": "chatglm",
+      "what_changed": "GLM-5.3 reporting mid-Aug",
+      "heat": 3
     },
     {
-      "id": "cursor",
-      "what_changed": "OpenAI model supply tension reports (Aug 28)",
-      "heat": 4
+      "id": "manus",
+      "what_changed": "Return to independent operation (Aug 11)",
+      "heat": 3
     },
     {
-      "id": "openclaw",
-      "what_changed": "v2.0 stable reports (Aug 30)",
+      "id": "hunyuan",
+      "what_changed": "Tencent Hy4 Preview open-weight reporting",
       "heat": 3
     }
   ],
   "events": [
     {
-      "title": "GPT-5.6 UX",
-      "summary": "Thought slider; Luna free default narrative.",
-      "links": [
-        "https://www.scriptbyai.com/timeline-of-chatgpt/"
-      ],
-      "date": "2026-08-06"
+      "title": "Qwen3.8-Max",
+      "summary": "Alibaba flagship cloud + partial open weights.",
+      "links": [],
+      "date": "2026-08-03"
     },
     {
-      "title": "OpenAI–Cursor notice",
-      "summary": "Reports of contract end intent — uncertain/verify.",
-      "links": [
-        "https://www.scriptbyai.com/timeline-of-chatgpt/"
-      ],
-      "date": "2026-08-28"
+      "title": "Manus independence",
+      "summary": "Reversal of Meta joining narrative.",
+      "links": [],
+      "date": "2026-08-11"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "思考滑条",
-      "note": "User sets how hard to think"
-    },
-    {
-      "tag": "断供Cursor?",
-      "note": "Platform risk drama"
-    },
-    {
-      "tag": "龙虾v2",
-      "note": "OpenClaw matures"
-    }
+    "通义3.8对线K3: CN flagship duel",
+    "Manus独立反转: Corporate soap opera"
   ],
-  "community_sentiment": "Distribution politics (who gets whose model) becomes plot.",
+  "community_sentiment": "CN flagship open/cloud dual track; corporate agent drama.",
   "cast_candidates": [
-    "gpt-5.6",
+    "qwen",
     "grok-4.6",
-    "cursor",
-    "openclaw",
-    "chatgpt",
-    "claude-opus-5",
-    "composer-model"
-  ]
+    "muse-spark",
+    "chatglm",
+    "manus",
+    "hunyuan",
+    "kimi"
+  ],
+  "confidence": "medium"
 }

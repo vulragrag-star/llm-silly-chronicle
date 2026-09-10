@@ -1,76 +1,65 @@
 {
   "month": "2026-06",
-  "headline": "GPT-5.6 Sol/Terra/Luna; Claude Sonnet 5; SpaceX–Cursor deal chatter",
+  "headline": "Claude Fable/Mythos 5 + GLM-5.2 + MiniMax M3 + access drama",
   "models_released_or_updated": [
     {
-      "id": "gpt-5.6",
-      "what_changed": "GPT-5.6 preview Sol/Terra/Luna (Jun 27)",
+      "id": "claude-fable-5",
+      "what_changed": "Claude Fable 5 + Mythos 5 (Jun 9); access drama ~Jun 12",
       "heat": 5
     },
     {
       "id": "claude-sonnet-5",
-      "what_changed": "Sonnet 5 (Jun 30)",
-      "heat": 5
-    },
-    {
-      "id": "claude-fable-5",
-      "what_changed": "Fable 5 GA reports (Jun 9) — later suspended reports",
+      "what_changed": "Claude Sonnet 5 line reporting",
       "heat": 3
     },
     {
-      "id": "cursor",
-      "what_changed": "SpaceX acquisition agreement discourse (~$60B, Jun)",
+      "id": "chatglm",
+      "what_changed": "Z.ai GLM-5.2 open coding/agentic (Jun 13–16)",
       "heat": 5
+    },
+    {
+      "id": "minimax",
+      "what_changed": "MiniMax M3 (Jun 1)",
+      "heat": 3
+    },
+    {
+      "id": "gemma",
+      "what_changed": "Gemma 4 12B (Jun 3)",
+      "heat": 2
+    },
+    {
+      "id": "gpt-5.6",
+      "what_changed": "GPT-5.6 prep/early mentions (full GA Jul)",
+      "heat": 2
     }
   ],
   "events": [
     {
-      "title": "GPT-5.6 family",
-      "summary": "Tiered Sol/Terra/Luna.",
+      "title": "Fable/Mythos access suspension reporting",
+      "summary": "Export-control/access drama — verify primary sources.",
       "links": [
-        "https://www.scriptbyai.com/timeline-of-chatgpt/"
+        "https://axis-intelligence.com/ai-model-release-tracker/"
       ],
-      "date": "2026-06-27"
+      "date": "2026-06-12"
     },
     {
-      "title": "Sonnet 5",
-      "summary": "Agentic Sonnet generation.",
-      "links": [
-        "https://getclaudekit.com/blog/models/claude-model-history"
-      ],
-      "date": "2026-06-30"
-    },
-    {
-      "title": "Cursor×SpaceX",
-      "summary": "Acquisition agreement reports — verify close status.",
-      "links": [
-        "https://www.taskade.com/blog/anysphere-cursor-history"
-      ]
+      "title": "GLM-5.2 open weights",
+      "summary": "CN open coding model claims arena tops.",
+      "links": [],
+      "date": "2026-06-16"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Sol特拉月神",
-      "note": "Naming mythology"
-    },
-    {
-      "tag": "Cursor被火箭收购",
-      "note": "SpaceX memes"
-    },
-    {
-      "tag": "Fable停更?",
-      "note": "Tier drama"
-    }
+    "Fable上线又下线: Availability politics",
+    "GLM开源编码刷榜: CN coding crown"
   ],
-  "community_sentiment": "Corporate mashup sci-fi; model tiers become cast lists.",
+  "community_sentiment": "Capability vs availability politics; open CN coding surge.",
   "cast_candidates": [
-    "gpt-5.6",
-    "claude-sonnet-5",
-    "cursor",
     "claude-fable-5",
-    "openclaw",
-    "chatgpt",
-    "codex-agent",
-    "grok-4.5"
-  ]
+    "chatglm",
+    "minimax",
+    "claude-sonnet-5",
+    "deepseek-v4"
+  ],
+  "confidence": "medium"
 }

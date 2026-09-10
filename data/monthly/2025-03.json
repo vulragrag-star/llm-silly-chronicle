@@ -1,61 +1,60 @@
 {
   "month": "2025-03",
-  "headline": "Gemini 2.5; Manus viral agent; GPT-4o image gen",
+  "headline": "Manus agent + Gemini 2.5 Pro + Gemma 3 + QwQ-32B",
   "models_released_or_updated": [
     {
-      "id": "gemini-2.5",
-      "what_changed": "Gemini 2.5 series wave",
-      "heat": 4
-    },
-    {
       "id": "manus",
-      "what_changed": "Manus agent CN/global viral (approx)",
+      "what_changed": "Manus invite-only general agent (Mar 6)",
       "heat": 5
     },
     {
-      "id": "chatgpt",
-      "what_changed": "Native 4o image generation (Mar 25)",
+      "id": "gemini-2.5",
+      "what_changed": "Gemini 2.5 Pro experimental (Mar 25)",
+      "heat": 5
+    },
+    {
+      "id": "gemma",
+      "what_changed": "Gemma 3 multimodal open (Mar 12)",
+      "heat": 3
+    },
+    {
+      "id": "qwen",
+      "what_changed": "QwQ-32B + Omni / QVQ-Max",
       "heat": 4
+    },
+    {
+      "id": "deepseek-v3",
+      "what_changed": "DeepSeek-V3-0324 update",
+      "heat": 3
+    },
+    {
+      "id": "command-r",
+      "what_changed": "Command A (Mar 13)",
+      "heat": 2
     }
   ],
   "events": [
     {
-      "title": "Manus",
-      "summary": "General agent product goes viral in CN tech circles — verify exact day.",
-      "links": []
-    },
-    {
-      "title": "4o image gen",
-      "summary": "Image gen integrated into GPT-4o chat.",
+      "title": "Manus launch",
+      "summary": "CN general agent demo culture peaks.",
       "links": [
-        "https://openai.com"
+        "https://www.scriptbyai.com/manus-ai-timeline/"
       ],
-      "date": "2025-03-25"
+      "date": "2025-03-06"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Manus一夜爆火",
-      "note": "Agent product FOMO"
-    },
-    {
-      "tag": "GPT会画了",
-      "note": "Studio Ghibli / style flood"
-    },
-    {
-      "tag": "Gemini 2.5",
-      "note": "Google catch-up discourse"
-    }
+    "Manus邀请码: Invite scarcity status",
+    "Gemini2.5刷榜: Leaderboard flex"
   ],
-  "community_sentiment": "Agent apps go consumer-viral; image styles flood social.",
+  "community_sentiment": "General agents + thinking models; invite codes as status.",
   "cast_candidates": [
     "manus",
     "gemini-2.5",
-    "chatgpt",
-    "gpt-4o",
+    "gemma",
+    "qwen",
     "claude-code",
-    "deepseek-r1",
-    "cursor",
-    "operator"
-  ]
+    "deepseek-r1"
+  ],
+  "confidence": "high"
 }

@@ -9,58 +9,51 @@
     },
     {
       "id": "babyagi",
-      "what_changed": "BabyAGI (Apr)",
+      "what_changed": "BabyAGI task loop (Apr)",
       "heat": 4
     },
     {
       "id": "chatgpt-plugins",
-      "what_changed": "Plugins continue",
+      "what_changed": "Plugins alpha continues",
       "heat": 4
     },
     {
       "id": "sensenova",
-      "what_changed": "SenseNova wave",
+      "what_changed": "SenseTime 商量/SenseNova wave",
       "heat": 3
     },
     {
       "id": "wizardlm",
-      "what_changed": "WizardLM instruction tuning",
+      "what_changed": "WizardLM evolves instruction tuning",
       "heat": 3
     }
   ],
   "events": [
     {
       "title": "通义千问",
-      "summary": "Alibaba Cloud LLM enters.",
+      "summary": "Alibaba Cloud LLM enters enterprise then public path.",
       "links": [
         "https://zh.wikipedia.org/wiki/%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE"
       ],
       "date": "2023-04-07"
     },
     {
-      "title": "Italy ChatGPT ban",
-      "summary": "GDPR shock then return.",
-      "links": []
+      "title": "Italy temporary ChatGPT ban",
+      "summary": "GDPR shock; OpenAI complies then returns.",
+      "links": [
+        "https://www.scriptbyai.com/timeline-of-chatgpt/"
+      ]
     },
     {
       "title": "BabyAGI",
-      "summary": "Minimal task agent viral.",
+      "summary": "Minimal autonomous task agent goes viral.",
       "links": []
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "agent loop",
-      "note": "Plan→act→observe"
-    },
-    {
-      "tag": "插件商店梦",
-      "note": "App Store for ChatGPT"
-    },
-    {
-      "tag": "国产大模型春",
-      "note": "CN vendor cascade"
-    }
+    "agent loop: Plan→act→observe memes",
+    "插件商店梦: Everyone wants App Store for ChatGPT",
+    "国产大模型春: CN vendor cascade announcements"
   ],
   "community_sentiment": "Regulatory chill + agent FOMO; CN cloud vendors pile in.",
   "cast_candidates": [
@@ -72,5 +65,6 @@
     "ernie-bot",
     "chatgpt-plugins",
     "sensenova"
-  ]
+  ],
+  "confidence": "high"
 }

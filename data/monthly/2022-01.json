@@ -9,14 +9,14 @@
     },
     {
       "id": "gpt-3",
-      "what_changed": "Still the public face of large language models",
+      "what_changed": "Still the public face of 'large language models'",
       "heat": 3
     }
   ],
   "events": [
     {
-      "title": "InstructGPT",
-      "summary": "OpenAI publishes InstructGPT: RLHF models preferred over raw GPT-3.",
+      "title": "InstructGPT paper/product",
+      "summary": "OpenAI publishes InstructGPT: smaller RLHF models preferred over raw GPT-3.",
       "links": [
         "https://openai.com/index/instruction-following/"
       ],
@@ -24,14 +24,8 @@
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "RLHF",
-      "note": "Alignment research enters product language"
-    },
-    {
-      "tag": "API waitlists",
-      "note": "Access still gated"
-    }
+    "RLHF: Alignment research starts leaking into product language",
+    "API waitlists: Access still gated; vibe is research-lab not consumer"
   ],
   "community_sentiment": "Quiet research month; most people still don't chat with AIs daily.",
   "cast_candidates": [
@@ -40,5 +34,6 @@
     "github-copilot",
     "tabnine",
     "replika"
-  ]
+  ],
+  "confidence": "high"
 }

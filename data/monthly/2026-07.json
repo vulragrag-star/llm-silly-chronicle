@@ -1,69 +1,80 @@
 {
   "month": "2026-07",
-  "headline": "Claude Opus 5; Grok 4.5; ChatGPT Work; GPT-5.6 rollout",
+  "headline": "GPT-5.6 Sol/Terra/Luna + Claude Opus 5 + Kimi K3 + DeepSeek-V4-Flash-0731",
   "models_released_or_updated": [
     {
-      "id": "claude-opus-5",
-      "what_changed": "Opus 5 (Jul 24)",
+      "id": "gpt-5.6",
+      "what_changed": "GPT-5.6 Sol/Terra/Luna GA (Jul 9); price cuts Jul 30",
       "heat": 5
     },
     {
+      "id": "claude-opus-5",
+      "what_changed": "Claude Opus 5 (Jul 24)",
+      "heat": 5
+    },
+    {
+      "id": "claude-fable-5",
+      "what_changed": "Fable 5 redeploy reporting (Jul 1)",
+      "heat": 3
+    },
+    {
+      "id": "kimi",
+      "what_changed": "Kimi K3 2.8T (Jul 16); weights ~Jul 27",
+      "heat": 5
+    },
+    {
+      "id": "deepseek-v4",
+      "what_changed": "DeepSeek-V4-Flash-0731 (Jul 31)",
+      "heat": 4
+    },
+    {
+      "id": "qwen",
+      "what_changed": "Qwen3.8 preview at WAIC (Jul 19)",
+      "heat": 3
+    },
+    {
+      "id": "gemini-3",
+      "what_changed": "Gemini 3.6 Flash + 3.5 Flash-Lite GA (Jul 21)",
+      "heat": 4
+    },
+    {
+      "id": "muse-spark",
+      "what_changed": "Muse Spark 1.1 (Jul 9)",
+      "heat": 2
+    },
+    {
+      "id": "doubao",
+      "what_changed": "Doubao Seedance / Seed 2.1 updates",
+      "heat": 3
+    },
+    {
       "id": "grok-4.5",
-      "what_changed": "Grok 4.5 (Jul 8)",
-      "heat": 4
-    },
-    {
-      "id": "gpt-5.6",
-      "what_changed": "Broader ChatGPT/API/Codex rollout (Jul 9)",
-      "heat": 4
-    },
-    {
-      "id": "chatgpt",
-      "what_changed": "ChatGPT Work agent (Jul 9)",
-      "heat": 4
+      "what_changed": "Grok 4.5 line visibility",
+      "heat": 3
     }
   ],
   "events": [
     {
-      "title": "Opus 5",
-      "summary": "Near-Fable intelligence marketing; thinking default.",
-      "links": [
-        "https://aireleasetracker.com/company/anthropic"
-      ],
-      "date": "2026-07-24"
-    },
-    {
-      "title": "ChatGPT Work",
-      "summary": "Codex-powered work agent in ChatGPT.",
-      "links": [
-        "https://www.scriptbyai.com/timeline-of-chatgpt/"
-      ],
-      "date": "2026-07-09"
+      "title": "Summer 2026 frontier cluster",
+      "summary": "US+CN labs ship within weeks; WAIC energy.",
+      "links": []
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Opus 5默认思考",
-      "note": "Always-thinking coworker"
-    },
-    {
-      "tag": "Work代理人",
-      "note": "Office agent wars"
-    },
-    {
-      "tag": "Grok 4.5",
-      "note": "xAI cadence continues"
-    }
+    "Sol/Terra/Luna行星命名: OpenAI planet trio",
+    "K3两兆参数: Parameter flex",
+    "Opus5编码王冠: Coding crown posts"
   ],
-  "community_sentiment": "Everyone ships a 'work agent'; Opus 5 as serious boss energy.",
+  "community_sentiment": "Peak release density; benchmarks and price cuts dominate feeds.",
   "cast_candidates": [
-    "claude-opus-5",
-    "grok-4.5",
     "gpt-5.6",
-    "chatgpt",
-    "cursor",
-    "openclaw",
-    "codex-agent",
-    "deepseek-v4"
-  ]
+    "claude-opus-5",
+    "kimi",
+    "deepseek-v4",
+    "gemini-3",
+    "qwen",
+    "doubao",
+    "grok-4.5"
+  ],
+  "confidence": "medium"
 }

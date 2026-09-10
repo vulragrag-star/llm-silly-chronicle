@@ -1,58 +1,53 @@
 {
   "month": "2025-09",
-  "headline": "Sora 2; Claude Sonnet 4.5; DevDay eve; Pulse",
+  "headline": "Claude Sonnet 4.5 + Qwen3-Omni/VL + Grok 4 Fast",
   "models_released_or_updated": [
     {
-      "id": "sora",
-      "what_changed": "Sora 2 (Sep 30)",
+      "id": "claude-sonnet-4.5",
+      "what_changed": "Claude Sonnet 4.5 (Sep 29)",
       "heat": 5
     },
     {
-      "id": "claude-sonnet-4.5",
-      "what_changed": "Sonnet 4.5 (Sep 29)",
+      "id": "deepseek-v3.2",
+      "what_changed": "DeepSeek-V3.2-Exp (Sep 29)",
+      "heat": 3
+    },
+    {
+      "id": "qwen",
+      "what_changed": "Qwen3-Omni + Qwen3-VL",
       "heat": 4
     },
     {
-      "id": "chatgpt",
-      "what_changed": "Pulse proactive updates; MCP tools",
+      "id": "grok-4",
+      "what_changed": "Grok 4 Fast (Sep 19)",
+      "heat": 3
+    },
+    {
+      "id": "kimi",
+      "what_changed": "OK Computer agentic feature reporting",
       "heat": 3
     }
   ],
   "events": [
     {
-      "title": "Sora 2",
-      "summary": "Better physics/audio/control; cameo features.",
-      "links": [
-        "https://openai.com"
-      ],
-      "date": "2025-09-30"
-    },
-    {
       "title": "Sonnet 4.5",
-      "summary": "Anthropic mid-tier push.",
+      "summary": "Balanced agent/coding workhorse upgrade.",
       "links": [],
       "date": "2025-09-29"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Sora 2 cameo",
-      "note": "Insert yourself into clips"
-    },
-    {
-      "tag": "Sonnet默认",
-      "note": "Daily driver wars"
-    }
+    "默认模型又换了: Upgrade treadmill",
+    "OK Computer: Kimi agent mode"
   ],
-  "community_sentiment": "Video gen productized further; Sonnet remains workhorse archetype.",
+  "community_sentiment": "Workhorse upgrades; multimodal open stacks mature.",
   "cast_candidates": [
-    "sora",
     "claude-sonnet-4.5",
-    "gpt-5",
-    "chatgpt",
-    "cursor",
-    "codex-agent",
-    "doubao",
-    "kimi"
-  ]
+    "qwen",
+    "deepseek-v3.2",
+    "grok-4",
+    "kimi",
+    "gpt-5"
+  ],
+  "confidence": "high"
 }

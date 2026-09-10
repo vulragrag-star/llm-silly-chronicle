@@ -37,14 +37,8 @@
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "/imagine",
-      "note": "Prompt literacy as skill"
-    },
-    {
-      "tag": "BigScience",
-      "note": "Open collaboration ideology"
-    }
+    "/imagine: Prompt literacy becomes a skill",
+    "BigScience: Open collaboration as ideology"
   ],
   "community_sentiment": "Image Discord boom; open LLM community energized.",
   "cast_candidates": [
@@ -52,5 +46,6 @@
     "bloom",
     "dalle-2",
     "github-copilot"
-  ]
+  ],
+  "confidence": "high"
 }

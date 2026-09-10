@@ -1,52 +1,44 @@
 {
   "month": "2024-01",
-  "headline": "GPT Store; Team plan; CN price-war foreshadow",
+  "headline": "Gemini Ultra path; StepFun; post-holiday tooling",
   "models_released_or_updated": [
     {
-      "id": "gpts-custom",
-      "what_changed": "GPT Store launch (Jan 10)",
-      "heat": 5
-    },
-    {
-      "id": "chatgpt",
-      "what_changed": "ChatGPT Team",
+      "id": "gemini-1",
+      "what_changed": "Gemini Ultra / Advanced rollout path",
       "heat": 3
     },
     {
       "id": "stepfun",
-      "what_changed": "阶跃星辰 Step models emerging (approx)",
-      "heat": 2
+      "what_changed": "阶跃星辰 Step model public visibility (approx)",
+      "heat": 3
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "GPT Store opens (Jan 10 reported)",
+      "heat": 4
     }
   ],
   "events": [
     {
       "title": "GPT Store",
-      "summary": "Custom GPTs marketplace opens.",
+      "summary": "Custom GPTs store goes live for Plus users.",
       "links": [
         "https://openai.com"
-      ],
-      "date": "2024-01-10"
+      ]
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "GPT Store上架",
-      "note": "Prompt-as-product"
-    },
-    {
-      "tag": "豆包下载量",
-      "note": "CN app charts discourse rising"
-    }
+    "年终总结都是AI写的: Work ritual",
+    "GPT Store逛店: Bot mall"
   ],
-  "community_sentiment": "Platformization continues; CN consumer apps climb charts.",
+  "community_sentiment": "Consolidation mood; waiting for next frontier drops.",
   "cast_candidates": [
-    "gpts-custom",
     "chatgpt",
-    "doubao",
-    "kimi",
-    "ernie-bot",
-    "qwen",
+    "gpts-custom",
     "gemini-1",
-    "claude-2.1"
-  ]
+    "claude-2.1",
+    "stepfun",
+    "mixtral"
+  ],
+  "confidence": "high"
 }

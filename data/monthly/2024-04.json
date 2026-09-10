@@ -1,6 +1,6 @@
 {
   "month": "2024-04",
-  "headline": "Llama 3; Phi-3; Memory; Udio; ChatGPT no-login",
+  "headline": "Llama 3 + Phi-3 + Command R+ + Mixtral 8x22B + Amazon Q GA",
   "models_released_or_updated": [
     {
       "id": "llama-3",
@@ -9,66 +9,61 @@
     },
     {
       "id": "phi-3",
-      "what_changed": "Phi-3",
+      "what_changed": "Phi-3 mini/medium",
+      "heat": 4
+    },
+    {
+      "id": "command-r",
+      "what_changed": "Command R+ (Apr 4)",
       "heat": 3
     },
     {
-      "id": "chatgpt",
-      "what_changed": "Memory feature testing/rollout",
-      "heat": 4
+      "id": "mixtral",
+      "what_changed": "Mixtral 8x22B (Apr 10)",
+      "heat": 3
     },
     {
-      "id": "udio",
-      "what_changed": "Udio music rival to Suno",
-      "heat": 4
+      "id": "minimax",
+      "what_changed": "abab6.5 / 6.5s (Apr 17)",
+      "heat": 3
+    },
+    {
+      "id": "amazon-q",
+      "what_changed": "Amazon Q GA (Apr 30)",
+      "heat": 3
     },
     {
       "id": "swe-agent",
       "what_changed": "SWE-agent academic agent",
       "heat": 2
+    },
+    {
+      "id": "udio",
+      "what_changed": "Udio music rival heat",
+      "heat": 3
     }
   ],
   "events": [
     {
       "title": "Llama 3",
-      "summary": "Meta open weights leap.",
-      "links": [
-        "https://ai.meta.com"
-      ],
+      "summary": "Quality jump; community fine-tunes flood HF.",
+      "links": [],
       "date": "2024-04-18"
-    },
-    {
-      "title": "ChatGPT Memory",
-      "summary": "Cross-chat memory controls.",
-      "links": [
-        "https://openai.com"
-      ]
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Llama 3本地",
-      "note": "HomeLab renaissance"
-    },
-    {
-      "tag": "AI有记忆",
-      "note": "Creepy/helpful duality"
-    },
-    {
-      "tag": "Suno vs Udio",
-      "note": "Music gen platform war"
-    }
+    "Llama3本地党: Home lab renaissance",
+    "Phi-3小钢炮: Tiny but mighty"
   ],
-  "community_sentiment": "Open weights strong again; memory makes assistants sticky.",
+  "community_sentiment": "Open models feel newly close to GPT-4-class for many tasks.",
   "cast_candidates": [
     "llama-3",
     "phi-3",
-    "chatgpt",
-    "udio",
-    "suno",
+    "command-r",
+    "minimax",
+    "amazon-q",
     "claude-3",
-    "cursor",
-    "kimi",
-    "doubao"
-  ]
+    "udio"
+  ],
+  "confidence": "high"
 }

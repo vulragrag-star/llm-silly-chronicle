@@ -1,31 +1,16 @@
 {
   "month": "2023-09",
-  "headline": "Mistral 7B shock; 通义/星火公众开放; DALL·E 3; AutoGen; Meta AI",
+  "headline": "Mistral 7B shock + DALL·E 3 + Meta AI + 混元",
   "models_released_or_updated": [
     {
       "id": "mistral-7b",
-      "what_changed": "Mistral 7B (Sep)",
+      "what_changed": "Mistral 7B Apache 2.0 (Sep 27)",
       "heat": 5
-    },
-    {
-      "id": "qwen",
-      "what_changed": "通义千问公众开放 (Sep 13)",
-      "heat": 4
-    },
-    {
-      "id": "spark",
-      "what_changed": "讯飞星火全民开放 (Sep 5)",
-      "heat": 4
     },
     {
       "id": "dalle-3",
-      "what_changed": "DALL·E 3 in ChatGPT (Sep–Oct)",
-      "heat": 5
-    },
-    {
-      "id": "autogen",
-      "what_changed": "Microsoft AutoGen multi-agent",
-      "heat": 3
+      "what_changed": "DALL·E 3 announced",
+      "heat": 4
     },
     {
       "id": "meta-ai",
@@ -34,58 +19,41 @@
     },
     {
       "id": "hunyuan",
-      "what_changed": "腾讯混元公开叙事",
+      "what_changed": "Tencent 混元 public-facing push",
+      "heat": 4
+    },
+    {
+      "id": "qwen",
+      "what_changed": "Tongyi Qianwen broader public after clearance",
+      "heat": 3
+    },
+    {
+      "id": "autogen",
+      "what_changed": "Microsoft AutoGen multi-agent framework heat",
       "heat": 3
     }
   ],
   "events": [
     {
       "title": "Mistral 7B",
-      "summary": "Tiny European model punches up; torrent-friendly culture.",
-      "links": [
-        "https://mistral.ai"
-      ],
-      "date": "2023-09"
-    },
-    {
-      "title": "通义公众开放",
-      "summary": "No invite needed.",
-      "links": [
-        "https://zh.wikipedia.org/wiki/%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE"
-      ],
-      "date": "2023-09-13"
-    },
-    {
-      "title": "DALL·E 3",
-      "summary": "Prompt-following image leap inside ChatGPT.",
+      "summary": "Tiny EU lab punches above weight; HF downloads explode.",
       "links": [],
-      "date": "2023-09"
+      "date": "2023-09-27"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Mistral magic",
-      "note": "7B > 30B folklore"
-    },
-    {
-      "tag": "DALL·E 3 text",
-      "note": "Readable text in images"
-    },
-    {
-      "tag": "多Agent戏剧",
-      "note": "AutoGen roleplay coding"
-    }
+    "7B战神: Small model supremacy",
+    "DALL·E 3识字: Text-in-image leap"
   ],
-  "community_sentiment": "Small open models awe; CN apps go truly public; image quality jumps.",
+  "community_sentiment": "Efficiency narrative; EU open lab celebrity; CN cloud ecosystems.",
   "cast_candidates": [
     "mistral-7b",
-    "qwen",
-    "spark",
     "dalle-3",
-    "chatgpt",
-    "autogen",
     "meta-ai",
     "hunyuan",
-    "doubao"
-  ]
+    "qwen",
+    "claude-2",
+    "llama-2"
+  ],
+  "confidence": "high"
 }

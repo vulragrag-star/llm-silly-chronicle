@@ -1,6 +1,6 @@
 {
   "month": "2023-07",
-  "headline": "Claude 2 + Llama 2 commercial open weights",
+  "headline": "Claude 2 + Llama 2 — open commercial weights and long-context Claude",
   "models_released_or_updated": [
     {
       "id": "claude-2",
@@ -9,29 +9,19 @@
     },
     {
       "id": "llama-2",
-      "what_changed": "Llama 2 (Jul 18)",
+      "what_changed": "Llama 2 7B–70B commercial open (Jul 18)",
       "heat": 5
     },
     {
-      "id": "pika",
-      "what_changed": "Pika video early buzz",
-      "heat": 2
-    },
-    {
-      "id": "xai",
-      "what_changed": "xAI public announcement era",
-      "heat": 3
-    },
-    {
       "id": "chatgpt",
-      "what_changed": "Custom instructions (Jul 20)",
+      "what_changed": "Code Interpreter broader rollout path",
       "heat": 3
     }
   ],
   "events": [
     {
       "title": "Claude 2",
-      "summary": "Anthropic public Claude.ai push.",
+      "summary": "Improved coding/reasoning; 100K context productization.",
       "links": [
         "https://www.anthropic.com"
       ],
@@ -39,42 +29,25 @@
     },
     {
       "title": "Llama 2",
-      "summary": "Meta open-ish commercial license with Microsoft.",
+      "summary": "Meta open weights for commercial use.",
       "links": [
-        "https://ai.meta.com"
+        "https://ai.meta.com/llama/"
       ],
       "date": "2023-07-18"
-    },
-    {
-      "title": "xAI",
-      "summary": "Musk AI lab narrative heats.",
-      "links": []
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Llama 2 license",
-      "note": "700M MAU carve-out jokes"
-    },
-    {
-      "tag": "Claude polite",
-      "note": "Constitutional AI vibe"
-    },
-    {
-      "tag": "闭源焦虑缓解",
-      "note": "Open weights hope for local RP"
-    }
+    "Llama 2 license: Commercial-friendly open weights party",
+    "Claude 2 essays: Writers migrate from GPT-4"
   ],
-  "community_sentiment": "Open-source celebration; Claude as GPT rival solidifies.",
+  "community_sentiment": "Open-weights legitimacy + Claude writing fandom.",
   "cast_candidates": [
     "claude-2",
     "llama-2",
-    "chatgpt",
     "gpt-4",
-    "xai",
-    "ernie-bot",
-    "qwen",
+    "chatgpt",
     "cursor",
-    "sillytavern"
-  ]
+    "github-copilot"
+  ],
+  "confidence": "high"
 }

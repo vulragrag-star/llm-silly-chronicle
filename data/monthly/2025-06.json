@@ -1,49 +1,46 @@
 {
   "month": "2025-06",
-  "headline": "ChatGPT connectors/MCP; study mode; midyear agent plumbing",
+  "headline": "o3-pro + Magistral + MiniMax-M1 + Kimi-Dev",
   "models_released_or_updated": [
     {
-      "id": "chatgpt",
-      "what_changed": "More connectors, record mode, MCP admins",
+      "id": "o3",
+      "what_changed": "o3-pro (Jun 10)",
+      "heat": 4
+    },
+    {
+      "id": "minimax",
+      "what_changed": "MiniMax-M1 (Jun 16)",
       "heat": 3
     },
     {
-      "id": "mcp",
-      "what_changed": "Cross-vendor adoption accelerates",
+      "id": "kimi",
+      "what_changed": "Kimi-Dev-72B + VL-Thinking",
       "heat": 4
+    },
+    {
+      "id": "apple-intelligence",
+      "what_changed": "Broader Apple Intelligence rollouts",
+      "heat": 2
     }
   ],
   "events": [
     {
-      "title": "ChatGPT tool mesh",
-      "summary": "Email/drive/meeting recording integrations.",
-      "links": [
-        "https://openai.com"
-      ]
-    },
-    {
-      "title": "Study mode",
-      "summary": "Pedagogical ChatGPT mode announced mid-summer spill.",
+      "title": "Open coding specialists",
+      "summary": "Kimi-Dev and peers push SWE open models.",
       "links": []
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "MCP统一插座",
-      "note": "Everyone speaks MCP"
-    },
-    {
-      "tag": "学习模式",
-      "note": "Don't just give answers"
-    }
+    "开源Dev刷SWE: Benchmark grinding",
+    "o3-pro烧钱: Think harder for $$$"
   ],
-  "community_sentiment": "Plumbing year: connectors and protocols over pure model drops.",
+  "community_sentiment": "Specialist open models; pro reasoning tiers for power users.",
   "cast_candidates": [
-    "chatgpt",
-    "mcp",
+    "o3",
+    "kimi",
+    "minimax",
     "claude-4",
-    "codex-agent",
-    "cursor",
-    "deepseek-r1"
-  ]
+    "codex-agent"
+  ],
+  "confidence": "high"
 }

@@ -1,16 +1,11 @@
 {
   "month": "2024-10",
-  "headline": "Claude 3.5 upgrade + Computer Use; Canvas; DeepSeek V2.5",
+  "headline": "Claude 3.5 Sonnet (new) + Computer Use + Kimi Explore",
   "models_released_or_updated": [
     {
       "id": "claude-3.5-sonnet",
-      "what_changed": "Upgraded 3.5 Sonnet (Oct 22)",
+      "what_changed": "Claude 3.5 Sonnet upgraded (Oct 22)",
       "heat": 5
-    },
-    {
-      "id": "claude-3.5-haiku",
-      "what_changed": "3.5 Haiku",
-      "heat": 3
     },
     {
       "id": "claude-computer-use",
@@ -18,59 +13,38 @@
       "heat": 5
     },
     {
-      "id": "chatgpt",
-      "what_changed": "Canvas writing/coding workspace (Oct 3)",
-      "heat": 4
+      "id": "claude-3.5-haiku",
+      "what_changed": "Haiku 3.5 path (Nov spillover; Oct prep)",
+      "heat": 2
     },
     {
-      "id": "deepseek-v2.5",
-      "what_changed": "DeepSeek V2.5 merge upgrade (Sep 5 spill/Oct use)",
-      "heat": 3
-    },
-    {
-      "id": "deepseek-v2",
-      "what_changed": "V2 May→ongoing CN OSS heat",
+      "id": "kimi",
+      "what_changed": "Kimi Explore Edition (Oct 11)",
       "heat": 3
     }
   ],
   "events": [
     {
       "title": "Computer Use",
-      "summary": "Claude controls desktop UI — agent demo shock.",
+      "summary": "Claude controls mouse/keyboard — agent demos galore.",
       "links": [
         "https://www.anthropic.com"
       ],
-      "date": "2024-10-22"
-    },
-    {
-      "title": "Canvas",
-      "summary": "Side-panel doc/code collaboration in ChatGPT.",
-      "links": [],
-      "date": "2024-10-03"
+      "date": "2024-10"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Computer Use",
-      "note": "AI moves mouse memes"
-    },
-    {
-      "tag": "Canvas",
-      "note": "Not just a chatbox"
-    },
-    {
-      "tag": "DeepSeek性价比",
-      "note": "CN OSS underdog rising"
-    }
+    "AI点鼠标: GUI agent wow + fail compilations",
+    "Computer Use翻车: Clicking wrong buttons ASMR"
   ],
-  "community_sentiment": "Agents that click; IDE-like ChatGPT; DeepSeek on radar.",
+  "community_sentiment": "GUI agents feel newly real; excitement + safety anxiety.",
   "cast_candidates": [
-    "claude-computer-use",
     "claude-3.5-sonnet",
-    "chatgpt",
-    "deepseek-v2",
+    "claude-computer-use",
+    "kimi",
     "o1",
     "cursor",
-    "operator"
-  ]
+    "devin"
+  ],
+  "confidence": "high"
 }

@@ -1,45 +1,45 @@
 {
   "month": "2023-05",
-  "headline": "I/O PaLM 2 + Bard public; Claude 100K; Pi; Falcon; 讯飞星火",
+  "headline": "Google I/O PaLM 2 + Bard public; Claude 100K; Pi; Falcon; 讯飞星火",
   "models_released_or_updated": [
     {
       "id": "palm-2",
-      "what_changed": "PaLM 2 (May 10)",
+      "what_changed": "PaLM 2 at I/O (May 10)",
       "heat": 5
     },
     {
       "id": "bard",
-      "what_changed": "Wider public + PaLM 2",
+      "what_changed": "Bard wider public; PaLM 2 upgrade",
       "heat": 5
     },
     {
       "id": "claude-1",
-      "what_changed": "100K context",
+      "what_changed": "100K context announcement (May 11–12)",
       "heat": 5
     },
     {
       "id": "pi",
-      "what_changed": "Inflection Pi",
+      "what_changed": "Inflection Pi companion chatbot",
       "heat": 4
     },
     {
       "id": "falcon",
-      "what_changed": "Falcon open",
+      "what_changed": "Falcon open models (TII)",
       "heat": 3
     },
     {
       "id": "spark",
-      "what_changed": "讯飞星火 (May)",
+      "what_changed": "讯飞星火发布 (May)",
       "heat": 4
     },
     {
       "id": "notebooklm",
-      "what_changed": "Tailwind/NotebookLM tease",
+      "what_changed": "Project Tailwind / NotebookLM teased at I/O",
       "heat": 3
     },
     {
       "id": "aider",
-      "what_changed": "Aider traction",
+      "what_changed": "Aider CLI coding assistant traction",
       "heat": 2
     },
     {
@@ -50,8 +50,8 @@
   ],
   "events": [
     {
-      "title": "Google I/O",
-      "summary": "PaLM 2, Bard expansion, Gemini teased.",
+      "title": "Google I/O AI",
+      "summary": "PaLM 2, Bard expansion, Gemini teased as future multimodal.",
       "links": [
         "https://blog.google"
       ],
@@ -59,31 +59,24 @@
     },
     {
       "title": "Claude 100K",
-      "summary": "Book-length context flex.",
+      "summary": "Book-length context as flex.",
       "links": []
     },
     {
       "title": "ChatGPT iOS",
-      "summary": "Official mobile app.",
-      "links": [],
+      "summary": "Mobile ChatGPT goes official.",
+      "links": [
+        "https://openai.com"
+      ],
       "date": "2023-05-18"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "100K context",
-      "note": "Paste whole books"
-    },
-    {
-      "tag": "Pi friend",
-      "note": "Warm companion vs tool"
-    },
-    {
-      "tag": "星火评测",
-      "note": "CN benchmark wars"
-    }
+    "100K context: Paste whole books",
+    "Pi friend: Warm companion vs corporate assistant",
+    "星火评测: CN benchmark wars begin"
   ],
-  "community_sentiment": "Context-window flex; companions vs tools; Google redemption arc.",
+  "community_sentiment": "Context-window flex; companions vs tools split; Google tries redemption arc.",
   "cast_candidates": [
     "bard",
     "palm-2",
@@ -94,5 +87,6 @@
     "falcon",
     "github-copilot",
     "cursor"
-  ]
+  ],
+  "confidence": "high"
 }

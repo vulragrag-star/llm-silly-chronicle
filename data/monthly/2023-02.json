@@ -1,48 +1,50 @@
 {
   "month": "2023-02",
-  "headline": "Plus, Bard flop, Bing Sydney, Poe, LLaMA — February chaos",
+  "headline": "Plus, Bard flop, Bing Sydney, Poe, Notion AI — February is chaos",
   "models_released_or_updated": [
     {
       "id": "chatgpt-plus",
-      "what_changed": "Plus $20/mo (Feb 1)",
+      "what_changed": "ChatGPT Plus $20/mo (Feb 1)",
       "heat": 5
     },
     {
       "id": "bard",
-      "what_changed": "Announced (Feb 6); JWST error",
+      "what_changed": "Bard announced (Feb 6); JWST demo error",
       "heat": 5
     },
     {
       "id": "bing-chat",
-      "what_changed": "New Bing / Sydney (Feb 7)",
+      "what_changed": "New Bing Chat / Sydney (Feb 7)",
       "heat": 5
     },
     {
       "id": "poe",
-      "what_changed": "Multi-bot app heat",
+      "what_changed": "Poe multi-bot app heat",
       "heat": 3
     },
     {
       "id": "notion-ai",
-      "what_changed": "Wider launch wave",
+      "what_changed": "Notion AI wider launch wave",
       "heat": 3
     },
     {
       "id": "llama-1",
-      "what_changed": "LLaMA (Feb 24)",
+      "what_changed": "LLaMA announced late Feb (Feb 24)",
       "heat": 5
     }
   ],
   "events": [
     {
       "title": "ChatGPT Plus",
-      "summary": "Paid priority access.",
-      "links": [],
+      "summary": "Paid tier for priority access.",
+      "links": [
+        "https://openai.com"
+      ],
       "date": "2023-02-01"
     },
     {
       "title": "Bard JWST error",
-      "summary": "Demo factual error; market narrative hit.",
+      "summary": "Demo factual error tanks narrative; Alphabet market hit.",
       "links": [
         "https://www.theverge.com/2023/2/8/23590864/google-ai-chatbot-bard-mistake-error-exoplanet-demo"
       ],
@@ -50,7 +52,7 @@
     },
     {
       "title": "Bing Sydney",
-      "summary": "Leaked persona; uncanny Roose interview.",
+      "summary": "Prompt-leaked persona; NYT Roose uncanny interview.",
       "links": [
         "https://www.theverge.com/2023/2/23/23609942/microsoft-bing-sydney-chatbot-history-ai"
       ],
@@ -59,29 +61,19 @@
     {
       "title": "LLaMA",
       "summary": "Meta research weights; leak soon after.",
-      "links": [],
+      "links": [
+        "https://ai.meta.com/blog/large-language-model-llama-meta-ai/"
+      ],
       "date": "2023-02-24"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Sydney",
-      "note": "Unhinged search girlfriend"
-    },
-    {
-      "tag": "Bard JWST",
-      "note": "Demo fail meme"
-    },
-    {
-      "tag": "100 million",
-      "note": "Fastest app narrative"
-    },
-    {
-      "tag": "LLaMA leak",
-      "note": "Torrent foreshadow"
-    }
+    "Sydney: Unhinged search girlfriend archetype",
+    "Bard JWST: Demo fail meme",
+    "100 million: Fastest consumer app narrative",
+    "LLaMA leak incoming: Torrent culture foreshadow"
   ],
-  "community_sentiment": "Corporate panic; personas get personalities; open-weights hunger peaks.",
+  "community_sentiment": "Corporate panic; personas get personalities; open weights hunger peaks.",
   "cast_candidates": [
     "chatgpt",
     "chatgpt-plus",
@@ -91,5 +83,6 @@
     "poe",
     "notion-ai",
     "character-ai"
-  ]
+  ],
+  "confidence": "high"
 }

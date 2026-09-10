@@ -14,7 +14,7 @@
     },
     {
       "id": "galactica",
-      "what_changed": "Released then withdrawn (~Nov 15–17)",
+      "what_changed": "Released then pulled after criticism (~Nov 15–17)",
       "heat": 4
     },
     {
@@ -24,39 +24,33 @@
     },
     {
       "id": "llamaindex",
-      "what_changed": "GPT Index emerging",
+      "what_changed": "GPT Index / LlamaIndex emerging",
       "heat": 2
     }
   ],
   "events": [
     {
       "title": "ChatGPT launch",
-      "summary": "Conversational UI makes LLMs mass-market.",
+      "summary": "Conversational UI makes LLMs mass-market overnight.",
       "links": [
+        "https://openai.com",
         "https://www.scriptbyai.com/timeline-of-chatgpt/"
       ],
       "date": "2022-11-30"
     },
     {
       "title": "Galactica withdrawal",
-      "summary": "Science LLM criticized; Meta pulls demo.",
-      "links": [],
+      "summary": "Science LLM criticized for confident nonsense; Meta pulls demo.",
+      "links": [
+        "https://en.wikipedia.org/wiki/Galactica"
+      ],
       "date": "2022-11-17"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "ChatGPT screenshots",
-      "note": "Homework panic begins"
-    },
-    {
-      "tag": "Galactica fails",
-      "note": "Confident nonsense cautionary tale"
-    },
-    {
-      "tag": "MJ V4",
-      "note": "Photorealism leap"
-    }
+    "ChatGPT screenshots: Homework/essays panic begins",
+    "Galactica fails: Confident wrong answers as cautionary tale",
+    "MJ V4: Photorealism leap on Discord"
   ],
   "community_sentiment": "Civilization-level FOMO; educators freak; builders euphoric.",
   "cast_candidates": [
@@ -66,5 +60,6 @@
     "midjourney",
     "character-ai",
     "stable-diffusion"
-  ]
+  ],
+  "confidence": "high"
 }

@@ -1,69 +1,54 @@
 {
   "month": "2025-08",
-  "headline": "GPT-5 ships; gpt-oss; Claude Opus 4.1; DeepSeek V3.1",
+  "headline": "GPT-5 + Claude Opus 4.1 + DeepSeek-V3.1",
   "models_released_or_updated": [
     {
       "id": "gpt-5",
-      "what_changed": "GPT-5 unified system (Aug 7)",
+      "what_changed": "GPT-5 family + mini/nano (Aug 7)",
       "heat": 5
     },
     {
-      "id": "chatgpt",
-      "what_changed": "gpt-oss open weights (Aug 6)",
-      "heat": 4
-    },
-    {
       "id": "claude-opus-4.1",
-      "what_changed": "Opus 4.1 (Aug 5)",
+      "what_changed": "Claude Opus 4.1 (Aug 5)",
       "heat": 4
     },
     {
       "id": "deepseek-v3.1",
-      "what_changed": "V3.1 (Aug 21)",
+      "what_changed": "DeepSeek-V3.1 (Aug 21)",
       "heat": 3
+    },
+    {
+      "id": "grok-4",
+      "what_changed": "Grok Code Fast 1 (Aug 28)",
+      "heat": 3
+    },
+    {
+      "id": "qwen",
+      "what_changed": "Qwen-Image (Aug 4)",
+      "heat": 2
     }
   ],
   "events": [
     {
-      "title": "GPT-5",
-      "summary": "Router between fast and thinking; replaces 4o/o3 defaults narrative.",
-      "links": [
-        "https://openai.com/index/introducing-gpt-5/"
-      ],
-      "date": "2025-08-07"
-    },
-    {
-      "title": "gpt-oss",
-      "summary": "OpenAI open-weight reasoning models.",
+      "title": "GPT-5 launch",
+      "summary": "Mainline generation jump.",
       "links": [
         "https://openai.com"
       ],
-      "date": "2025-08-06"
+      "date": "2025-08-07"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "GPT-5终于",
-      "note": "Years of bait fulfilled"
-    },
-    {
-      "tag": "自动思考路由",
-      "note": "Model picker anxiety"
-    },
-    {
-      "tag": "OpenAI也开源一点",
-      "note": "oss surprise"
-    }
+    "GPT-5终于来了: Long-awaited number bump",
+    "夏日模型雨: Release fatigue"
   ],
-  "community_sentiment": "Flagship convergence month; open and closed both move.",
+  "community_sentiment": "Flagship reset month; open and closed both loud.",
   "cast_candidates": [
     "gpt-5",
-    "chatgpt",
     "claude-opus-4.1",
-    "claude-4",
     "deepseek-v3.1",
-    "codex-agent",
-    "cursor",
-    "grok-4"
-  ]
+    "grok-4",
+    "cursor"
+  ],
+  "confidence": "high"
 }

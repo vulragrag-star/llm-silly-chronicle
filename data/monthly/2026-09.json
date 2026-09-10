@@ -1,69 +1,64 @@
 {
   "month": "2026-09",
-  "headline": "GPT-6 Astra + Daybreak; Images 2.5 — present edge of chronicle",
+  "headline": "DB cutoff: post-summer normalization (refresh before chapter)",
   "models_released_or_updated": [
     {
       "id": "gpt-6-astra",
-      "what_changed": "GPT-6 Astra limited rollout (Sep 3)",
-      "heat": 5
+      "what_changed": "GPT-6 Astra reporting — UNCERTAIN secondary trackers",
+      "heat": 3
     },
     {
-      "id": "chatgpt",
-      "what_changed": "Daybreak for Frontline Defenders $1B; Images 2.5 (Sep 8)",
-      "heat": 4
+      "id": "gpt-5.6",
+      "what_changed": "GPT-5.6 family still widely discussed as current line",
+      "heat": 2
+    },
+    {
+      "id": "claude-opus-5",
+      "what_changed": "Claude Opus 5 / Fable line remain discourse leaders",
+      "heat": 2
+    },
+    {
+      "id": "qwen",
+      "what_changed": "Qwen3.8 generation still rolling out variants",
+      "heat": 2
+    },
+    {
+      "id": "kimi",
+      "what_changed": "Kimi K3 ecosystem adoption",
+      "heat": 2
+    },
+    {
+      "id": "deepseek-v4",
+      "what_changed": "DeepSeek-V4 Flash/Pro serving iterations",
+      "heat": 2
     }
   ],
   "events": [
     {
-      "title": "GPT-6 Astra",
-      "summary": "Computer use / cyber Critical threshold; limited org rollout.",
-      "links": [
-        "https://www.scriptbyai.com/timeline-of-chatgpt/"
-      ],
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Daybreak Frontline",
-      "summary": "$1B subsidized defender access commitment.",
-      "links": [
-        "https://www.scriptbyai.com/timeline-of-chatgpt/"
-      ],
-      "date": "2026-09-03"
-    },
-    {
-      "title": "ChatGPT Images 2.5",
-      "summary": "Image model quality/latency update.",
-      "links": [
-        "https://www.scriptbyai.com/timeline-of-chatgpt/"
-      ],
-      "date": "2026-09-08"
+      "title": "DB coverage end",
+      "summary": "Append new releases after this snapshot; verify Sep 2026 primaries before chapter canon.",
+      "links": []
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Astra临界",
-      "note": "Cyber capability threshold lore"
-    },
-    {
-      "tag": "正面防御十亿",
-      "note": "Daybreak branding"
-    },
-    {
-      "tag": "写到这里",
-      "note": "Chronicle catches present"
-    }
+    "又要换默认模型吗: Upgrade fatigue",
+    "开源大餐后的部署现实: VRAM economics"
   ],
-  "community_sentiment": "Frontier capability + governance theater; novel 'present day' anchor.",
+  "community_sentiment": "Normalization after summer flood; cost/latency/agents > raw params.",
   "cast_candidates": [
+    "gpt-5.6",
     "gpt-6-astra",
-    "chatgpt",
     "claude-opus-5",
-    "gemini-3.1",
+    "qwen",
+    "kimi",
     "deepseek-v4",
+    "gemini-3",
     "cursor",
-    "openclaw",
+    "claude-code",
     "codex-agent",
-    "grok-4.6",
-    "composer-model"
-  ]
+    "openclaw",
+    "grok-bot"
+  ],
+  "confidence": "medium",
+  "notes": " Cutoff month; verify primary sources before chapter."
 }

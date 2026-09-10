@@ -1,20 +1,20 @@
 {
   "month": "2023-06",
-  "headline": "Code Interpreter hype; Phi-1; 百川; midyear hangover",
+  "headline": "Code Interpreter; Phi-1; 百川; GPT-4 API GA path; midyear hangover",
   "models_released_or_updated": [
     {
       "id": "chatgpt",
-      "what_changed": "Code Interpreter / ADA path",
+      "what_changed": "Code Interpreter / Advanced Data Analysis path (Jul early but June hype)",
       "heat": 4
     },
     {
       "id": "phi-1",
-      "what_changed": "Phi-1 small LM",
+      "what_changed": "Microsoft Phi-1 small LM (Jun)",
       "heat": 3
     },
     {
       "id": "baichuan",
-      "what_changed": "百川 early releases",
+      "what_changed": "百川大模型 early releases (Jun era)",
       "heat": 3
     },
     {
@@ -24,47 +24,38 @@
     },
     {
       "id": "cody",
-      "what_changed": "Sourcegraph Cody",
+      "what_changed": "Sourcegraph Cody productization",
       "heat": 2
     },
     {
       "id": "continue-dev",
-      "what_changed": "Continue OSS",
+      "what_changed": "Continue OSS IDE assistant",
       "heat": 2
     },
     {
       "id": "gpt-engineer",
-      "what_changed": "GPT-Engineer viral",
+      "what_changed": "GPT-Engineer viral repo",
       "heat": 3
     }
   ],
   "events": [
     {
       "title": "Code Interpreter hype",
-      "summary": "ChatGPT runs code/analyzes files.",
+      "summary": "ChatGPT runs code/analyzes files — 'data analyst in a box'.",
       "links": [
         "https://openai.com"
       ]
     },
     {
       "title": "Phi-1",
-      "summary": "Tiny models punching above weight.",
+      "summary": "Tiny models punching above weight narrative starts.",
       "links": []
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Code Interpreter",
-      "note": "Upload CSV become CFO"
-    },
-    {
-      "tag": "流量下滑",
-      "note": "First traffic plateau rumors"
-    },
-    {
-      "tag": "小模型逆袭",
-      "note": "Phi discourse"
-    }
+    "Code Interpreter: Upload CSV become CFO",
+    "流量下滑闲聊: First ChatGPT traffic plateau rumors",
+    "小模型逆袭: Phi/small-LM discourse"
   ],
   "community_sentiment": "Feature maturation; CN startups ship; fatigue mixed with new tools.",
   "cast_candidates": [
@@ -78,5 +69,6 @@
     "claude-1",
     "ernie-bot",
     "qwen"
-  ]
+  ],
+  "confidence": "high"
 }

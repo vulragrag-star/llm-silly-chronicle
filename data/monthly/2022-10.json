@@ -4,33 +4,27 @@
   "models_released_or_updated": [
     {
       "id": "langchain",
-      "what_changed": "LangChain gains traction",
+      "what_changed": "LangChain gains traction (Oct era)",
       "heat": 4
     },
     {
       "id": "github-copilot",
-      "what_changed": "Lawsuit discourse seeds",
+      "what_changed": "Ongoing adoption; lawsuit seeds",
       "heat": 3
     }
   ],
   "events": [
     {
       "title": "LangChain rise",
-      "summary": "Chains/agents abstraction becomes hobby default.",
+      "summary": "Chains/agents abstraction becomes default hobby framework.",
       "links": [
         "https://github.com/langchain-ai/langchain"
       ]
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "prompt chains",
-      "note": "Everything is a chain"
-    },
-    {
-      "tag": "Copilot lawsuit chatter",
-      "note": "Doe v. GitHub"
-    }
+    "prompt chains: Everything is a chain",
+    "Copilot lawsuit chatter: Doe v. GitHub discourse"
   ],
   "community_sentiment": "Builder energy shifts toward app frameworks.",
   "cast_candidates": [
@@ -39,5 +33,6 @@
     "stable-diffusion",
     "github-copilot",
     "gpt-3.5"
-  ]
+  ],
+  "confidence": "high"
 }

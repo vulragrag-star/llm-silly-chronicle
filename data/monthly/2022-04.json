@@ -4,7 +4,7 @@
   "models_released_or_updated": [
     {
       "id": "palm",
-      "what_changed": "PaLM 540B (Apr 4)",
+      "what_changed": "PaLM 540B paper/blog (Apr 4)",
       "heat": 4
     },
     {
@@ -14,14 +14,14 @@
     },
     {
       "id": "midjourney",
-      "what_changed": "V2 (Apr 12)",
+      "what_changed": "V2 launches (Apr 12)",
       "heat": 3
     }
   ],
   "events": [
     {
       "title": "PaLM",
-      "summary": "Google 540B Pathways LM.",
+      "summary": "Google Pathways Language Model 540B.",
       "links": [
         "https://research.google/blog/pathways-language-model-palm-scaling-to-540-billion-parameters-for-breakthrough-performance/"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "title": "DALL·E 2",
-      "summary": "Higher-res image gen; waitlist culture.",
+      "summary": "4x resolution leap vs DALL·E 1; waitlist culture.",
       "links": [
         "https://openai.com/index/dall-e-2/"
       ],
@@ -37,21 +37,16 @@
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "outpainting",
-      "note": "Image editing party trick"
-    },
-    {
-      "tag": "waitlist flex",
-      "note": "Invite screenshots as status"
-    }
+    "outpainting: Image editing becomes a party trick",
+    "waitlist flex: Screenshots of DALL·E invites as status"
   ],
-  "community_sentiment": "Image models steal spotlight; text LLMs still API-gated.",
+  "community_sentiment": "Image models steal the spotlight; text LLMs still API-gated.",
   "cast_candidates": [
     "dalle-2",
     "palm",
     "midjourney",
     "gpt-3.5",
     "github-copilot"
-  ]
+  ],
+  "confidence": "high"
 }

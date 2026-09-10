@@ -1,12 +1,7 @@
 {
   "month": "2025-02",
-  "headline": "Grok 3; Claude 3.7 + Claude Code; GPT-4.5",
+  "headline": "Claude 3.7 + Claude Code + Grok 3 + GPT-4.5",
   "models_released_or_updated": [
-    {
-      "id": "grok-3",
-      "what_changed": "Grok 3 (Feb 17–19)",
-      "heat": 5
-    },
     {
       "id": "claude-3.7-sonnet",
       "what_changed": "Claude 3.7 Sonnet hybrid reasoning (Feb 24)",
@@ -14,27 +9,29 @@
     },
     {
       "id": "claude-code",
-      "what_changed": "Claude Code CLI emerges",
+      "what_changed": "Claude Code research preview (Feb 24)",
+      "heat": 5
+    },
+    {
+      "id": "grok-3",
+      "what_changed": "Grok 3 / mini (Feb 17)",
       "heat": 4
     },
     {
       "id": "gpt-4.5",
       "what_changed": "GPT-4.5 research preview (Feb 27)",
       "heat": 4
+    },
+    {
+      "id": "gemini-2",
+      "what_changed": "Gemini 2.0 Pro experimental (Feb 5)",
+      "heat": 3
     }
   ],
   "events": [
     {
-      "title": "Grok 3",
-      "summary": "xAI reasoning-agent age marketing.",
-      "links": [
-        "https://x.ai/news"
-      ],
-      "date": "2025-02-19"
-    },
-    {
-      "title": "Claude 3.7 + Code",
-      "summary": "Hybrid reasoning + agentic coding CLI.",
+      "title": "Claude Code + 3.7",
+      "summary": "Terminal agent + hybrid thinking same day.",
       "links": [
         "https://www.anthropic.com"
       ],
@@ -42,28 +39,18 @@
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Grok 3冲榜",
-      "note": "Colossus cluster flex"
-    },
-    {
-      "tag": "Claude Code",
-      "note": "Terminal as tavern"
-    },
-    {
-      "tag": "GPT-4.5暖场",
-      "note": "Not-5 yet jokes"
-    }
+    "Claude Code接管仓库: Agentic IDE CLI",
+    "Grok3直播: Launch spectacle",
+    "GPT-4.5人味: Personality claims"
   ],
-  "community_sentiment": "Reasoning everywhere; coding CLI agents become identity.",
+  "community_sentiment": "Coding agents leave chat boxes; labs ship personality + reason.",
   "cast_candidates": [
-    "grok-3",
     "claude-3.7-sonnet",
     "claude-code",
+    "grok-3",
     "gpt-4.5",
-    "deepseek-r1",
     "cursor",
-    "chatgpt",
-    "codex-agent"
-  ]
+    "deepseek-r1"
+  ],
+  "confidence": "high"
 }

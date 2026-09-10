@@ -1,61 +1,53 @@
 {
   "month": "2024-11",
-  "headline": "MCP; 豆包生吃文心; election AI discourse",
+  "headline": "Claude 3.5 Haiku + Qwen2.5-Coder + QwQ + MCP",
   "models_released_or_updated": [
     {
+      "id": "claude-3.5-haiku",
+      "what_changed": "Claude 3.5 Haiku (Nov 4)",
+      "heat": 3
+    },
+    {
+      "id": "qwen",
+      "what_changed": "Qwen2.5-Coder-32B (Nov 12); QwQ-32B-Preview (Nov 28)",
+      "heat": 4
+    },
+    {
+      "id": "pixtral",
+      "what_changed": "Pixtral Large (Nov 18)",
+      "heat": 3
+    },
+    {
       "id": "mcp",
-      "what_changed": "Model Context Protocol announced by Anthropic",
+      "what_changed": "Model Context Protocol announced",
       "heat": 4
-    },
-    {
-      "id": "doubao",
-      "what_changed": "CN MAU leadership discourse ('生吃文心')",
-      "heat": 4
-    },
-    {
-      "id": "chatgpt",
-      "what_changed": "Creative writing upgrades etc.",
-      "heat": 2
     }
   ],
   "events": [
     {
       "title": "MCP",
-      "summary": "Open standard for tool/context wiring — later industry-adopted.",
-      "links": [
-        "https://modelcontextprotocol.io"
-      ]
+      "summary": "Anthropic open protocol for tool/context wiring.",
+      "links": [],
+      "date": "2024-11"
     },
     {
-      "title": "豆包 vs 文心",
-      "summary": "Download/MAU narratives; 文小言 rename discourse.",
-      "links": [
-        "https://finance.sina.com.cn/stock/stockzmt/2024-11-11/doc-incvsusy9120895.shtml"
-      ]
+      "title": "QwQ preview",
+      "summary": "Open reasoning follows o1 narrative.",
+      "links": [],
+      "date": "2024-11-28"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "MCP插头",
-      "note": "USB for AI tools"
-    },
-    {
-      "tag": "豆包生吃文心",
-      "note": "CN consumer AI ranking meme"
-    },
-    {
-      "tag": "文小言",
-      "note": "Rename roast"
-    }
+    "开源也要think: Open reasoning race",
+    "MCP插头: USB-C for tools meme"
   ],
-  "community_sentiment": "Tool protocol future; CN consumer ranking drama.",
+  "community_sentiment": "Coding + reasoning open models; protocol layer appears.",
   "cast_candidates": [
+    "claude-3.5-haiku",
+    "qwen",
     "mcp",
-    "doubao",
-    "ernie-bot",
-    "claude-3.5-sonnet",
-    "chatgpt",
-    "kimi",
-    "cursor"
-  ]
+    "pixtral",
+    "o1"
+  ],
+  "confidence": "high"
 }

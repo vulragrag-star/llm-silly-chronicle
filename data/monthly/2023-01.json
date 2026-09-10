@@ -1,6 +1,6 @@
 {
   "month": "2023-01",
-  "headline": "100M race; MusicLM; exams panic; local RP frontends",
+  "headline": "100M race; MusicLM; exams panic; InstructGPT's children grow up",
   "models_released_or_updated": [
     {
       "id": "chatgpt",
@@ -9,45 +9,38 @@
     },
     {
       "id": "musiclm",
-      "what_changed": "MusicLM examples (Jan 26)",
+      "what_changed": "Google MusicLM examples (Jan 26)",
       "heat": 3
     },
     {
       "id": "sillytavern",
-      "what_changed": "Tavern/SillyTavern RP frontend wave",
+      "what_changed": "Tavern/SillyTavern local RP frontend wave (approx)",
       "heat": 3
     }
   ],
   "events": [
     {
-      "title": "Exam discourse",
-      "summary": "Law/business exam performance stories.",
+      "title": "ChatGPT exam discourse",
+      "summary": "Law/business exam performance stories circulate.",
       "links": [
         "https://www.scriptbyai.com/timeline-of-chatgpt/"
       ]
     },
     {
       "title": "MusicLM",
-      "summary": "Google text-to-music demos.",
-      "links": [],
+      "summary": "Text-to-music demos from Google Research.",
+      "links": [
+        "https://google-research.github.io/seanet/musiclm/examples/"
+      ],
       "date": "2023-01-26"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "考试危机",
-      "note": "Detect-ChatGPT folklore"
-    },
-    {
-      "tag": "DAN 3.0",
-      "note": "Jailbreak arms race"
-    },
-    {
-      "tag": "本地跑角色",
-      "note": "CN character-card culture"
-    }
+    "考试危机: Teachers invent 'detect ChatGPT' folklore",
+    "DAN 3.0: Jailbreak arms race continues",
+    "本地跑角色: CN SillyTavern/character-card culture grows"
   ],
-  "community_sentiment": "Panic + wonder; schools scramble; RP invents cards.",
+  "community_sentiment": "Panic + wonder; schools scramble; RP communities invent cards.",
   "cast_candidates": [
     "chatgpt",
     "musiclm",
@@ -55,5 +48,6 @@
     "sillytavern",
     "stable-diffusion",
     "midjourney"
-  ]
+  ],
+  "confidence": "high"
 }

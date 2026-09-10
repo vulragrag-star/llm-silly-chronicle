@@ -1,68 +1,38 @@
 {
   "month": "2023-10",
-  "headline": "Kimi长文本; DALL·E 3; Cursor seed; Voice mode seeds",
+  "headline": "Kimi long-context debut; agent winter after spring",
   "models_released_or_updated": [
     {
       "id": "kimi",
-      "what_changed": "Kimi内测 20万字上下文 (Oct 9)",
+      "what_changed": "Moonshot Kimi closed beta / 128K context (Oct)",
       "heat": 5
     },
     {
-      "id": "dalle-3",
-      "what_changed": "Wider ChatGPT availability",
-      "heat": 4
-    },
-    {
-      "id": "cursor",
-      "what_changed": "OpenAI Startup Fund seed (~Oct)",
-      "heat": 4
-    },
-    {
       "id": "chatgpt",
-      "what_changed": "Voice/vision multimodal teases",
-      "heat": 4
+      "what_changed": "Browse/voice feature churn continues",
+      "heat": 3
     }
   ],
   "events": [
     {
-      "title": "Kimi launch",
-      "summary": "Moonshot 200k Chinese-char context assistant.",
+      "title": "Kimi",
+      "summary": "CN long-context branding becomes product differentiator.",
       "links": [
-        "https://zh.wikipedia.org/zh-cn/Kimi_(%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA)"
-      ],
-      "date": "2023-10-09"
-    },
-    {
-      "title": "Cursor funding",
-      "summary": "Anysphere seed led by OpenAI Startup Fund.",
-      "links": [
-        "https://en.wikipedia.org/wiki/Cursor_(company)"
+        "https://en.wikipedia.org/wiki/Kimi_(AI)"
       ]
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "长文本之王",
-      "note": "Kimi as CN ChatGPT long-doc killer"
-    },
-    {
-      "tag": "语音聊天",
-      "note": "Talk to ChatGPT hype"
-    },
-    {
-      "tag": "IDE fork wars",
-      "note": "Cursor vs Copilot discourse starts"
-    }
+    "能吞下一本书: Context length flex",
+    "Agent回落: AutoGPT hangover"
   ],
-  "community_sentiment": "CN long-context product-market fit; coding IDE AI war begins.",
+  "community_sentiment": "Context length marketing battlefield; agents quieter.",
   "cast_candidates": [
     "kimi",
-    "dalle-3",
-    "cursor",
-    "chatgpt",
     "claude-2",
-    "github-copilot",
-    "doubao",
-    "qwen"
-  ]
+    "chatgpt",
+    "mistral-7b",
+    "perplexity"
+  ],
+  "confidence": "high"
 }

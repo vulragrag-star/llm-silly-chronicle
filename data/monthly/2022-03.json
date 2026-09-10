@@ -1,6 +1,6 @@
 {
   "month": "2022-03",
-  "headline": "GPT-3.5 lineage; ChatGLM research; Copilot expands",
+  "headline": "GPT-3.5 lineage and ChatGLM research stir; Copilot expands",
   "models_released_or_updated": [
     {
       "id": "gpt-3.5",
@@ -14,7 +14,7 @@
     },
     {
       "id": "github-copilot",
-      "what_changed": "VS 2022 support (Mar 29)",
+      "what_changed": "VS 2022 support announced (Mar 29)",
       "heat": 3
     }
   ],
@@ -28,10 +28,7 @@
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "few-shot prompting",
-      "note": "Prompt engineering as folk craft"
-    }
+    "few-shot prompting: Prompt engineering as folk craft"
   ],
   "community_sentiment": "Developer-tooling heat rising; consumer chat not mainstream yet.",
   "cast_candidates": [
@@ -39,5 +36,6 @@
     "github-copilot",
     "midjourney",
     "chatglm"
-  ]
+  ],
+  "confidence": "high"
 }

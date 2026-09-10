@@ -1,73 +1,55 @@
 {
   "month": "2025-10",
-  "headline": "DevDay Apps/AgentKit; Cursor 2.0 Composer model; Claude Haiku 4.5",
+  "headline": "Claude Haiku 4.5 + Codex GA + MiniMax-M2 + Composer model",
   "models_released_or_updated": [
     {
-      "id": "chatgpt",
-      "what_changed": "Apps in ChatGPT + AgentKit @ DevDay (Oct 7)",
-      "heat": 5
-    },
-    {
-      "id": "codex-agent",
-      "what_changed": "Codex GA features, Slack, SDK",
-      "heat": 4
-    },
-    {
-      "id": "composer-model",
-      "what_changed": "Cursor 2.0 + Composer proprietary model",
-      "heat": 5
-    },
-    {
       "id": "claude-haiku-4.5",
-      "what_changed": "Haiku 4.5 (Oct 15)",
+      "what_changed": "Claude Haiku 4.5 (Oct 15)",
       "heat": 3
     },
     {
-      "id": "sora",
-      "what_changed": "Sora 2 in API",
+      "id": "codex-agent",
+      "what_changed": "Codex generally available (Oct 6)",
+      "heat": 4
+    },
+    {
+      "id": "minimax",
+      "what_changed": "MiniMax-M2 (Oct 27)",
+      "heat": 3
+    },
+    {
+      "id": "kimi",
+      "what_changed": "Kimi Linear (Oct 30)",
+      "heat": 3
+    },
+    {
+      "id": "composer-model",
+      "what_changed": "Cursor Composer model line visibility",
       "heat": 3
     }
   ],
   "events": [
     {
-      "title": "DevDay 2025",
-      "summary": "Apps SDK, AgentKit, Codex GA, GPT-5 Pro API.",
+      "title": "Codex GA",
+      "summary": "Cloud coding agent leaves preview.",
       "links": [
-        "https://www.prompthub.us/blog/openai-devday-2025-roundup-apps-agents-and-the-new-ai-stack"
+        "https://openai.com"
       ],
-      "date": "2025-10-07"
-    },
-    {
-      "title": "Cursor 2.0",
-      "summary": "Multi-agent + first-party Composer model.",
-      "links": [
-        "https://research.contrary.com/company/cursor"
-      ]
+      "date": "2025-10-06"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "ChatGPT App Store 2.0",
-      "note": "Déjà vu GPTs"
-    },
-    {
-      "tag": "Composer模型",
-      "note": "IDE makes its own brain"
-    },
-    {
-      "tag": "多Agent并行",
-      "note": "8 agents in worktrees"
-    }
+    "Codex转正: Agent graduation",
+    "Haiku又快又香: Cheap fast tier"
   ],
-  "community_sentiment": "Platform wars: Apps inside ChatGPT vs agents inside Cursor.",
+  "community_sentiment": "Agents graduate; fast cheap tiers keep apps snappy.",
   "cast_candidates": [
-    "chatgpt",
-    "codex-agent",
-    "composer-model",
-    "cursor",
     "claude-haiku-4.5",
-    "gpt-5",
-    "sora",
-    "claude-code"
-  ]
+    "codex-agent",
+    "minimax",
+    "kimi",
+    "composer-model",
+    "cursor"
+  ],
+  "confidence": "high"
 }

@@ -1,90 +1,68 @@
 {
   "month": "2024-02",
-  "headline": "Sora; Bard→Gemini; Gemini Ultra; Gemma; Grok-1 OSS; Mistral Large",
+  "headline": "Gemini 1.5 Pro 1M + Gemma + Mistral Large + Sora demo",
   "models_released_or_updated": [
     {
-      "id": "sora",
-      "what_changed": "Sora research preview (Feb 15)",
-      "heat": 5
-    },
-    {
-      "id": "gemini-app",
-      "what_changed": "Bard renamed Gemini (Feb 8)",
-      "heat": 5
-    },
-    {
-      "id": "gemini-1",
-      "what_changed": "Gemini Advanced / Ultra 1.0",
+      "id": "gemini-1.5",
+      "what_changed": "Gemini 1.5 Pro long-context preview (Feb 15)",
       "heat": 5
     },
     {
       "id": "gemma",
-      "what_changed": "Gemma open models",
+      "what_changed": "Gemma 2B/7B open (Feb 21)",
       "heat": 4
     },
     {
-      "id": "grok-1",
-      "what_changed": "Grok-1 weights open-sourced (Mar spillover Mar 17—note spill)",
+      "id": "gemini-app",
+      "what_changed": "Bard rebranded toward Gemini Advanced (Feb 8 Ultra path)",
       "heat": 4
     },
     {
       "id": "mistral-large",
-      "what_changed": "Mistral Large",
+      "what_changed": "Mistral Large API (Feb 26)",
       "heat": 4
     },
     {
-      "id": "gemini-1.5",
-      "what_changed": "1.5 Pro early demos (Feb)",
-      "heat": 4
+      "id": "sora",
+      "what_changed": "OpenAI Sora text-to-video research demo",
+      "heat": 5
+    },
+    {
+      "id": "qwen",
+      "what_changed": "Qwen1.5 open family (Feb 4)",
+      "heat": 3
     }
   ],
   "events": [
     {
       "title": "Sora",
-      "summary": "Text-to-video wow demos.",
+      "summary": "Cinematic text-to-video demos redefine expectations.",
       "links": [
         "https://openai.com"
       ],
+      "date": "2024-02"
+    },
+    {
+      "title": "1M context",
+      "summary": "Needle-in-haystack demos go viral.",
+      "links": [],
       "date": "2024-02-15"
-    },
-    {
-      "title": "Bard→Gemini",
-      "summary": "Rebrand + Ultra paid tier.",
-      "links": [
-        "https://9to5google.com/2024/02/08/google-gemini-advanced/"
-      ],
-      "date": "2024-02-08"
-    },
-    {
-      "title": "Gemma",
-      "summary": "Google open lightweight models.",
-      "links": []
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Sora视频",
-      "note": "Movie trailer AI panic/joy"
-    },
-    {
-      "tag": "Bard改名",
-      "note": "Brand laundry"
-    },
-    {
-      "tag": "百万token",
-      "note": "1.5 Pro long context folklore"
-    }
+    "海量上下文: 1M tokens flex",
+    "Sora物理学: Beautiful but wrong physics",
+    "Gemma开源: Google open small models"
   ],
-  "community_sentiment": "Video is the new image; Google consolidates brand; open Gemma.",
+  "community_sentiment": "Context & video steal the show; EU open labs stay competitive.",
   "cast_candidates": [
-    "sora",
-    "gemini-app",
-    "gemini-1",
+    "gemini-1.5",
     "gemma",
+    "sora",
     "mistral-large",
+    "qwen",
     "chatgpt",
-    "claude-2.1",
-    "runway",
-    "doubao"
-  ]
+    "claude-2.1"
+  ],
+  "confidence": "high"
 }

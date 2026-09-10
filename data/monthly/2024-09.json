@@ -1,67 +1,54 @@
 {
   "month": "2024-09",
-  "headline": "o1-preview reasoning; Llama 3.2; Pixtral; Advanced Voice",
+  "headline": "o1-preview reasoning + Llama 3.2 + Qwen2.5 + Pixtral",
   "models_released_or_updated": [
     {
       "id": "o1",
-      "what_changed": "o1-preview / o1-mini (Sep 12)",
+      "what_changed": "o1-preview + o1-mini (Sep 12)",
       "heat": 5
     },
     {
       "id": "llama-3.2",
-      "what_changed": "Llama 3.2 text+vision",
+      "what_changed": "Llama 3.2 multimodal/edge (Sep 25)",
+      "heat": 4
+    },
+    {
+      "id": "qwen",
+      "what_changed": "Qwen2.5 + Math (Sep 19)",
       "heat": 4
     },
     {
       "id": "pixtral",
-      "what_changed": "Pixtral multimodal Mistral",
+      "what_changed": "Mistral Pixtral 12B (Sep 11)",
       "heat": 3
     },
     {
-      "id": "chatgpt",
-      "what_changed": "Advanced Voice wider rollout",
-      "heat": 4
+      "id": "deepseek-v2.5",
+      "what_changed": "DeepSeek-V2.5 (Sep 5)",
+      "heat": 2
     }
   ],
   "events": [
     {
-      "title": "o1-preview",
-      "summary": "OpenAI reasoning models that 'think' before answering.",
+      "title": "o1 reasoning models",
+      "summary": "Hidden chain-of-thought; thinking product category born.",
       "links": [
         "https://openai.com"
       ],
       "date": "2024-09-12"
-    },
-    {
-      "title": "Llama 3.2",
-      "summary": "Small + vision Llama variants.",
-      "links": [],
-      "date": "2024-09-25"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "o1思考中",
-      "note": "Spinner as personality"
-    },
-    {
-      "tag": "推理模型",
-      "note": "Math olympiad flex"
-    },
-    {
-      "tag": "Voice Mode DAN",
-      "note": "Flirty voice jailbreak TikToks"
-    }
+    "它在思考: Loading animation as product",
+    "草莓计划: Strawberry rumors made real"
   ],
-  "community_sentiment": "Reasoning models new category; voice intimacy discourse returns.",
+  "community_sentiment": "Reasoning-time compute becomes the new scaling story.",
   "cast_candidates": [
     "o1",
-    "chatgpt",
     "llama-3.2",
-    "claude-3.5-sonnet",
-    "grok-2",
-    "cursor",
-    "kimi",
-    "doubao"
-  ]
+    "qwen",
+    "pixtral",
+    "claude-3.5-sonnet"
+  ],
+  "confidence": "high"
 }

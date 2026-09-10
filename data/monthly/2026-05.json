@@ -1,57 +1,51 @@
 {
   "month": "2026-05",
-  "headline": "Claude Opus 4.8; Daybreak cyber program seeds; Composer 2.5 chatter",
+  "headline": "Claude Opus 4.8 + Gemini 3.5 Flash + Qwen3.7-Max + Grok 4.3",
   "models_released_or_updated": [
     {
       "id": "claude-opus-4.8",
-      "what_changed": "Opus 4.8 (May 28)",
+      "what_changed": "Claude Opus 4.8 (May 28)",
+      "heat": 5
+    },
+    {
+      "id": "gemini-3",
+      "what_changed": "Gemini 3.5 Flash GA (May 19)",
       "heat": 4
     },
     {
-      "id": "chatgpt",
-      "what_changed": "Daybreak cyber-defender program narratives",
+      "id": "qwen",
+      "what_changed": "Qwen3.7-Max (May 20)",
+      "heat": 4
+    },
+    {
+      "id": "grok-4",
+      "what_changed": "Grok 4.3 (May 6); Grok Build 0.1 (May 19)",
       "heat": 3
     },
     {
-      "id": "composer-model",
-      "what_changed": "Composer 2.5 pricing/perf claims (approx May)",
+      "id": "gpt-5.5",
+      "what_changed": "GPT-5.5 Instant + Realtime-2 family",
       "heat": 3
     }
   ],
   "events": [
     {
-      "title": "Opus 4.8",
-      "summary": "Dynamic workflows / effort dial features in release notes lore.",
-      "links": [
-        "https://mungomash.com/ai/claude/versions/"
-      ],
-      "date": "2026-05-28"
-    },
-    {
-      "title": "Daybreak",
-      "summary": "OpenAI defensive cyber access program expands through 2026.",
-      "links": [
-        "https://www.scriptbyai.com/timeline-of-chatgpt/"
-      ]
+      "title": "Mid-2026 workhorse upgrades",
+      "summary": "Flash/Max/Opus lanes refresh.",
+      "links": []
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "努力值旋钮",
-      "note": "Effort dial as character trait"
-    },
-    {
-      "tag": "网络安全门槛",
-      "note": "Critical capability discourse"
-    }
+    "Flash性价比永动机: Fast tier forever",
+    "Grok Build: Coding agent from xAI"
   ],
-  "community_sentiment": "Safety/capability dual-use tension returns to headlines.",
+  "community_sentiment": "Production models prioritized over pure wow demos.",
   "cast_candidates": [
     "claude-opus-4.8",
-    "chatgpt",
-    "gpt-5.5",
-    "composer-model",
-    "openclaw",
-    "codex-agent"
-  ]
+    "gemini-3",
+    "qwen",
+    "grok-4",
+    "gpt-5.5"
+  ],
+  "confidence": "high"
 }

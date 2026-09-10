@@ -1,15 +1,15 @@
 {
   "month": "2026-02",
-  "headline": "Claude 4.6; GPT-5.3-Codex; Gemini 3.1; Steinberger→OpenAI reports",
+  "headline": "Claude 4.6 + GPT-5.3-Codex + Qwen3.5 + Gemini 3.1 + Grok 4.20",
   "models_released_or_updated": [
     {
       "id": "claude-opus-4.6",
-      "what_changed": "Opus 4.6 (Feb 5)",
-      "heat": 4
+      "what_changed": "Claude Opus 4.6 (Feb 5)",
+      "heat": 5
     },
     {
       "id": "claude-sonnet-4.6",
-      "what_changed": "Sonnet 4.6 (Feb 17)",
+      "what_changed": "Claude Sonnet 4.6 (Feb 17)",
       "heat": 4
     },
     {
@@ -18,54 +18,45 @@
       "heat": 4
     },
     {
+      "id": "qwen",
+      "what_changed": "Qwen3.5 + Plus (Feb 16)",
+      "heat": 4
+    },
+    {
       "id": "gemini-3.1",
       "what_changed": "Gemini 3.1 Pro preview (Feb 19)",
       "heat": 4
     },
     {
-      "id": "openclaw",
-      "what_changed": "Foundation transition as founder joins OpenAI (reports)",
-      "heat": 4
+      "id": "grok-4",
+      "what_changed": "Grok 4.20 (Feb 17) — track as grok-4 line",
+      "heat": 3
+    },
+    {
+      "id": "minimax",
+      "what_changed": "MiniMax-M2.5 (Feb 12)",
+      "heat": 3
     }
   ],
   "events": [
     {
-      "title": "Claude 4.6 wave",
-      "summary": "Point-release cadence accelerates.",
-      "links": [
-        "https://en.wikipedia.org/wiki/Claude_(language_model)"
-      ]
-    },
-    {
-      "title": "OpenClaw foundation",
-      "summary": "Nonprofit governance + OpenAI sponsorship discourse.",
-      "links": [
-        "https://en.wikipedia.org/wiki/OpenClaw"
-      ]
+      "title": "Early-year frontier refresh",
+      "summary": "Anthropic/OpenAI/Google/Qwen all move.",
+      "links": []
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "创始人去OpenAI",
-      "note": "Lobster joins mothership jokes"
-    },
-    {
-      "tag": "Codex小数点",
-      "note": "Agent coding versions"
-    },
-    {
-      "tag": "Gemini ARC分",
-      "note": "Benchmark flex posts"
-    }
+    "版本号小数点战争: x.y inflation",
+    "Nano Banana: Gemini image nickname lore"
   ],
-  "community_sentiment": "Talent/company mashups; coding agents keep shipping.",
+  "community_sentiment": "Cadence fatigue real; still upgrading defaults.",
   "cast_candidates": [
-    "openclaw",
     "claude-opus-4.6",
     "claude-sonnet-4.6",
     "gpt-5.3-codex",
+    "qwen",
     "gemini-3.1",
-    "cursor",
-    "codex-agent"
-  ]
+    "minimax"
+  ],
+  "confidence": "high"
 }

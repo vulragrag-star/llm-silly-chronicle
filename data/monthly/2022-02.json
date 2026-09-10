@@ -11,23 +11,21 @@
   "events": [
     {
       "title": "Midjourney early access",
-      "summary": "Discord image gen limited testing before summer open beta.",
+      "summary": "Discord-based image gen starts limited testing before summer open beta.",
       "links": [
         "https://en.wikipedia.org/wiki/Midjourney"
       ]
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Discord as UI",
-      "note": "Prompting inside chat channels becomes social"
-    }
+    "Discord as UI: Prompting inside chat channels becomes a social sport"
   ],
-  "community_sentiment": "Image-gen curiosity among artists/Discord; LLMs still niche.",
+  "community_sentiment": "Image-gen curiosity among artists/Discord communities; LLMs still niche.",
   "cast_candidates": [
     "midjourney",
     "gpt-3",
     "instructgpt",
     "github-copilot"
-  ]
+  ],
+  "confidence": "high"
 }

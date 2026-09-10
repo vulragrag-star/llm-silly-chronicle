@@ -1,91 +1,60 @@
 {
   "month": "2024-12",
-  "headline": "DeepSeek-V3; o1 full; Sora public; Gemini 2.0; Llama 3.3; ChatGPT Pro $200",
+  "headline": "DeepSeek-V3 + Gemini 2.0 + o1 GA + Llama 3.3 + Sora public",
   "models_released_or_updated": [
     {
       "id": "deepseek-v3",
-      "what_changed": "DeepSeek-V3 (Dec 26)",
+      "what_changed": "DeepSeek-V3 671B MoE (Dec 26)",
+      "heat": 5
+    },
+    {
+      "id": "gemini-2",
+      "what_changed": "Gemini 2.0 Flash (Dec 11); Thinking exp (Dec 19)",
       "heat": 5
     },
     {
       "id": "o1",
-      "what_changed": "Full o1 in ChatGPT (Dec 5)",
+      "what_changed": "o1 full + ChatGPT Pro (Dec 5)",
       "heat": 5
     },
     {
-      "id": "sora",
-      "what_changed": "Sora public (Dec 9)",
-      "heat": 4
-    },
-    {
-      "id": "gemini-2",
-      "what_changed": "Gemini 2.0",
-      "heat": 4
-    },
-    {
       "id": "llama-3.3",
-      "what_changed": "Llama 3.3 70B",
-      "heat": 3
+      "what_changed": "Llama 3.3 70B (Dec 6)",
+      "heat": 4
     },
     {
-      "id": "chatgpt",
-      "what_changed": "ChatGPT Pro $200 (Dec 5)",
+      "id": "sora",
+      "what_changed": "Sora Turbo public access (Dec 9)",
       "heat": 4
     },
     {
       "id": "phi-4",
       "what_changed": "Phi-4",
-      "heat": 2
+      "heat": 3
     }
   ],
   "events": [
     {
       "title": "DeepSeek-V3",
-      "summary": "671B MoE open model; cheap API; GitHub heat.",
-      "links": [
-        "https://www.deepseek.com/en/news/deepseek-v3/"
-      ],
-      "date": "2024-12-26"
-    },
-    {
-      "title": "o1 GA + Pro",
-      "summary": "Reasoning model + $200 plan.",
-      "links": [
-        "https://openai.com"
-      ],
-      "date": "2024-12-05"
-    },
-    {
-      "title": "Sora public",
-      "summary": "Text-to-video leaves research-only.",
+      "summary": "Frontier-ish quality at startling training-cost narrative.",
       "links": [],
-      "date": "2024-12-09"
+      "date": "2024-12-26"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "DeepSeek开源之光",
-      "note": "CloseAI jokes intensify"
-    },
-    {
-      "tag": "200美元Pro",
-      "note": "Whale plan memes"
-    },
-    {
-      "tag": "Sora终于来了",
-      "note": "Waitlist graduates"
-    }
+    "V3性价比核弹: Cost shock",
+    "ChatGPT Pro 200刀: Pro tier sticker shock",
+    "Gemini 2.0 agentic: Google agents"
   ],
-  "community_sentiment": "DeepSeek underdog arc begins; reasoning goes mainstream paid; video public.",
+  "community_sentiment": "Year-end plot twist: CN open MoE + Google agents + paid Pro tiers.",
   "cast_candidates": [
     "deepseek-v3",
-    "o1",
-    "sora",
     "gemini-2",
-    "chatgpt",
-    "claude-3.5-sonnet",
+    "o1",
     "llama-3.3",
-    "cursor",
-    "doubao"
-  ]
+    "sora",
+    "phi-4",
+    "claude-3.5-sonnet"
+  ],
+  "confidence": "high"
 }

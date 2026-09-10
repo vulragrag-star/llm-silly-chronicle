@@ -4,7 +4,7 @@
   "models_released_or_updated": [
     {
       "id": "whisper",
-      "what_changed": "Whisper ASR (Sep 21)",
+      "what_changed": "Whisper ASR open release (Sep 21)",
       "heat": 4
     },
     {
@@ -21,7 +21,7 @@
   "events": [
     {
       "title": "Character.AI beta",
-      "summary": "Custom characters; LaMDA alumni founders.",
+      "summary": "Create/chat with custom characters; LaMDA alumni.",
       "links": [
         "https://en.wikipedia.org/wiki/Character.ai"
       ],
@@ -29,20 +29,16 @@
     },
     {
       "title": "Whisper",
-      "summary": "Open speech recognition model.",
-      "links": [],
+      "summary": "Robust speech recognition open model.",
+      "links": [
+        "https://openai.com"
+      ],
       "date": "2022-09-21"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "talk to celebrities",
-      "note": "c.ai roleplay entertainment"
-    },
-    {
-      "tag": "transcription magic",
-      "note": "Whisper podcasts"
-    }
+    "talk to celebrities: c.ai roleplay as entertainment",
+    "transcription magic: Whisper makes podcasts searchable"
   ],
   "community_sentiment": "Persona chat and audio tooling join image boom.",
   "cast_candidates": [
@@ -51,5 +47,6 @@
     "stable-diffusion",
     "midjourney",
     "replika"
-  ]
+  ],
+  "confidence": "high"
 }

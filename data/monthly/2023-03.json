@@ -1,15 +1,15 @@
 {
   "month": "2023-03",
-  "headline": "GPT-4 + Claude + 文心一言 + AutoGPT + Cursor — Pi Day singularity",
+  "headline": "GPT-4 + Claude + 文心一言 + AutoGPT + Cursor + Firefly — Pi Day singularity month",
   "models_released_or_updated": [
     {
       "id": "gpt-4",
-      "what_changed": "GPT-4 (Mar 14)",
+      "what_changed": "GPT-4 release (Mar 14)",
       "heat": 5
     },
     {
       "id": "claude-1",
-      "what_changed": "Claude 1 (Mar 14)",
+      "what_changed": "Claude 1 launch (Mar 14)",
       "heat": 5
     },
     {
@@ -19,12 +19,12 @@
     },
     {
       "id": "autogpt",
-      "what_changed": "AutoGPT viral (Mar 30)",
+      "what_changed": "AutoGPT GitHub viral (Mar 30)",
       "heat": 5
     },
     {
       "id": "cursor",
-      "what_changed": "Cursor IDE launch era",
+      "what_changed": "Cursor IDE launch era (Mar)",
       "heat": 4
     },
     {
@@ -34,34 +34,34 @@
     },
     {
       "id": "firefly",
-      "what_changed": "Adobe Firefly beta",
+      "what_changed": "Adobe Firefly beta wave",
       "heat": 3
     },
     {
       "id": "ms-365-copilot",
-      "what_changed": "M365 Copilot announced",
+      "what_changed": "Microsoft 365 Copilot announced",
       "heat": 4
     },
     {
       "id": "alpaca",
-      "what_changed": "Stanford Alpaca",
+      "what_changed": "Stanford Alpaca (Mar)",
       "heat": 4
     },
     {
       "id": "vicuna",
-      "what_changed": "Vicuna",
+      "what_changed": "Vicuna chatbot (Mar)",
       "heat": 4
     },
     {
       "id": "grammarlygo",
-      "what_changed": "GrammarlyGO",
+      "what_changed": "GrammarlyGO announced",
       "heat": 2
     }
   ],
   "events": [
     {
       "title": "GPT-4",
-      "summary": "Multimodal LLM; Bing revealed using GPT-4.",
+      "summary": "Multimodal LLM; Bing revealed to use GPT-4.",
       "links": [
         "https://openai.com"
       ],
@@ -69,7 +69,7 @@
     },
     {
       "title": "Claude",
-      "summary": "Anthropic chatbot launch.",
+      "summary": "Anthropic's helpful/harmless chatbot.",
       "links": [
         "https://www.anthropic.com"
       ],
@@ -77,36 +77,31 @@
     },
     {
       "title": "文心一言",
-      "summary": "Baidu rival; mixed reviews.",
-      "links": [],
+      "summary": "Baidu's ChatGPT rival demo/public beta; mixed reviews.",
+      "links": [
+        "https://finance.sina.com.cn"
+      ],
       "date": "2023-03-16"
     },
     {
       "title": "AutoGPT",
-      "summary": "Autonomous agent #1 GitHub.",
+      "summary": "Autonomous GPT-4 agent loop goes #1 GitHub.",
       "links": [
         "https://en.wikipedia.org/wiki/AutoGPT"
       ],
       "date": "2023-03-30"
+    },
+    {
+      "title": "Italy ChatGPT ban seeds",
+      "summary": "Privacy regulatory shockwave late March/April.",
+      "links": []
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "不如ChatGPT十分之一",
-      "note": "CN roast of early 文心一言"
-    },
-    {
-      "tag": "ChaosGPT",
-      "note": "AutoGPT destroy humanity"
-    },
-    {
-      "tag": "Alpaca/Vicuna",
-      "note": "Weekend fine-tunes"
-    },
-    {
-      "tag": "pause AI letter",
-      "note": "FoL open letter"
-    }
+    "不如ChatGPT十分之一: CN roast of early 文心一言",
+    "ChaosGPT: AutoGPT tasked to destroy humanity",
+    "Alpaca/Vicuna: Fine-tune LLaMA weekend projects",
+    "pause AI letter: Future of Life open letter discourse begins"
   ],
   "community_sentiment": "Peak launch month; agent hype; CN AI race official; open fine-tunes bloom.",
   "cast_candidates": [
@@ -123,5 +118,6 @@
     "firefly",
     "ms-365-copilot",
     "github-copilot"
-  ]
+  ],
+  "confidence": "high"
 }

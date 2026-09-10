@@ -1,64 +1,48 @@
 {
   "month": "2025-07",
-  "headline": "Grok 4; ChatGPT Agent; GPT-5 eve; Llama open-weights turn chatter",
+  "headline": "Grok 4 + Kimi K2 + ChatGPT agent + Qwen3-Coder",
   "models_released_or_updated": [
     {
       "id": "grok-4",
-      "what_changed": "Grok 4 + Heavy (Jul 9)",
+      "what_changed": "Grok 4 (Jul 9)",
+      "heat": 5
+    },
+    {
+      "id": "kimi",
+      "what_changed": "Kimi K2 agentic MoE (Jul 11)",
       "heat": 5
     },
     {
       "id": "chatgpt-agent",
-      "what_changed": "ChatGPT Agent mode (Jul 17)",
-      "heat": 5
+      "what_changed": "ChatGPT agent unifies Operator + deep research (Jul 17)",
+      "heat": 4
     },
     {
-      "id": "gpt-5",
-      "what_changed": "Pre-announcement fever",
+      "id": "qwen",
+      "what_changed": "Qwen3-Coder (Jul 22)",
       "heat": 4
     }
   ],
   "events": [
     {
-      "title": "Grok 4",
-      "summary": "Native tools + search; Heavy multi-agent.",
-      "links": [
-        "https://x.ai/news"
-      ],
-      "date": "2025-07-09"
-    },
-    {
-      "title": "ChatGPT Agent",
-      "summary": "Computer-using agent mode in ChatGPT.",
-      "links": [
-        "https://openai.com"
-      ],
-      "date": "2025-07-17"
+      "title": "Kimi K2",
+      "summary": "Trillion-scale MoE open-weight agent narrative.",
+      "links": [],
+      "date": "2025-07-11"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Grok Heavy",
-      "note": "Pay more think more"
-    },
-    {
-      "tag": "ChatGPT真Agent",
-      "note": "Operator mainstreamed"
-    },
-    {
-      "tag": "GPT-5要来了",
-      "note": "Countdown posts"
-    }
+    "K2开放权重狂欢: HF stampede",
+    "ChatGPT agent一键干活: Do-my-job button"
   ],
-  "community_sentiment": "Agents leave research demos into default product modes.",
+  "community_sentiment": "Agents productized inside chat UIs; open MoE scale wars.",
   "cast_candidates": [
     "grok-4",
+    "kimi",
     "chatgpt-agent",
-    "chatgpt",
-    "claude-4",
-    "codex-agent",
-    "cursor",
-    "deepseek-r1",
+    "qwen",
+    "claude-code",
     "operator"
-  ]
+  ],
+  "confidence": "high"
 }

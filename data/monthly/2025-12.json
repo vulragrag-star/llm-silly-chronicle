@@ -1,51 +1,57 @@
 {
   "month": "2025-12",
-  "headline": "GPT-5.2; DeepSeek V3.2; year-end agent fatigue/hope",
+  "headline": "GPT-5.2 + Gemini 3 Flash + DeepSeek-V3.2 + Manus↔Meta news",
   "models_released_or_updated": [
     {
       "id": "gpt-5.2",
-      "what_changed": "GPT-5.2 series (Dec 11)",
+      "what_changed": "GPT-5.2 + Codex variant (Dec 11–18)",
+      "heat": 5
+    },
+    {
+      "id": "gemini-3",
+      "what_changed": "Gemini 3 Flash (Dec 17)",
       "heat": 4
     },
     {
       "id": "deepseek-v3.2",
-      "what_changed": "V3.2 / Speciale (Dec 1)",
+      "what_changed": "DeepSeek-V3.2 (Dec 1)",
+      "heat": 4
+    },
+    {
+      "id": "mistral-large",
+      "what_changed": "Mistral Large 3 / Devstral 2 (Dec)",
       "heat": 3
     },
     {
-      "id": "chatgpt",
-      "what_changed": "Personality sliders etc.",
+      "id": "minimax",
+      "what_changed": "MiniMax-M2.1 (Dec 23)",
       "heat": 2
+    },
+    {
+      "id": "manus",
+      "what_changed": "Manus announces joining Meta (Dec 29)",
+      "heat": 4
     }
   ],
   "events": [
     {
-      "title": "GPT-5.2",
-      "summary": "Professional knowledge-work + long agents framing.",
-      "links": [
-        "https://www.scriptbyai.com/timeline-of-chatgpt/"
-      ],
-      "date": "2025-12-11"
+      "title": "Manus-Meta deal news",
+      "summary": "Agent startup joins Meta; independence drama later in 2026.",
+      "links": [],
+      "date": "2025-12-29"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "又一个小数点版本",
-      "note": "Version soup fatigue"
-    },
-    {
-      "tag": "年底Agent总结",
-      "note": "What actually shipped"
-    }
+    "年终旗舰清仓: December dump",
+    "Manus并入Meta: M&A popcorn"
   ],
-  "community_sentiment": "Incremental flagships; communities inventory what stuck.",
+  "community_sentiment": "Year-end mega-updates; M&A in agent space.",
   "cast_candidates": [
     "gpt-5.2",
-    "deepseek-v3.2",
-    "chatgpt",
-    "claude-opus-4.5",
     "gemini-3",
-    "openclaw",
-    "cursor"
-  ]
+    "deepseek-v3.2",
+    "manus",
+    "claude-opus-4.5"
+  ],
+  "confidence": "high"
 }

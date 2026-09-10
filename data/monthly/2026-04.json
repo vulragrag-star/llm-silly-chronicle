@@ -1,73 +1,69 @@
 {
   "month": "2026-04",
-  "headline": "GPT-5.5; Claude Opus 4.7; DeepSeek-V4; Muse Spark; Mythos preview",
+  "headline": "GPT-5.5 + DeepSeek-V4 + Claude Mythos/Opus 4.7 + Kimi K2.6 + Muse Spark",
   "models_released_or_updated": [
     {
       "id": "gpt-5.5",
       "what_changed": "GPT-5.5 (Apr 23)",
+      "heat": 5
+    },
+    {
+      "id": "deepseek-v4",
+      "what_changed": "DeepSeek-V4 Pro/Flash open weights (Apr 24)",
+      "heat": 5
+    },
+    {
+      "id": "claude-fable-5",
+      "what_changed": "Claude Mythos Preview (Apr 7) — restricted",
       "heat": 4
     },
     {
       "id": "claude-opus-4.7",
-      "what_changed": "Opus 4.7 (Apr 16)",
+      "what_changed": "Claude Opus 4.7 (Apr 16)",
       "heat": 4
     },
     {
-      "id": "deepseek-v4",
-      "what_changed": "DeepSeek-V4 (Apr 24)",
+      "id": "kimi",
+      "what_changed": "Kimi K2.6 (Apr 20)",
       "heat": 4
     },
     {
       "id": "muse-spark",
-      "what_changed": "Meta Muse Spark closed turn (Apr 8 reports)",
+      "what_changed": "Meta Muse Spark (Apr 8)",
       "heat": 3
     },
     {
-      "id": "claude-fable-5",
-      "what_changed": "Mythos/Fable preview reports (Apr 7) — verify",
+      "id": "gemma",
+      "what_changed": "Gemma 4 (Apr 2)",
+      "heat": 3
+    },
+    {
+      "id": "qwen",
+      "what_changed": "Qwen3.6-Plus (Apr 2)",
       "heat": 3
     }
   ],
   "events": [
     {
-      "title": "GPT-5.5",
-      "summary": "Computer-use / long work framing.",
-      "links": [
-        "https://openai.com"
-      ],
-      "date": "2026-04-23"
-    },
-    {
       "title": "DeepSeek-V4",
-      "summary": "Next DeepSeek generation per API changelog.",
-      "links": [
-        "https://api-docs.deepseek.com/updates/"
-      ],
+      "summary": "Next efficiency frontier claim with open weights.",
+      "links": [],
       "date": "2026-04-24"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Meta闭源转向",
-      "note": "Open Llama era nostalgia"
-    },
-    {
-      "tag": "Mythos",
-      "note": "Above-Opus tier lore"
-    },
-    {
-      "tag": "V4又来了",
-      "note": "DeepSeek cadence"
-    }
+    "V4又来砸场: DeepSeek sequel",
+    "Mythos限制访问: Restricted model lore",
+    "Muse Spark: Meta coding/reasoning"
   ],
-  "community_sentiment": "Closed-open pendulum; tier inflation (Mythos/Fable).",
+  "community_sentiment": "Open CN vs closed US narrative reignites; restricted models intrigue.",
   "cast_candidates": [
     "gpt-5.5",
-    "claude-opus-4.7",
     "deepseek-v4",
-    "muse-spark",
-    "cursor",
-    "openclaw",
-    "chatgpt"
-  ]
+    "claude-fable-5",
+    "claude-opus-4.7",
+    "kimi",
+    "muse-spark"
+  ],
+  "confidence": "high"
 }

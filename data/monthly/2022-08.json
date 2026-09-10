@@ -19,18 +19,9 @@
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "run locally",
-      "note": "Consumer GPUs as AI factories"
-    },
-    {
-      "tag": "WebUI",
-      "note": "AUTOMATIC1111 culture"
-    },
-    {
-      "tag": "NSFW panic",
-      "note": "Open models + filter debates"
-    }
+    "run locally: Consumer GPUs as AI factories",
+    "WebUI: AUTOMATIC1111 culture starts",
+    "NSFW panic: Open models + filter debates"
   ],
   "community_sentiment": "Democratization high; copyright anxiety spikes.",
   "cast_candidates": [
@@ -38,5 +29,6 @@
     "midjourney",
     "dalle-2",
     "github-copilot"
-  ]
+  ],
+  "confidence": "high"
 }

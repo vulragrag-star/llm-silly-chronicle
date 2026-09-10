@@ -1,6 +1,6 @@
 {
   "month": "2025-04",
-  "headline": "Llama 4; o3/o4-mini; GPT-4.1; Udio/Suno legal shadows",
+  "headline": "Llama 4 + o3/o4-mini + GPT-4.1 + Qwen3 + Codex CLI",
   "models_released_or_updated": [
     {
       "id": "llama-4",
@@ -9,57 +9,56 @@
     },
     {
       "id": "o3",
-      "what_changed": "o3 and o4-mini (Apr 16)",
+      "what_changed": "o3 + o4-mini (Apr 16)",
       "heat": 5
     },
     {
       "id": "gpt-4.1",
-      "what_changed": "GPT-4.1 API family (Apr 14)",
+      "what_changed": "GPT-4.1 / mini / nano (Apr 14)",
       "heat": 4
+    },
+    {
+      "id": "qwen",
+      "what_changed": "Qwen3 hybrid reasoning (Apr 29)",
+      "heat": 5
+    },
+    {
+      "id": "codex-agent",
+      "what_changed": "OpenAI Codex CLI (Apr 16)",
+      "heat": 4
+    },
+    {
+      "id": "kimi",
+      "what_changed": "Kimi-VL (Apr 10)",
+      "heat": 3
+    },
+    {
+      "id": "gemini-2.5",
+      "what_changed": "Gemini 2.5 Flash (Apr 17)",
+      "heat": 3
     }
   ],
   "events": [
     {
       "title": "Llama 4",
-      "summary": "MoE multimodal open-weights Llama.",
-      "links": [
-        "https://ai.meta.com"
-      ],
+      "summary": "Open multimodal MoE; huge context claims.",
+      "links": [],
       "date": "2025-04-05"
-    },
-    {
-      "title": "o3",
-      "summary": "Next reasoning generation with tools.",
-      "links": [
-        "https://openai.com"
-      ],
-      "date": "2025-04-16"
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Llama 4 MoE",
-      "note": "Scout/Maverick naming memes"
-    },
-    {
-      "tag": "o3工具调用",
-      "note": "Think+browse"
-    },
-    {
-      "tag": "音乐版权",
-      "note": "Suno/Udio lawsuit discourse ongoing"
-    }
+    "Scout/Maverick起名: Western movie model names",
+    "Qwen3 think开关: Hybrid reasoning modes"
   ],
-  "community_sentiment": "Open MoE multimodal; reasoning+tools merge; music IP fights.",
+  "community_sentiment": "Reasoning APIs + open MoE multimodal; coding CLIs proliferate.",
   "cast_candidates": [
     "llama-4",
     "o3",
     "gpt-4.1",
-    "chatgpt",
-    "claude-3.7-sonnet",
-    "deepseek-r1",
-    "suno",
-    "udio",
-    "cursor"
-  ]
+    "qwen",
+    "codex-agent",
+    "kimi",
+    "claude-code"
+  ],
+  "confidence": "high"
 }

@@ -1,52 +1,31 @@
 {
   "month": "2026-01",
-  "headline": "OpenClaw rebrands (Clawdbot→Moltbot→OpenClaw); ChatGPT Health/Go",
+  "headline": "Kimi K2.5 multimodal agents; post-holiday digest",
   "models_released_or_updated": [
     {
-      "id": "openclaw",
-      "what_changed": "Clawdbot→Moltbot (Jan 27)→OpenClaw (Jan 30); viral stars",
-      "heat": 5
-    },
-    {
-      "id": "chatgpt",
-      "what_changed": "ChatGPT Health / Go tier narratives",
-      "heat": 3
+      "id": "kimi",
+      "what_changed": "Kimi K2.5 open multimodal agentic (Jan 27)",
+      "heat": 4
     }
   ],
   "events": [
     {
-      "title": "OpenClaw naming saga",
-      "summary": "Anthropic trademark nudge; lobster molts thrice.",
-      "links": [
-        "https://openclaw.ai/blog/introducing-openclaw",
-        "https://en.wikipedia.org/wiki/OpenClaw"
-      ],
-      "date": "2026-01-30"
+      "title": "Agent swarm narratives",
+      "summary": "Multi-agent open models become discourse center.",
+      "links": []
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "换皮三次",
-      "note": "Name change speedrun"
-    },
-    {
-      "tag": "龙虾社交网络",
-      "note": "Moltbook agents-only social"
-    },
-    {
-      "tag": "GitHub星爆",
-      "note": "Fastest-star folklore"
-    }
+    "子代理成群: Swarm memes",
+    "新年第一卷: AI-written OKRs"
   ],
-  "community_sentiment": "Self-hosted agent goes mainstream meme; security warnings begin.",
+  "community_sentiment": "Builders digest 2025 flagships; CN open agents loud.",
   "cast_candidates": [
-    "openclaw",
-    "chatgpt",
-    "claude-opus-4.5",
+    "kimi",
     "gpt-5.2",
-    "deepseek-r1",
-    "cursor",
-    "codex-agent",
-    "manus"
-  ]
+    "claude-opus-4.5",
+    "openclaw",
+    "cursor"
+  ],
+  "confidence": "high"
 }

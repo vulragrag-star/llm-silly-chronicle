@@ -1,21 +1,21 @@
 {
   "month": "2025-11",
-  "headline": "Gemini 3; GPT-5.1; Claude Opus 4.5; Grok 4.1; OpenClaw/Warelay born",
+  "headline": "Gemini 3 + GPT-5.1 + Claude Opus 4.5 + Grok 4.1 + OpenClaw",
   "models_released_or_updated": [
     {
       "id": "gemini-3",
-      "what_changed": "Gemini 3 Pro (Nov 18)",
+      "what_changed": "Gemini 3 flagship (Nov 18)",
       "heat": 5
     },
     {
       "id": "gpt-5.1",
-      "what_changed": "GPT-5.1 Instant/Thinking (Nov 12–13)",
-      "heat": 4
+      "what_changed": "GPT-5.1 Instant/Thinking/Codex-Mini (Nov 12–19)",
+      "heat": 5
     },
     {
       "id": "claude-opus-4.5",
-      "what_changed": "Opus 4.5 (Nov 24)",
-      "heat": 4
+      "what_changed": "Claude Opus 4.5 (Nov 24)",
+      "heat": 5
     },
     {
       "id": "grok-4.1",
@@ -23,57 +23,42 @@
       "heat": 3
     },
     {
+      "id": "kimi",
+      "what_changed": "Kimi K2 Thinking (Nov 6)",
+      "heat": 4
+    },
+    {
       "id": "openclaw",
-      "what_changed": "Warelay/Clawd project published (Nov 24)",
+      "what_changed": "OpenClaw self-hosted agent gateway heat",
       "heat": 3
     },
     {
-      "id": "cursor",
-      "what_changed": "Series D $29.3B narrative",
-      "heat": 4
+      "id": "grok-bot",
+      "what_changed": "Grok Bot teammate framing in discourse",
+      "heat": 3
     }
   ],
   "events": [
     {
-      "title": "Gemini 3",
-      "summary": "Same-day wide availability claim; Deep Think mode.",
-      "links": [
-        "https://en.wikipedia.org/wiki/Gemini_(Google)"
-      ],
-      "date": "2025-11-18"
-    },
-    {
-      "title": "OpenClaw genesis",
-      "summary": "Steinberger self-hosted agent gateway (Warelay→Clawdbot lineage).",
-      "links": [
-        "https://en.wikipedia.org/wiki/OpenClaw"
-      ],
-      "date": "2025-11-24"
+      "title": "Triple flagship week",
+      "summary": "Google/OpenAI/Anthropic major bumps.",
+      "links": []
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "Gemini 3全日推",
-      "note": "Launch everywhere day"
-    },
-    {
-      "tag": "龙虾bot",
-      "note": "Clawd lobster birth"
-    },
-    {
-      "tag": "Cursor三千亿",
-      "note": "Valuation shock"
-    }
+    "三强同台: Same-week launches",
+    "Thinking标配化: Everyone thinks now",
+    "OpenClaw龙虾: Lobster agent gateway"
   ],
-  "community_sentiment": "Tri-lab flagship churn; lobster agent seed planted.",
+  "community_sentiment": "Frontier cadence feels weekly; users exhausted but upgrading.",
   "cast_candidates": [
     "gemini-3",
     "gpt-5.1",
     "claude-opus-4.5",
     "grok-4.1",
+    "kimi",
     "openclaw",
-    "cursor",
-    "codex-agent",
-    "deepseek-r1"
-  ]
+    "grok-bot"
+  ],
+  "confidence": "high"
 }

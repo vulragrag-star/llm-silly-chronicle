@@ -1,20 +1,20 @@
 {
   "month": "2022-12",
-  "headline": "ChatGPT viral; Perplexity; Niji; DAN jailbreak born",
+  "headline": "ChatGPT goes viral; Perplexity; Niji; holiday homework crisis",
   "models_released_or_updated": [
     {
       "id": "chatgpt",
-      "what_changed": "Viral growth path",
+      "what_changed": "Viral growth toward 100M MAU path",
       "heat": 5
     },
     {
       "id": "perplexity",
-      "what_changed": "Launch (Dec 7)",
+      "what_changed": "Answer engine launch (Dec 7)",
       "heat": 3
     },
     {
       "id": "midjourney",
-      "what_changed": "Niji anime (Dec 20)",
+      "what_changed": "Niji anime model (Dec 20)",
       "heat": 3
     },
     {
@@ -25,16 +25,16 @@
   ],
   "events": [
     {
-      "title": "Perplexity",
-      "summary": "Cited answer engine.",
+      "title": "Perplexity launch",
+      "summary": "Cited answer-engine alternative to pure chat.",
       "links": [
         "https://en.wikipedia.org/wiki/Perplexity_AI"
       ],
       "date": "2022-12-07"
     },
     {
-      "title": "DAN seeds",
-      "summary": "Do Anything Now prompts on Reddit.",
+      "title": "DAN jailbreak seeds",
+      "summary": "Early DAN prompts appear on Reddit mid-December.",
       "links": [
         "https://ironhackers.es/en/dan-jailbreak-role-play-chatgpt/"
       ],
@@ -42,18 +42,9 @@
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "DAN",
-      "note": "Jailbreak persona born"
-    },
-    {
-      "tag": "替我写作业",
-      "note": "CN students VPN discourse"
-    },
-    {
-      "tag": "Niji",
-      "note": "Anime prompts"
-    }
+    "DAN: Do Anything Now jailbreak persona born",
+    "替我写作业: CN students discover ChatGPT via VPN discourse",
+    "Niji: Anime prompt culture"
   ],
   "community_sentiment": "Mass adoption + jailbreak cat-and-mouse begins.",
   "cast_candidates": [
@@ -61,6 +52,8 @@
     "perplexity",
     "midjourney",
     "character-ai",
-    "stable-diffusion"
-  ]
+    "stable-diffusion",
+    "chatgpt"
+  ],
+  "confidence": "high"
 }

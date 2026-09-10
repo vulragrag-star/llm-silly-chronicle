@@ -435,7 +435,7 @@ MONTHS["2022-12"] = month_file(
      meme("替我写作业", "CN students discover ChatGPT via VPN discourse"),
      meme("Niji", "Anime prompt culture")],
     "Mass adoption + jailbreak cat-and-mouse begins.",
-    ["chatgpt", "perplexity", "midjourney", "character-ai", "stable-diffusion", "dan-era-chatgpt"],
+    ["chatgpt", "perplexity", "midjourney", "character-ai", "stable-diffusion", "chatgpt"],
 )
 
 # ===== 2023 H1 =====
@@ -581,11 +581,134 @@ MONTHS["2023-06"] = month_file(
     ["chatgpt", "gpt-4", "phi-1", "baichuan", "midjourney", "cody", "gpt-engineer", "claude-1", "ernie-bot", "qwen"],
 )
 
-print(f"Months defined so far: {len(MONTHS)}")
 
-# Write index + existing months; then extend 2023-07..2026-09 in same file continued below
+# Extend with 2023-07 .. 2026-09
+from extend_months import extend as _extend_months
+_extend_months(MONTHS, month_file, upd, ev, meme)
+
+print(f"Months defined: {len(MONTHS)}")
+
+# Ensure contiguous 2022-01 .. 2026-09
+def all_months():
+    out = []
+    for y in range(2022, 2027):
+        for m in range(1, 13):
+            if y == 2026 and m > 9:
+                break
+            out.append(f"{y}-{m:02d}")
+    return out
+
+missing = [mo for mo in all_months() if mo not in MONTHS]
+if missing:
+    raise SystemExit(f"Missing months: {missing}")
+
+# Write models_index.jsonl
 (DATA / "models_index.jsonl").write_text(
     "\n".join(json.dumps(x, ensure_ascii=False) for x in MODELS) + "\n",
     encoding="utf-8",
 )
-print("Wrote models_index.jsonl")
+print(f"Wrote models_index.jsonl ({len(MODELS)} entities)")
+
+# Write monthly JSON files
+for mo in all_months():
+    doc = MONTHS[mo]
+    # normalize memes to list of strings for schema stability if dicts
+    memes = doc.get("memes_and_discourse") or []
+    norm_memes = []
+    for item in memes:
+        if isinstance(item, dict):
+            tag = item.get("tag", "")
+            note = item.get("note", "")
+            norm_memes.append(f"{tag}: {note}" if note else tag)
+        else:
+            norm_memes.append(str(item))
+    doc = dict(doc)
+    doc["memes_and_discourse"] = norm_memes
+    if "confidence" not in doc:
+        # mark late-2026 softer
+        doc["confidence"] = "medium" if mo >= "2026-06" else "high"
+        if mo == "2026-09":
+            doc["confidence"] = "medium"
+            doc["notes"] = doc.get("notes", "") + " Cutoff month; verify primary sources before chapter."
+    path = MONTHLY / f"{mo}.json"
+    path.write_text(json.dumps(doc, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+print(f"Wrote {len(all_months())} monthly JSON files")
+
+# Coverage stats + MONTHLY_DB.md
+from collections import defaultdict
+RESEARCH = ROOT / "research"
+RESEARCH.mkdir(parents=True, exist_ok=True)
+stats = []
+entity_ids = {m["id"] for m in MODELS}
+used = set()
+for mo in all_months():
+    doc = json.loads((MONTHLY / f"{mo}.json").read_text(encoding="utf-8"))
+    releases = doc.get("models_released_or_updated") or []
+    for r in releases:
+        used.add(r["id"])
+    for c in doc.get("cast_candidates") or []:
+        used.add(c)
+    stats.append({
+        "month": mo,
+        "confidence": doc.get("confidence", ""),
+        "n_releases": len(releases),
+        "n_events": len(doc.get("events") or []),
+        "n_memes": len(doc.get("memes_and_discourse") or []),
+        "n_cast": len(doc.get("cast_candidates") or []),
+    })
+
+by_year = defaultdict(lambda: {"months": 0, "releases": 0})
+for s in stats:
+    by_year[s["month"][:4]]["months"] += 1
+    by_year[s["month"][:4]]["releases"] += s["n_releases"]
+
+unknown = sorted(used - entity_ids)
+if unknown:
+    print("WARN unknown entity ids referenced:", unknown)
+
+md = []
+md.append("# MONTHLY MODEL REPORT DATABASE\n\n")
+md.append("Database-first research layer for *LLM Silly Chronicle* (模型酒馆编年史).\n\n")
+md.append("## What this is\n\n")
+md.append("Month-by-month high-visibility AI model/product/tool ledger (global + CN) from **2022-01** through **2026-09**.\n\n")
+md.append("Used later for chapter writing and character casting — **not** novel prose.\n\n")
+md.append("## Layout\n\n")
+md.append("| Path | Purpose |\n|---|---|\n")
+md.append("| `data/models_index.jsonl` | One JSON object per unique entity |\n")
+md.append("| `data/monthly/YYYY-MM.json` | Per-month pack |\n")
+md.append("| `research/MONTHLY_DB.md` | This file — coverage stats & usage |\n")
+md.append("| `scripts/build_monthly_db.py` | Regenerator (+ `extend_months.py`) |\n\n")
+md.append("### Monthly JSON schema\n\n")
+md.append("```json\n{\n  \"month\": \"YYYY-MM\",\n  \"headline\": \"...\",\n  \"confidence\": \"high|medium|low|stub\",\n  \"models_released_or_updated\": [{\"id\",\"what_changed\",\"heat\"}],\n  \"events\": [{\"title\",\"summary\",\"links\",\"date?\"}],\n  \"memes_and_discourse\": [\"tag: note\"],\n  \"community_sentiment\": \"...\",\n  \"cast_candidates\": [\"entity-id\"],\n  \"notes\": \"optional uncertainty\"\n}\n```\n\n")
+md.append("`heat` is 1–5 subjective community visibility for chronicle casting.\n\n")
+md.append("## Coverage stats (this build)\n\n")
+md.append(f"- Months files: **{len(stats)}** (2022-01 … 2026-09)\n")
+md.append(f"- Unique entities in index: **{len(MODELS)}**\n")
+md.append(f"- Entities referenced in monthly files: **{len(used)}**\n")
+md.append(f"- Total release rows: **{sum(s['n_releases'] for s in stats)}**\n")
+md.append(f"- Unknown ids referenced: **{len(unknown)}**{(' — ' + ', '.join(unknown)) if unknown else ''}\n\n")
+md.append("### By year\n\n| Year | Months | Release rows |\n|---|---:|---:|\n")
+for y in sorted(by_year):
+    md.append(f"| {y} | {by_year[y]['months']} | {by_year[y]['releases']} |\n")
+md.append("\n### Per-month\n\n| Month | Conf | Releases | Events | Memes | Cast |\n|---|---|---:|---:|---:|---:|\n")
+for s in stats:
+    md.append(f"| {s['month']} | {s['confidence']} | {s['n_releases']} | {s['n_events']} | {s['n_memes']} | {s['n_cast']} |\n")
+md.append("\n## How to use\n\n")
+md.append("1. Before writing `chapters/YYYY-MM.md`, read `data/monthly/YYYY-MM.json` + prior month cast.\n")
+md.append("2. Pick cast from `cast_candidates` and high-`heat` releases; do not spoil future months.\n")
+md.append("3. Verify `confidence: medium/low` and any `notes` against primary sources before locking canon.\n")
+md.append("4. Extend: add a line via `m(...)` in `scripts/build_monthly_db.py`, add month via `extend_months.py` or MONTHS[...], re-run the script.\n")
+md.append("5. Rebuild: `python3 scripts/build_monthly_db.py` from repo root / scripts dir.\n\n")
+md.append("## Source policy\n\n")
+md.append("- Prefer official lab blogs, GitHub releases, Wikipedia, Reuters/PR for CN approvals.\n")
+md.append("- Aggregators (BenchmarkList, GPT0X, AI Release Tracker) used for cadence — mark uncertain for 2025–2026.\n")
+md.append("- This DB is a research scaffold, not a legal/compliance record.\n\n")
+md.append("## Gaps / TODO\n\n")
+md.append("- Soft dates: early Cursor/Cody/Continue/Aider/Suno/OpenClaw/StepFun first public moments.\n")
+md.append("- Midjourney v1–v6 month mapping can be refined further.\n")
+md.append("- CN regulatory approval waves beyond Aug 2023 need per-product footnotes.\n")
+md.append("- GPT-6 Astra and some Aug–Sep 2026 strings from secondary trackers — verify before chapter.\n")
+md.append("- Post-2026-09: append-only updates.\n\n")
+md.append("*Generated by `scripts/build_monthly_db.py`.*\n")
+(RESEARCH / "MONTHLY_DB.md").write_text("".join(md), encoding="utf-8")
+print("Wrote research/MONTHLY_DB.md")

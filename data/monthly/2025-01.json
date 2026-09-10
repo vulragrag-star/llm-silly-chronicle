@@ -1,43 +1,53 @@
 {
   "month": "2025-01",
-  "headline": "DeepSeek-R1 + Nvidia shock; Operator; o3-mini",
+  "headline": "DeepSeek-R1 + Operator + o3-mini + Kimi K1.5",
   "models_released_or_updated": [
     {
       "id": "deepseek-r1",
-      "what_changed": "DeepSeek-R1 / R1-Zero (Jan 20)",
+      "what_changed": "DeepSeek-R1 open reasoning (Jan 20)",
       "heat": 5
     },
     {
       "id": "operator",
-      "what_changed": "OpenAI Operator (Jan 23)",
-      "heat": 4
+      "what_changed": "OpenAI Operator preview (Jan 23)",
+      "heat": 5
     },
     {
       "id": "o3",
       "what_changed": "o3-mini (Jan 31)",
       "heat": 4
+    },
+    {
+      "id": "kimi",
+      "what_changed": "Kimi K1.5 reasoning (Jan 20)",
+      "heat": 4
+    },
+    {
+      "id": "minimax",
+      "what_changed": "MiniMax-Text-01 / VL-01 (Jan 15)",
+      "heat": 3
+    },
+    {
+      "id": "gemini-2",
+      "what_changed": "Gemini 2.0 Flash GA (Jan 30)",
+      "heat": 3
+    },
+    {
+      "id": "qwen",
+      "what_changed": "Qwen2.5-VL / 1M / Max late-Jan wave",
+      "heat": 4
     }
   ],
   "events": [
     {
-      "title": "DeepSeek-R1",
-      "summary": "Reasoning model via RL; open distillations; global frenzy.",
-      "links": [
-        "https://github.com/deepseek-ai/DeepSeek-R1"
-      ],
+      "title": "R1 moment",
+      "summary": "Open reasoning goes viral; API cost wars intensify.",
+      "links": [],
       "date": "2025-01-20"
     },
     {
-      "title": "Nvidia selloff",
-      "summary": "~Jan 27 markets reprice AI capex narrative; historic single-name loss discourse.",
-      "links": [
-        "https://umatechnology.org/deepseek-panic-why-tech-stocks-got-crushed-and-what-the-selloff-really-meant/"
-      ],
-      "date": "2025-01-27"
-    },
-    {
       "title": "Operator",
-      "summary": "Computer-using agent from OpenAI.",
+      "summary": "Computer-use agent in ChatGPT ecosystem.",
       "links": [
         "https://openai.com"
       ],
@@ -45,38 +55,19 @@
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "R1思考过程",
-      "note": "Visible CoT as product"
-    },
-    {
-      "tag": "英伟达闪崩",
-      "note": "Efficiency scare"
-    },
-    {
-      "tag": "蒸馏猫鱼图",
-      "note": "Cat-fishing meme vs OpenAI"
-    },
-    {
-      "tag": "春节锐评",
-      "note": "CN viral roast segments"
-    },
-    {
-      "tag": "OpenAI=CloseAI",
-      "note": "Open-source moral high ground"
-    }
+    "R1蒸馏全家桶: Distill everything",
+    "DeepSeek挤爆: Servers melt",
+    "Operator订餐: Agent does chores"
   ],
-  "community_sentiment": "Geopolitical + market + meme storm; reasoning democratized overnight.",
+  "community_sentiment": "Open reasoning worldwide; CN models hit Western timelines hard.",
   "cast_candidates": [
     "deepseek-r1",
-    "deepseek-v3",
     "operator",
-    "o1",
     "o3",
-    "chatgpt",
-    "claude-3.5-sonnet",
-    "cursor",
-    "doubao",
-    "kimi"
-  ]
+    "kimi",
+    "minimax",
+    "qwen",
+    "chatgpt"
+  ],
+  "confidence": "high"
 }

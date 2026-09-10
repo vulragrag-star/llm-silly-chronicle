@@ -9,7 +9,7 @@
     },
     {
       "id": "imagen",
-      "what_changed": "Google Imagen research heat",
+      "what_changed": "Google Imagen text-to-image research heat",
       "heat": 3
     }
   ],
@@ -17,21 +17,21 @@
     {
       "title": "OPT",
       "summary": "Meta releases OPT as research-accessible large LM.",
-      "links": []
+      "links": [
+        "https://ai.meta.com/blog/"
+      ]
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "open weights hunger",
-      "note": "Researchers want weights not just papers"
-    }
+    "open weights hunger: Researchers want weights, not just papers"
   ],
-  "community_sentiment": "Open-vs-closed tension rising on research Twitter.",
+  "community_sentiment": "Open-vs-closed tension rising in research Twitter.",
   "cast_candidates": [
     "opt",
     "imagen",
     "dalle-2",
     "midjourney",
     "palm"
-  ]
+  ],
+  "confidence": "high"
 }

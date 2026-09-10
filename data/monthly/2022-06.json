@@ -9,14 +9,19 @@
     },
     {
       "id": "elevenlabs",
-      "what_changed": "Voice cloning startups heating (approx)",
+      "what_changed": "Voice cloning startups heating up (approx)",
+      "heat": 2
+    },
+    {
+      "id": "cohere-command",
+      "what_changed": "Cohere Command productization era",
       "heat": 2
     }
   ],
   "events": [
     {
       "title": "Copilot GA",
-      "summary": "Subscription AI coding leaves technical preview.",
+      "summary": "Subscription AI coding assistant leaves technical preview.",
       "links": [
         "https://en.wikipedia.org/wiki/GitHub_Copilot"
       ],
@@ -24,14 +29,8 @@
     }
   ],
   "memes_and_discourse": [
-    {
-      "tag": "ghost text",
-      "note": "Gray autocomplete as coworker"
-    },
-    {
-      "tag": "license drama seeds",
-      "note": "Training-on-GitHub debates"
-    }
+    "ghost text: Gray autocomplete as coworker",
+    "license drama seeds: Training-on-GitHub debates begin"
   ],
   "community_sentiment": "Developers adopt AI autocomplete; artists still image-focused.",
   "cast_candidates": [
@@ -40,5 +39,6 @@
     "dalle-2",
     "midjourney",
     "tabnine"
-  ]
+  ],
+  "confidence": "high"
 }
