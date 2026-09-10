@@ -8,9 +8,13 @@
 ## Progress
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
-- **Rewrite done:** `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (戏眼：人格抢台 — Plus $20 / Bard JWST flop / Sydney storm; Poe·Notion side; LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude).
-- `2022-12.md` may still be stub on main — do not assume Dec rewrite until floor file itself lands.
+- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (戏眼：人格抢台 — Plus $20 / Bard JWST flop / Sydney storm; Poe·Notion side; LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude).
 - Last focus: 2023-02 full ST rewrite (Sydney/Bard reserved beat landed).
+
+## Dec→Jan hooks (from 2022-12 rewrite)
+- **{{user}} Dec outline handwritten** — vow held for提纲; body/交正文 pressure into 元旦; public-mockery contract live.
+- **ChatGPT** became 公共设施; peanut brake running; queue rising toward Plus month.
+- **Perplexity** Dec entrance; **DAN seeds**; **Niji** anime side current.
 
 ## Open threads (carry into 2023-03+; Mar floor already consumes some)
 - **{{user}} Plus trial (1 month from Feb)** — bridges into Mar GPT-4 upgrade beat; watch auto-renew / receipt anxiety.
@@ -21,7 +25,7 @@
 - **100M / corporate panic** smell carried; personas-get-personalities is the Feb scar.
 - **Poe** multi-bot foot-vote; **Notion AI** private-page hygiene.
 - **Character.AI** RP island; card span through 2023-02 — later months only if DB recasts.
-- **SillyTavern / MusicLM / DAN / SD local / MJ** threads from Nov–Jan remain citAble where cast allows.
+- **SillyTavern / MusicLM / DAN / SD local / MJ / Perplexity** threads from Nov–Jan remain citAble where cast allows.
 - Do not mention post-month launches inside a floor.
 
 ## Cast sizes (DB)
