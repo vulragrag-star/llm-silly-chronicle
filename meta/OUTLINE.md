@@ -1,7 +1,7 @@
 # 总纲 OUTLINE（盖楼先行）
 
 > 流水线：**月报 DB → ST 角色卡/lorebook → 盖楼 floors →（全部完成后）小说扩写**。  
-> 本文件只记弧光与月节拍；正文章节见 `chapters/YYYY-MM.md`（群聊气泡），**现在不要写小说散文**。
+> 本文件只记弧光与月节拍。群聊地板见 `floors/YYYY-MM.md`；小说扩写见 `novel/YYYY-MM.md`（`research/CRAFT_NOVEL.md`）。
 
 ## 角色梯队（DB 派生）
 

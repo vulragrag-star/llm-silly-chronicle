@@ -1,8 +1,14 @@
 # Agent notes for maintainers / automations
 
-- Write chapters in **Chinese**, ~3000–4000 字 each, file `chapters/YYYY-MM.md`.
-- Read `research/CRAFT.md`, `meta/OUTLINE.md`, previous chapter, and `meta/CONTINUITY.md` before writing.
-- Stay in-month for memes; do not spoil future product launches.
-- User POV; SillyTavern-like character speech tags.
-- Grok may appear as a character **and** as a light meta narrator wink — never break immersion for more than a beat.
-- After each chapter: update CONTINUITY.md and STATUS.md; commit as Jason Wang <vulragrag@gmail.com> with Signed-off-by.
+## Floors（已完成 craft 的正式线）
+- Canonical ST group-chat: `floors/YYYY-MM.md`（正式线 `2022-11`→`2026-09`）。
+- Craft: `research/CRAFT_FLOOR_REWRITE.md` + `research/TITLE_STYLE.md`.
+
+## Novel（番茄可发扩写）
+- Expand from floors only into `novel/YYYY-MM.md`；见 `research/CRAFT_NOVEL.md`.
+- Chinese prose ~2800–4500 字／章；H1 用黑鸦／新智元体 + `｜第N章`.
+- No spoilers beyond the month; no outline-style AI 水文.
+- After each chapter: touch CONTINUITY novel progress; commit as Jason Wang <vulragrag@gmail.com> with Signed-off-by.
+
+## Identity
+- GitHub: vulragrag-star / Jason Wang <vulragrag@gmail.com>
