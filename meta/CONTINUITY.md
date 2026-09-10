@@ -3,11 +3,12 @@
 ## Form
 - Canonical month files are **ST group-chat floors** in `floors/YYYY-MM.md` (`chapters/` path deprecated).
 - **Floor craft rewrite COMPLETE** for formal spine `2022-11`→`2026-09` (47 months; H1 `｜酒馆地板 YYYY-MM`). Archival `2022-01`–`2022-10` unchanged.
-- Novel prose expansion in `novel/` is **unblocked**: expand from floors as plot spine only（《修真聊天群》style); do not invent months beyond DB cutoff without refreshing `data/monthly`.
+- Novel prose expansion in `novel/` is **COMPLETE** for formal spine: `novel/2022-11.md`…`novel/2026-09.md` = 第1–47章 (Tomato/CRAFT_NOVEL standard). Do not invent months beyond DB cutoff without refreshing `data/monthly`.
 - Formal chronicle spine starts **2022-11** (ChatGPT research preview). `2022-01`–`2022-10` = archival only.
 
 ## Progress
 - Floors present: **57 / 57** (`2022-01` → `2026-09`).
+- **Novel craft DONE (2026-09-10):** 47/47 `novel/2022-11`→`2026-09` (第1–47章).
 - **Craft rewrite DONE:** formal spine **47 / 47** months `floors/2022-11.md` … `floors/2026-09.md` (spot-check 2026-09-10: all H1 contain `酒馆地板`; no English stub headlines on spine).
 - Terminal month `2026-09`: post-summer normalization / Astra「或将」UNCERTAIN FOMO × VRAM economics × agent hangover; soft close of DB cutoff.
 - **Next:** `novel/` prose expansion continues from next gap（可续缺口月（2023-06 第8章已补；后章见仓库））.
