@@ -13,7 +13,7 @@
 |---|---|
 | `research/` | 时间线、人设调研、写作技法 |
 | `characters/` | 角色卡（ST 风格） |
-| `chapters/` | 正文章节 `YYYY-MM.md` |
+| `floors/` | 正文章节 `YYYY-MM.md` |
 | `meta/OUTLINE.md` | 总纲与伏笔账本 |
 | `meta/CONTINUITY.md` | 连贯性备忘（谁出场、未回收梗） |
 

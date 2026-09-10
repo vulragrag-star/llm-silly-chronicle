@@ -10,7 +10,7 @@ Pipeline（强制）：**盖楼先行 → 小说后扩**。
 - [x] research/CRAFT_SILLYTAVERN.md
 - [x] research/SPOTCHECK_THIN_MONTHS.md（5 thin months）
 - [x] meta/OUTLINE.md（年弧 + 月节拍）
-- [x] chapters：SillyTavern 盖楼 floors **57/57**（`2022-01`→`2026-09`，约3k+字气泡制；早期手润，其余 DB 展开可再润色）
+- [x] floors：SillyTavern 盖楼 **57/57**（`2022-01`→`2026-09`，约3k+字气泡制；早期手润，其余 DB 展开可再润色）
 - [ ] 小说散文扩写（**仍禁止开工**，先人工润色关键 floors / 按需 swipe）
 - [ ] research/TIMELINE.md（可选视图）
 - [ ] standing routine: polish next thin floor; refresh 2026-09 DB before novel era
