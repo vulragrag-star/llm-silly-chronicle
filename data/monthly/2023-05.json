@@ -1,0 +1,98 @@
+{
+  "month": "2023-05",
+  "headline": "I/O PaLM 2 + Bard public; Claude 100K; Pi; Falcon; 讯飞星火",
+  "models_released_or_updated": [
+    {
+      "id": "palm-2",
+      "what_changed": "PaLM 2 (May 10)",
+      "heat": 5
+    },
+    {
+      "id": "bard",
+      "what_changed": "Wider public + PaLM 2",
+      "heat": 5
+    },
+    {
+      "id": "claude-1",
+      "what_changed": "100K context",
+      "heat": 5
+    },
+    {
+      "id": "pi",
+      "what_changed": "Inflection Pi",
+      "heat": 4
+    },
+    {
+      "id": "falcon",
+      "what_changed": "Falcon open",
+      "heat": 3
+    },
+    {
+      "id": "spark",
+      "what_changed": "讯飞星火 (May)",
+      "heat": 4
+    },
+    {
+      "id": "notebooklm",
+      "what_changed": "Tailwind/NotebookLM tease",
+      "heat": 3
+    },
+    {
+      "id": "aider",
+      "what_changed": "Aider traction",
+      "heat": 2
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "iOS app (May 18)",
+      "heat": 4
+    }
+  ],
+  "events": [
+    {
+      "title": "Google I/O",
+      "summary": "PaLM 2, Bard expansion, Gemini teased.",
+      "links": [
+        "https://blog.google"
+      ],
+      "date": "2023-05-10"
+    },
+    {
+      "title": "Claude 100K",
+      "summary": "Book-length context flex.",
+      "links": []
+    },
+    {
+      "title": "ChatGPT iOS",
+      "summary": "Official mobile app.",
+      "links": [],
+      "date": "2023-05-18"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "100K context",
+      "note": "Paste whole books"
+    },
+    {
+      "tag": "Pi friend",
+      "note": "Warm companion vs tool"
+    },
+    {
+      "tag": "星火评测",
+      "note": "CN benchmark wars"
+    }
+  ],
+  "community_sentiment": "Context-window flex; companions vs tools; Google redemption arc.",
+  "cast_candidates": [
+    "bard",
+    "palm-2",
+    "claude-1",
+    "pi",
+    "spark",
+    "chatgpt",
+    "falcon",
+    "github-copilot",
+    "cursor"
+  ]
+}

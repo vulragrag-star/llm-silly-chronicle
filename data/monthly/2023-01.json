@@ -1,0 +1,59 @@
+{
+  "month": "2023-01",
+  "headline": "100M race; MusicLM; exams panic; local RP frontends",
+  "models_released_or_updated": [
+    {
+      "id": "chatgpt",
+      "what_changed": "Toward 100M MAU estimates",
+      "heat": 5
+    },
+    {
+      "id": "musiclm",
+      "what_changed": "MusicLM examples (Jan 26)",
+      "heat": 3
+    },
+    {
+      "id": "sillytavern",
+      "what_changed": "Tavern/SillyTavern RP frontend wave",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "Exam discourse",
+      "summary": "Law/business exam performance stories.",
+      "links": [
+        "https://www.scriptbyai.com/timeline-of-chatgpt/"
+      ]
+    },
+    {
+      "title": "MusicLM",
+      "summary": "Google text-to-music demos.",
+      "links": [],
+      "date": "2023-01-26"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "考试危机",
+      "note": "Detect-ChatGPT folklore"
+    },
+    {
+      "tag": "DAN 3.0",
+      "note": "Jailbreak arms race"
+    },
+    {
+      "tag": "本地跑角色",
+      "note": "CN character-card culture"
+    }
+  ],
+  "community_sentiment": "Panic + wonder; schools scramble; RP invents cards.",
+  "cast_candidates": [
+    "chatgpt",
+    "musiclm",
+    "character-ai",
+    "sillytavern",
+    "stable-diffusion",
+    "midjourney"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "month": "2023-08",
+  "headline": "CN备案潮: 智谱清言/百川/豆包/MiniMax; Code Llama; Enterprise",
+  "models_released_or_updated": [
+    {
+      "id": "chatglm",
+      "what_changed": "智谱清言上线 (Aug 31)",
+      "heat": 5
+    },
+    {
+      "id": "baichuan",
+      "what_changed": "百川开放 (Aug 31)",
+      "heat": 4
+    },
+    {
+      "id": "minimax",
+      "what_changed": "MiniMax abab备案开放",
+      "heat": 4
+    },
+    {
+      "id": "doubao",
+      "what_changed": "豆包发布 (Aug)",
+      "heat": 4
+    },
+    {
+      "id": "code-llama",
+      "what_changed": "Code Llama (Aug 24)",
+      "heat": 4
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "ChatGPT Enterprise (Aug 28)",
+      "heat": 4
+    },
+    {
+      "id": "duet-ai",
+      "what_changed": "Duet AI Workspace pricing era",
+      "heat": 3
+    },
+    {
+      "id": "skywork",
+      "what_changed": "天工等跟进",
+      "heat": 2
+    }
+  ],
+  "events": [
+    {
+      "title": "CN first batch备案开放",
+      "summary": "Baidu/Zhipu/Baichuan/SenseTime/MiniMax etc. consumer open.",
+      "links": [
+        "https://news.qq.com/rain/a/20230831A0A7DX00"
+      ],
+      "date": "2023-08-31"
+    },
+    {
+      "title": "Code Llama",
+      "summary": "Meta code-specialized Llama.",
+      "links": [],
+      "date": "2023-08-24"
+    },
+    {
+      "title": "ChatGPT Enterprise",
+      "summary": "Unlimited GPT-4 pitch.",
+      "links": [],
+      "date": "2023-08-28"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "备案狂欢",
+      "note": "App store AI assistants flood"
+    },
+    {
+      "tag": "豆包AI朋友",
+      "note": "ByteDance companion positioning"
+    },
+    {
+      "tag": "文心vs豆包",
+      "note": "CN MAU war seeds"
+    }
+  ],
+  "community_sentiment": "China consumer AI apps explode overnight; coding models specialize.",
+  "cast_candidates": [
+    "chatglm",
+    "baichuan",
+    "doubao",
+    "minimax",
+    "ernie-bot",
+    "code-llama",
+    "chatgpt",
+    "claude-2",
+    "llama-2"
+  ]
+}

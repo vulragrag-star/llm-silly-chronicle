@@ -1,0 +1,73 @@
+{
+  "month": "2026-04",
+  "headline": "GPT-5.5; Claude Opus 4.7; DeepSeek-V4; Muse Spark; Mythos preview",
+  "models_released_or_updated": [
+    {
+      "id": "gpt-5.5",
+      "what_changed": "GPT-5.5 (Apr 23)",
+      "heat": 4
+    },
+    {
+      "id": "claude-opus-4.7",
+      "what_changed": "Opus 4.7 (Apr 16)",
+      "heat": 4
+    },
+    {
+      "id": "deepseek-v4",
+      "what_changed": "DeepSeek-V4 (Apr 24)",
+      "heat": 4
+    },
+    {
+      "id": "muse-spark",
+      "what_changed": "Meta Muse Spark closed turn (Apr 8 reports)",
+      "heat": 3
+    },
+    {
+      "id": "claude-fable-5",
+      "what_changed": "Mythos/Fable preview reports (Apr 7) — verify",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "GPT-5.5",
+      "summary": "Computer-use / long work framing.",
+      "links": [
+        "https://openai.com"
+      ],
+      "date": "2026-04-23"
+    },
+    {
+      "title": "DeepSeek-V4",
+      "summary": "Next DeepSeek generation per API changelog.",
+      "links": [
+        "https://api-docs.deepseek.com/updates/"
+      ],
+      "date": "2026-04-24"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Meta闭源转向",
+      "note": "Open Llama era nostalgia"
+    },
+    {
+      "tag": "Mythos",
+      "note": "Above-Opus tier lore"
+    },
+    {
+      "tag": "V4又来了",
+      "note": "DeepSeek cadence"
+    }
+  ],
+  "community_sentiment": "Closed-open pendulum; tier inflation (Mythos/Fable).",
+  "cast_candidates": [
+    "gpt-5.5",
+    "claude-opus-4.7",
+    "deepseek-v4",
+    "muse-spark",
+    "cursor",
+    "openclaw",
+    "chatgpt"
+  ]
+}

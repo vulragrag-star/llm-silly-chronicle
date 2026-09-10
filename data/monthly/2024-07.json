@@ -1,0 +1,71 @@
+{
+  "month": "2024-07",
+  "headline": "Llama 3.1 405B; GPT-4o mini; SearchGPT tease; Mistral Large 2",
+  "models_released_or_updated": [
+    {
+      "id": "llama-3.1",
+      "what_changed": "Llama 3.1 including 405B (Jul 23)",
+      "heat": 5
+    },
+    {
+      "id": "gpt-4o-mini",
+      "what_changed": "GPT-4o mini (Jul 18)",
+      "heat": 4
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "SearchGPT prototype announced",
+      "heat": 3
+    },
+    {
+      "id": "mistral-large-2",
+      "what_changed": "Mistral Large 2",
+      "heat": 3
+    },
+    {
+      "id": "midjourney",
+      "what_changed": "V6.1 (Jul 31)",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "Llama 3.1 405B",
+      "summary": "Open-weights frontier-scale claim.",
+      "links": [
+        "https://ai.meta.com"
+      ],
+      "date": "2024-07-23"
+    },
+    {
+      "title": "GPT-4o mini",
+      "summary": "Cheap capable default for apps.",
+      "links": [],
+      "date": "2024-07-18"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "405B下载",
+      "note": "Who has the VRAM"
+    },
+    {
+      "tag": "SearchGPT",
+      "note": "Google killer discourse Round N"
+    },
+    {
+      "tag": "4o mini",
+      "note": "API cost charts celebrate"
+    }
+  ],
+  "community_sentiment": "Open scale flex; cheap models for builders; search wars rhetoric.",
+  "cast_candidates": [
+    "llama-3.1",
+    "gpt-4o-mini",
+    "chatgpt",
+    "claude-3.5-sonnet",
+    "mistral-large-2",
+    "cursor",
+    "kimi"
+  ]
+}

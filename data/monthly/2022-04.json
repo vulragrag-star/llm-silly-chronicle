@@ -1,0 +1,57 @@
+{
+  "month": "2022-04",
+  "headline": "PaLM 540B + DALL·E 2 + Midjourney V2",
+  "models_released_or_updated": [
+    {
+      "id": "palm",
+      "what_changed": "PaLM 540B (Apr 4)",
+      "heat": 4
+    },
+    {
+      "id": "dalle-2",
+      "what_changed": "DALL·E 2 announced (Apr 6)",
+      "heat": 5
+    },
+    {
+      "id": "midjourney",
+      "what_changed": "V2 (Apr 12)",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "PaLM",
+      "summary": "Google 540B Pathways LM.",
+      "links": [
+        "https://research.google/blog/pathways-language-model-palm-scaling-to-540-billion-parameters-for-breakthrough-performance/"
+      ],
+      "date": "2022-04-04"
+    },
+    {
+      "title": "DALL·E 2",
+      "summary": "Higher-res image gen; waitlist culture.",
+      "links": [
+        "https://openai.com/index/dall-e-2/"
+      ],
+      "date": "2022-04-06"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "outpainting",
+      "note": "Image editing party trick"
+    },
+    {
+      "tag": "waitlist flex",
+      "note": "Invite screenshots as status"
+    }
+  ],
+  "community_sentiment": "Image models steal spotlight; text LLMs still API-gated.",
+  "cast_candidates": [
+    "dalle-2",
+    "palm",
+    "midjourney",
+    "gpt-3.5",
+    "github-copilot"
+  ]
+}

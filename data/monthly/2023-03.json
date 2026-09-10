@@ -1,0 +1,127 @@
+{
+  "month": "2023-03",
+  "headline": "GPT-4 + Claude + 文心一言 + AutoGPT + Cursor — Pi Day singularity",
+  "models_released_or_updated": [
+    {
+      "id": "gpt-4",
+      "what_changed": "GPT-4 (Mar 14)",
+      "heat": 5
+    },
+    {
+      "id": "claude-1",
+      "what_changed": "Claude 1 (Mar 14)",
+      "heat": 5
+    },
+    {
+      "id": "ernie-bot",
+      "what_changed": "文心一言公测 (Mar 16)",
+      "heat": 5
+    },
+    {
+      "id": "autogpt",
+      "what_changed": "AutoGPT viral (Mar 30)",
+      "heat": 5
+    },
+    {
+      "id": "cursor",
+      "what_changed": "Cursor IDE launch era",
+      "heat": 4
+    },
+    {
+      "id": "midjourney",
+      "what_changed": "V5 alpha (Mar 15)",
+      "heat": 4
+    },
+    {
+      "id": "firefly",
+      "what_changed": "Adobe Firefly beta",
+      "heat": 3
+    },
+    {
+      "id": "ms-365-copilot",
+      "what_changed": "M365 Copilot announced",
+      "heat": 4
+    },
+    {
+      "id": "alpaca",
+      "what_changed": "Stanford Alpaca",
+      "heat": 4
+    },
+    {
+      "id": "vicuna",
+      "what_changed": "Vicuna",
+      "heat": 4
+    },
+    {
+      "id": "grammarlygo",
+      "what_changed": "GrammarlyGO",
+      "heat": 2
+    }
+  ],
+  "events": [
+    {
+      "title": "GPT-4",
+      "summary": "Multimodal LLM; Bing revealed using GPT-4.",
+      "links": [
+        "https://openai.com"
+      ],
+      "date": "2023-03-14"
+    },
+    {
+      "title": "Claude",
+      "summary": "Anthropic chatbot launch.",
+      "links": [
+        "https://www.anthropic.com"
+      ],
+      "date": "2023-03-14"
+    },
+    {
+      "title": "文心一言",
+      "summary": "Baidu rival; mixed reviews.",
+      "links": [],
+      "date": "2023-03-16"
+    },
+    {
+      "title": "AutoGPT",
+      "summary": "Autonomous agent #1 GitHub.",
+      "links": [
+        "https://en.wikipedia.org/wiki/AutoGPT"
+      ],
+      "date": "2023-03-30"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "不如ChatGPT十分之一",
+      "note": "CN roast of early 文心一言"
+    },
+    {
+      "tag": "ChaosGPT",
+      "note": "AutoGPT destroy humanity"
+    },
+    {
+      "tag": "Alpaca/Vicuna",
+      "note": "Weekend fine-tunes"
+    },
+    {
+      "tag": "pause AI letter",
+      "note": "FoL open letter"
+    }
+  ],
+  "community_sentiment": "Peak launch month; agent hype; CN AI race official; open fine-tunes bloom.",
+  "cast_candidates": [
+    "gpt-4",
+    "claude-1",
+    "ernie-bot",
+    "autogpt",
+    "cursor",
+    "midjourney",
+    "bing-chat",
+    "chatgpt",
+    "alpaca",
+    "vicuna",
+    "firefly",
+    "ms-365-copilot",
+    "github-copilot"
+  ]
+}

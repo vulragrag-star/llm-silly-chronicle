@@ -1,0 +1,82 @@
+{
+  "month": "2023-06",
+  "headline": "Code Interpreter hype; Phi-1; 百川; midyear hangover",
+  "models_released_or_updated": [
+    {
+      "id": "chatgpt",
+      "what_changed": "Code Interpreter / ADA path",
+      "heat": 4
+    },
+    {
+      "id": "phi-1",
+      "what_changed": "Phi-1 small LM",
+      "heat": 3
+    },
+    {
+      "id": "baichuan",
+      "what_changed": "百川 early releases",
+      "heat": 3
+    },
+    {
+      "id": "midjourney",
+      "what_changed": "V5.2 (Jun 22)",
+      "heat": 3
+    },
+    {
+      "id": "cody",
+      "what_changed": "Sourcegraph Cody",
+      "heat": 2
+    },
+    {
+      "id": "continue-dev",
+      "what_changed": "Continue OSS",
+      "heat": 2
+    },
+    {
+      "id": "gpt-engineer",
+      "what_changed": "GPT-Engineer viral",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "Code Interpreter hype",
+      "summary": "ChatGPT runs code/analyzes files.",
+      "links": [
+        "https://openai.com"
+      ]
+    },
+    {
+      "title": "Phi-1",
+      "summary": "Tiny models punching above weight.",
+      "links": []
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Code Interpreter",
+      "note": "Upload CSV become CFO"
+    },
+    {
+      "tag": "流量下滑",
+      "note": "First traffic plateau rumors"
+    },
+    {
+      "tag": "小模型逆袭",
+      "note": "Phi discourse"
+    }
+  ],
+  "community_sentiment": "Feature maturation; CN startups ship; fatigue mixed with new tools.",
+  "cast_candidates": [
+    "chatgpt",
+    "gpt-4",
+    "phi-1",
+    "baichuan",
+    "midjourney",
+    "cody",
+    "gpt-engineer",
+    "claude-1",
+    "ernie-bot",
+    "qwen"
+  ]
+}

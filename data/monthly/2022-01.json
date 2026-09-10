@@ -1,0 +1,44 @@
+{
+  "month": "2022-01",
+  "headline": "InstructGPT ships; RLHF quietly becomes the new default",
+  "models_released_or_updated": [
+    {
+      "id": "instructgpt",
+      "what_changed": "InstructGPT becomes default API models (Jan 27)",
+      "heat": 4
+    },
+    {
+      "id": "gpt-3",
+      "what_changed": "Still the public face of large language models",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "InstructGPT",
+      "summary": "OpenAI publishes InstructGPT: RLHF models preferred over raw GPT-3.",
+      "links": [
+        "https://openai.com/index/instruction-following/"
+      ],
+      "date": "2022-01-27"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "RLHF",
+      "note": "Alignment research enters product language"
+    },
+    {
+      "tag": "API waitlists",
+      "note": "Access still gated"
+    }
+  ],
+  "community_sentiment": "Quiet research month; most people still don't chat with AIs daily.",
+  "cast_candidates": [
+    "instructgpt",
+    "gpt-3",
+    "github-copilot",
+    "tabnine",
+    "replika"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "month": "2023-04",
+  "headline": "通义千问; BabyAGI; Italy ban; agent spring",
+  "models_released_or_updated": [
+    {
+      "id": "qwen",
+      "what_changed": "通义千问内测/发布 (Apr 7–11)",
+      "heat": 4
+    },
+    {
+      "id": "babyagi",
+      "what_changed": "BabyAGI (Apr)",
+      "heat": 4
+    },
+    {
+      "id": "chatgpt-plugins",
+      "what_changed": "Plugins continue",
+      "heat": 4
+    },
+    {
+      "id": "sensenova",
+      "what_changed": "SenseNova wave",
+      "heat": 3
+    },
+    {
+      "id": "wizardlm",
+      "what_changed": "WizardLM instruction tuning",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "通义千问",
+      "summary": "Alibaba Cloud LLM enters.",
+      "links": [
+        "https://zh.wikipedia.org/wiki/%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE"
+      ],
+      "date": "2023-04-07"
+    },
+    {
+      "title": "Italy ChatGPT ban",
+      "summary": "GDPR shock then return.",
+      "links": []
+    },
+    {
+      "title": "BabyAGI",
+      "summary": "Minimal task agent viral.",
+      "links": []
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "agent loop",
+      "note": "Plan→act→observe"
+    },
+    {
+      "tag": "插件商店梦",
+      "note": "App Store for ChatGPT"
+    },
+    {
+      "tag": "国产大模型春",
+      "note": "CN vendor cascade"
+    }
+  ],
+  "community_sentiment": "Regulatory chill + agent FOMO; CN cloud vendors pile in.",
+  "cast_candidates": [
+    "qwen",
+    "babyagi",
+    "autogpt",
+    "gpt-4",
+    "claude-1",
+    "ernie-bot",
+    "chatgpt-plugins",
+    "sensenova"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "month": "2026-06",
+  "headline": "GPT-5.6 Sol/Terra/Luna; Claude Sonnet 5; SpaceX–Cursor deal chatter",
+  "models_released_or_updated": [
+    {
+      "id": "gpt-5.6",
+      "what_changed": "GPT-5.6 preview Sol/Terra/Luna (Jun 27)",
+      "heat": 5
+    },
+    {
+      "id": "claude-sonnet-5",
+      "what_changed": "Sonnet 5 (Jun 30)",
+      "heat": 5
+    },
+    {
+      "id": "claude-fable-5",
+      "what_changed": "Fable 5 GA reports (Jun 9) — later suspended reports",
+      "heat": 3
+    },
+    {
+      "id": "cursor",
+      "what_changed": "SpaceX acquisition agreement discourse (~$60B, Jun)",
+      "heat": 5
+    }
+  ],
+  "events": [
+    {
+      "title": "GPT-5.6 family",
+      "summary": "Tiered Sol/Terra/Luna.",
+      "links": [
+        "https://www.scriptbyai.com/timeline-of-chatgpt/"
+      ],
+      "date": "2026-06-27"
+    },
+    {
+      "title": "Sonnet 5",
+      "summary": "Agentic Sonnet generation.",
+      "links": [
+        "https://getclaudekit.com/blog/models/claude-model-history"
+      ],
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Cursor×SpaceX",
+      "summary": "Acquisition agreement reports — verify close status.",
+      "links": [
+        "https://www.taskade.com/blog/anysphere-cursor-history"
+      ]
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Sol特拉月神",
+      "note": "Naming mythology"
+    },
+    {
+      "tag": "Cursor被火箭收购",
+      "note": "SpaceX memes"
+    },
+    {
+      "tag": "Fable停更?",
+      "note": "Tier drama"
+    }
+  ],
+  "community_sentiment": "Corporate mashup sci-fi; model tiers become cast lists.",
+  "cast_candidates": [
+    "gpt-5.6",
+    "claude-sonnet-5",
+    "cursor",
+    "claude-fable-5",
+    "openclaw",
+    "chatgpt",
+    "codex-agent",
+    "grok-4.5"
+  ]
+}

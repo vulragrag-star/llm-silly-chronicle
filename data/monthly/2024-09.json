@@ -1,0 +1,67 @@
+{
+  "month": "2024-09",
+  "headline": "o1-preview reasoning; Llama 3.2; Pixtral; Advanced Voice",
+  "models_released_or_updated": [
+    {
+      "id": "o1",
+      "what_changed": "o1-preview / o1-mini (Sep 12)",
+      "heat": 5
+    },
+    {
+      "id": "llama-3.2",
+      "what_changed": "Llama 3.2 text+vision",
+      "heat": 4
+    },
+    {
+      "id": "pixtral",
+      "what_changed": "Pixtral multimodal Mistral",
+      "heat": 3
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "Advanced Voice wider rollout",
+      "heat": 4
+    }
+  ],
+  "events": [
+    {
+      "title": "o1-preview",
+      "summary": "OpenAI reasoning models that 'think' before answering.",
+      "links": [
+        "https://openai.com"
+      ],
+      "date": "2024-09-12"
+    },
+    {
+      "title": "Llama 3.2",
+      "summary": "Small + vision Llama variants.",
+      "links": [],
+      "date": "2024-09-25"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "o1思考中",
+      "note": "Spinner as personality"
+    },
+    {
+      "tag": "推理模型",
+      "note": "Math olympiad flex"
+    },
+    {
+      "tag": "Voice Mode DAN",
+      "note": "Flirty voice jailbreak TikToks"
+    }
+  ],
+  "community_sentiment": "Reasoning models new category; voice intimacy discourse returns.",
+  "cast_candidates": [
+    "o1",
+    "chatgpt",
+    "llama-3.2",
+    "claude-3.5-sonnet",
+    "grok-2",
+    "cursor",
+    "kimi",
+    "doubao"
+  ]
+}

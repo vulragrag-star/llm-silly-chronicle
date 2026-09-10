@@ -1,0 +1,33 @@
+{
+  "month": "2022-02",
+  "headline": "Midjourney V1 era begins in Discord",
+  "models_released_or_updated": [
+    {
+      "id": "midjourney",
+      "what_changed": "V1 default era begins (approx Feb)",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "Midjourney early access",
+      "summary": "Discord image gen limited testing before summer open beta.",
+      "links": [
+        "https://en.wikipedia.org/wiki/Midjourney"
+      ]
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Discord as UI",
+      "note": "Prompting inside chat channels becomes social"
+    }
+  ],
+  "community_sentiment": "Image-gen curiosity among artists/Discord; LLMs still niche.",
+  "cast_candidates": [
+    "midjourney",
+    "gpt-3",
+    "instructgpt",
+    "github-copilot"
+  ]
+}

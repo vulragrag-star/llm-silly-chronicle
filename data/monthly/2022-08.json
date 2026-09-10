@@ -1,0 +1,42 @@
+{
+  "month": "2022-08",
+  "headline": "Stable Diffusion goes public — local image gen explosion",
+  "models_released_or_updated": [
+    {
+      "id": "stable-diffusion",
+      "what_changed": "Public release v1.4 (Aug 22)",
+      "heat": 5
+    }
+  ],
+  "events": [
+    {
+      "title": "Stable Diffusion public",
+      "summary": "Open weights unlock local/hobbyist image gen.",
+      "links": [
+        "https://stability.ai/news-updates/stable-diffusion-public-release"
+      ],
+      "date": "2022-08-22"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "run locally",
+      "note": "Consumer GPUs as AI factories"
+    },
+    {
+      "tag": "WebUI",
+      "note": "AUTOMATIC1111 culture"
+    },
+    {
+      "tag": "NSFW panic",
+      "note": "Open models + filter debates"
+    }
+  ],
+  "community_sentiment": "Democratization high; copyright anxiety spikes.",
+  "cast_candidates": [
+    "stable-diffusion",
+    "midjourney",
+    "dalle-2",
+    "github-copilot"
+  ]
+}

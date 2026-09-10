@@ -1,0 +1,49 @@
+{
+  "month": "2025-06",
+  "headline": "ChatGPT connectors/MCP; study mode; midyear agent plumbing",
+  "models_released_or_updated": [
+    {
+      "id": "chatgpt",
+      "what_changed": "More connectors, record mode, MCP admins",
+      "heat": 3
+    },
+    {
+      "id": "mcp",
+      "what_changed": "Cross-vendor adoption accelerates",
+      "heat": 4
+    }
+  ],
+  "events": [
+    {
+      "title": "ChatGPT tool mesh",
+      "summary": "Email/drive/meeting recording integrations.",
+      "links": [
+        "https://openai.com"
+      ]
+    },
+    {
+      "title": "Study mode",
+      "summary": "Pedagogical ChatGPT mode announced mid-summer spill.",
+      "links": []
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "MCP统一插座",
+      "note": "Everyone speaks MCP"
+    },
+    {
+      "tag": "学习模式",
+      "note": "Don't just give answers"
+    }
+  ],
+  "community_sentiment": "Plumbing year: connectors and protocols over pure model drops.",
+  "cast_candidates": [
+    "chatgpt",
+    "mcp",
+    "claude-4",
+    "codex-agent",
+    "cursor",
+    "deepseek-r1"
+  ]
+}

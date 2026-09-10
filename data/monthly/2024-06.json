@@ -1,0 +1,74 @@
+{
+  "month": "2024-06",
+  "headline": "Claude 3.5 Sonnet; Apple Intelligence; Qwen2; Dream Machine; Kling",
+  "models_released_or_updated": [
+    {
+      "id": "claude-3.5-sonnet",
+      "what_changed": "Claude 3.5 Sonnet (Jun 20)",
+      "heat": 5
+    },
+    {
+      "id": "apple-intelligence",
+      "what_changed": "WWDC Apple Intelligence + ChatGPT integrate",
+      "heat": 5
+    },
+    {
+      "id": "qwen",
+      "what_changed": "Qwen2 open releases",
+      "heat": 4
+    },
+    {
+      "id": "luma-dream-machine",
+      "what_changed": "Luma Dream Machine",
+      "heat": 3
+    },
+    {
+      "id": "kling",
+      "what_changed": "可灵 Kling video",
+      "heat": 4
+    }
+  ],
+  "events": [
+    {
+      "title": "Claude 3.5 Sonnet",
+      "summary": "Mid-tier priced, frontier-ish quality — community favorite.",
+      "links": [
+        "https://www.anthropic.com"
+      ],
+      "date": "2024-06-20"
+    },
+    {
+      "title": "Apple Intelligence",
+      "summary": "On-device + Private Cloud Compute; ChatGPT hook.",
+      "links": [
+        "https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/"
+      ],
+      "date": "2024-06-10"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Sonnet性价比之神",
+      "note": "Opus who?"
+    },
+    {
+      "tag": "Apple AI终于来了",
+      "note": "Siri redemption hope"
+    },
+    {
+      "tag": "可灵",
+      "note": "CN video gen flex"
+    }
+  ],
+  "community_sentiment": "Claude becomes default coder friend; Apple legitimizes consumer AI; CN video rises.",
+  "cast_candidates": [
+    "claude-3.5-sonnet",
+    "apple-intelligence",
+    "qwen",
+    "gpt-4o",
+    "kling",
+    "luma-dream-machine",
+    "cursor",
+    "doubao"
+  ]
+}

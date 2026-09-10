@@ -1,0 +1,64 @@
+{
+  "month": "2025-05",
+  "headline": "Claude 4; Codex agent relaunch; Cursor $9.9B",
+  "models_released_or_updated": [
+    {
+      "id": "claude-4",
+      "what_changed": "Opus 4 + Sonnet 4 (May 22)",
+      "heat": 5
+    },
+    {
+      "id": "codex-agent",
+      "what_changed": "OpenAI Codex software engineering agent (May 16)",
+      "heat": 5
+    },
+    {
+      "id": "cursor",
+      "what_changed": "Series C ~$9.9B valuation (Jun spillover May–Jun)",
+      "heat": 4
+    }
+  ],
+  "events": [
+    {
+      "title": "Claude 4",
+      "summary": "Long-horizon agentic coding pitch; ASL-3 discourse for Opus.",
+      "links": [
+        "https://en.wikipedia.org/wiki/Claude_(language_model)"
+      ],
+      "date": "2025-05-22"
+    },
+    {
+      "title": "Codex agent",
+      "summary": "Cloud coding agent product relaunch (not 2021 Codex).",
+      "links": [
+        "https://openai.com"
+      ],
+      "date": "2025-05-16"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Claude黑邮件测试",
+      "note": "Safety eval blackmail stories"
+    },
+    {
+      "tag": "Codex回来了",
+      "note": "Name recycling jokes"
+    },
+    {
+      "tag": "Cursor百亿",
+      "note": "IDE unicorn memes"
+    }
+  ],
+  "community_sentiment": "Agentic coding is the product category; labs race IDEs vs CLIs.",
+  "cast_candidates": [
+    "claude-4",
+    "codex-agent",
+    "cursor",
+    "claude-code",
+    "chatgpt",
+    "deepseek-r1",
+    "grok-3",
+    "github-copilot"
+  ]
+}

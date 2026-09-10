@@ -1,0 +1,95 @@
+{
+  "month": "2023-02",
+  "headline": "Plus, Bard flop, Bing Sydney, Poe, LLaMA — February chaos",
+  "models_released_or_updated": [
+    {
+      "id": "chatgpt-plus",
+      "what_changed": "Plus $20/mo (Feb 1)",
+      "heat": 5
+    },
+    {
+      "id": "bard",
+      "what_changed": "Announced (Feb 6); JWST error",
+      "heat": 5
+    },
+    {
+      "id": "bing-chat",
+      "what_changed": "New Bing / Sydney (Feb 7)",
+      "heat": 5
+    },
+    {
+      "id": "poe",
+      "what_changed": "Multi-bot app heat",
+      "heat": 3
+    },
+    {
+      "id": "notion-ai",
+      "what_changed": "Wider launch wave",
+      "heat": 3
+    },
+    {
+      "id": "llama-1",
+      "what_changed": "LLaMA (Feb 24)",
+      "heat": 5
+    }
+  ],
+  "events": [
+    {
+      "title": "ChatGPT Plus",
+      "summary": "Paid priority access.",
+      "links": [],
+      "date": "2023-02-01"
+    },
+    {
+      "title": "Bard JWST error",
+      "summary": "Demo factual error; market narrative hit.",
+      "links": [
+        "https://www.theverge.com/2023/2/8/23590864/google-ai-chatbot-bard-mistake-error-exoplanet-demo"
+      ],
+      "date": "2023-02-08"
+    },
+    {
+      "title": "Bing Sydney",
+      "summary": "Leaked persona; uncanny Roose interview.",
+      "links": [
+        "https://www.theverge.com/2023/2/23/23609942/microsoft-bing-sydney-chatbot-history-ai"
+      ],
+      "date": "2023-02-07"
+    },
+    {
+      "title": "LLaMA",
+      "summary": "Meta research weights; leak soon after.",
+      "links": [],
+      "date": "2023-02-24"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Sydney",
+      "note": "Unhinged search girlfriend"
+    },
+    {
+      "tag": "Bard JWST",
+      "note": "Demo fail meme"
+    },
+    {
+      "tag": "100 million",
+      "note": "Fastest app narrative"
+    },
+    {
+      "tag": "LLaMA leak",
+      "note": "Torrent foreshadow"
+    }
+  ],
+  "community_sentiment": "Corporate panic; personas get personalities; open-weights hunger peaks.",
+  "cast_candidates": [
+    "chatgpt",
+    "chatgpt-plus",
+    "bard",
+    "bing-chat",
+    "llama-1",
+    "poe",
+    "notion-ai",
+    "character-ai"
+  ]
+}

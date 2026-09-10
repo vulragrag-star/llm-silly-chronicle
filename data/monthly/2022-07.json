@@ -1,0 +1,56 @@
+{
+  "month": "2022-07",
+  "headline": "Midjourney open beta + BLOOM 176B",
+  "models_released_or_updated": [
+    {
+      "id": "midjourney",
+      "what_changed": "Open beta (Jul 12); V3 (Jul 25)",
+      "heat": 5
+    },
+    {
+      "id": "bloom",
+      "what_changed": "BLOOM multilingual open LLM (Jul 12)",
+      "heat": 4
+    },
+    {
+      "id": "dalle-2",
+      "what_changed": "Broader beta access wave",
+      "heat": 4
+    }
+  ],
+  "events": [
+    {
+      "title": "Midjourney open beta",
+      "summary": "Anyone can /imagine in Discord.",
+      "links": [
+        "https://en.wikipedia.org/wiki/Midjourney"
+      ],
+      "date": "2022-07-12"
+    },
+    {
+      "title": "BLOOM",
+      "summary": "BigScience 176B open multilingual model.",
+      "links": [
+        "https://huggingface.co/blog/bloom"
+      ],
+      "date": "2022-07-12"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "/imagine",
+      "note": "Prompt literacy as skill"
+    },
+    {
+      "tag": "BigScience",
+      "note": "Open collaboration ideology"
+    }
+  ],
+  "community_sentiment": "Image Discord boom; open LLM community energized.",
+  "cast_candidates": [
+    "midjourney",
+    "bloom",
+    "dalle-2",
+    "github-copilot"
+  ]
+}

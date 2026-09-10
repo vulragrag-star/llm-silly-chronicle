@@ -1,0 +1,57 @@
+{
+  "month": "2026-05",
+  "headline": "Claude Opus 4.8; Daybreak cyber program seeds; Composer 2.5 chatter",
+  "models_released_or_updated": [
+    {
+      "id": "claude-opus-4.8",
+      "what_changed": "Opus 4.8 (May 28)",
+      "heat": 4
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "Daybreak cyber-defender program narratives",
+      "heat": 3
+    },
+    {
+      "id": "composer-model",
+      "what_changed": "Composer 2.5 pricing/perf claims (approx May)",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "Opus 4.8",
+      "summary": "Dynamic workflows / effort dial features in release notes lore.",
+      "links": [
+        "https://mungomash.com/ai/claude/versions/"
+      ],
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Daybreak",
+      "summary": "OpenAI defensive cyber access program expands through 2026.",
+      "links": [
+        "https://www.scriptbyai.com/timeline-of-chatgpt/"
+      ]
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "努力值旋钮",
+      "note": "Effort dial as character trait"
+    },
+    {
+      "tag": "网络安全门槛",
+      "note": "Critical capability discourse"
+    }
+  ],
+  "community_sentiment": "Safety/capability dual-use tension returns to headlines.",
+  "cast_candidates": [
+    "claude-opus-4.8",
+    "chatgpt",
+    "gpt-5.5",
+    "composer-model",
+    "openclaw",
+    "codex-agent"
+  ]
+}

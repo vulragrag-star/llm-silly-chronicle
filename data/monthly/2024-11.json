@@ -1,0 +1,61 @@
+{
+  "month": "2024-11",
+  "headline": "MCP; 豆包生吃文心; election AI discourse",
+  "models_released_or_updated": [
+    {
+      "id": "mcp",
+      "what_changed": "Model Context Protocol announced by Anthropic",
+      "heat": 4
+    },
+    {
+      "id": "doubao",
+      "what_changed": "CN MAU leadership discourse ('生吃文心')",
+      "heat": 4
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "Creative writing upgrades etc.",
+      "heat": 2
+    }
+  ],
+  "events": [
+    {
+      "title": "MCP",
+      "summary": "Open standard for tool/context wiring — later industry-adopted.",
+      "links": [
+        "https://modelcontextprotocol.io"
+      ]
+    },
+    {
+      "title": "豆包 vs 文心",
+      "summary": "Download/MAU narratives; 文小言 rename discourse.",
+      "links": [
+        "https://finance.sina.com.cn/stock/stockzmt/2024-11-11/doc-incvsusy9120895.shtml"
+      ]
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "MCP插头",
+      "note": "USB for AI tools"
+    },
+    {
+      "tag": "豆包生吃文心",
+      "note": "CN consumer AI ranking meme"
+    },
+    {
+      "tag": "文小言",
+      "note": "Rename roast"
+    }
+  ],
+  "community_sentiment": "Tool protocol future; CN consumer ranking drama.",
+  "cast_candidates": [
+    "mcp",
+    "doubao",
+    "ernie-bot",
+    "claude-3.5-sonnet",
+    "chatgpt",
+    "kimi",
+    "cursor"
+  ]
+}

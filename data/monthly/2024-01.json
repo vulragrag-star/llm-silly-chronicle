@@ -1,0 +1,52 @@
+{
+  "month": "2024-01",
+  "headline": "GPT Store; Team plan; CN price-war foreshadow",
+  "models_released_or_updated": [
+    {
+      "id": "gpts-custom",
+      "what_changed": "GPT Store launch (Jan 10)",
+      "heat": 5
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "ChatGPT Team",
+      "heat": 3
+    },
+    {
+      "id": "stepfun",
+      "what_changed": "阶跃星辰 Step models emerging (approx)",
+      "heat": 2
+    }
+  ],
+  "events": [
+    {
+      "title": "GPT Store",
+      "summary": "Custom GPTs marketplace opens.",
+      "links": [
+        "https://openai.com"
+      ],
+      "date": "2024-01-10"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "GPT Store上架",
+      "note": "Prompt-as-product"
+    },
+    {
+      "tag": "豆包下载量",
+      "note": "CN app charts discourse rising"
+    }
+  ],
+  "community_sentiment": "Platformization continues; CN consumer apps climb charts.",
+  "cast_candidates": [
+    "gpts-custom",
+    "chatgpt",
+    "doubao",
+    "kimi",
+    "ernie-bot",
+    "qwen",
+    "gemini-1",
+    "claude-2.1"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "month": "2022-12",
+  "headline": "ChatGPT viral; Perplexity; Niji; DAN jailbreak born",
+  "models_released_or_updated": [
+    {
+      "id": "chatgpt",
+      "what_changed": "Viral growth path",
+      "heat": 5
+    },
+    {
+      "id": "perplexity",
+      "what_changed": "Launch (Dec 7)",
+      "heat": 3
+    },
+    {
+      "id": "midjourney",
+      "what_changed": "Niji anime (Dec 20)",
+      "heat": 3
+    },
+    {
+      "id": "point-e",
+      "what_changed": "Point-E 3D (Dec 16)",
+      "heat": 2
+    }
+  ],
+  "events": [
+    {
+      "title": "Perplexity",
+      "summary": "Cited answer engine.",
+      "links": [
+        "https://en.wikipedia.org/wiki/Perplexity_AI"
+      ],
+      "date": "2022-12-07"
+    },
+    {
+      "title": "DAN seeds",
+      "summary": "Do Anything Now prompts on Reddit.",
+      "links": [
+        "https://ironhackers.es/en/dan-jailbreak-role-play-chatgpt/"
+      ],
+      "date": "2022-12-15"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "DAN",
+      "note": "Jailbreak persona born"
+    },
+    {
+      "tag": "替我写作业",
+      "note": "CN students VPN discourse"
+    },
+    {
+      "tag": "Niji",
+      "note": "Anime prompts"
+    }
+  ],
+  "community_sentiment": "Mass adoption + jailbreak cat-and-mouse begins.",
+  "cast_candidates": [
+    "chatgpt",
+    "perplexity",
+    "midjourney",
+    "character-ai",
+    "stable-diffusion"
+  ]
+}

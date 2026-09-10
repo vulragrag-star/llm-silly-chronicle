@@ -1,0 +1,108 @@
+{
+  "month": "2023-11",
+  "headline": "DevDay GPTs; Altman drama; Grok; Amazon Q; Yi; Inflection-2",
+  "models_released_or_updated": [
+    {
+      "id": "gpt-4-turbo",
+      "what_changed": "GPT-4 Turbo @ DevDay (Nov 6)",
+      "heat": 5
+    },
+    {
+      "id": "gpts-custom",
+      "what_changed": "Custom GPTs announced",
+      "heat": 5
+    },
+    {
+      "id": "grok-1",
+      "what_changed": "Grok early access (Nov 3)",
+      "heat": 4
+    },
+    {
+      "id": "claude-2.1",
+      "what_changed": "Claude 2.1 (Nov 21)",
+      "heat": 4
+    },
+    {
+      "id": "amazon-q",
+      "what_changed": "Amazon Q announced",
+      "heat": 3
+    },
+    {
+      "id": "yi",
+      "what_changed": "01.AI Yi models",
+      "heat": 3
+    },
+    {
+      "id": "inflection-2",
+      "what_changed": "Inflection-2 claims",
+      "heat": 3
+    },
+    {
+      "id": "deepseek-llm",
+      "what_changed": "DeepSeek early open models (approx)",
+      "heat": 2
+    },
+    {
+      "id": "crewai",
+      "what_changed": "CrewAI multi-agent framework buzz",
+      "heat": 2
+    }
+  ],
+  "events": [
+    {
+      "title": "DevDay",
+      "summary": "GPT-4 Turbo 128K, Assistants API, GPTs.",
+      "links": [
+        "https://openai.com"
+      ],
+      "date": "2023-11-06"
+    },
+    {
+      "title": "Altman fired/rehired",
+      "summary": "Board removes Sam Altman (Nov 17); reinstated ~Nov 22.",
+      "links": [
+        "https://www.scriptbyai.com/timeline-of-chatgpt/"
+      ],
+      "date": "2023-11-17"
+    },
+    {
+      "title": "Grok",
+      "summary": "xAI Hitchhiker-toned bot for X Premium.",
+      "links": [
+        "https://x.ai/news"
+      ],
+      "date": "2023-11-03"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "DevDay keynote",
+      "note": "App Store for GPTs dream"
+    },
+    {
+      "tag": "OpenAI宫斗",
+      "note": "Board drama popcorn"
+    },
+    {
+      "tag": "Grok反建制",
+      "note": "Based chatbot marketing"
+    },
+    {
+      "tag": "GPTs商店",
+      "note": "Everyone becomes a bot creator"
+    }
+  ],
+  "community_sentiment": "Industry soap opera + platformization; Grok enters as court jester.",
+  "cast_candidates": [
+    "gpt-4-turbo",
+    "gpts-custom",
+    "grok-1",
+    "claude-2.1",
+    "chatgpt",
+    "amazon-q",
+    "yi",
+    "cursor",
+    "kimi",
+    "doubao"
+  ]
+}

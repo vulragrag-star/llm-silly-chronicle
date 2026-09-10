@@ -1,0 +1,44 @@
+{
+  "month": "2022-06",
+  "headline": "GitHub Copilot GA — AI pair programmer goes paid",
+  "models_released_or_updated": [
+    {
+      "id": "github-copilot",
+      "what_changed": "General availability (Jun 21)",
+      "heat": 5
+    },
+    {
+      "id": "elevenlabs",
+      "what_changed": "Voice cloning startups heating (approx)",
+      "heat": 2
+    }
+  ],
+  "events": [
+    {
+      "title": "Copilot GA",
+      "summary": "Subscription AI coding leaves technical preview.",
+      "links": [
+        "https://en.wikipedia.org/wiki/GitHub_Copilot"
+      ],
+      "date": "2022-06-21"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "ghost text",
+      "note": "Gray autocomplete as coworker"
+    },
+    {
+      "tag": "license drama seeds",
+      "note": "Training-on-GitHub debates"
+    }
+  ],
+  "community_sentiment": "Developers adopt AI autocomplete; artists still image-focused.",
+  "cast_candidates": [
+    "github-copilot",
+    "codex-legacy",
+    "dalle-2",
+    "midjourney",
+    "tabnine"
+  ]
+}

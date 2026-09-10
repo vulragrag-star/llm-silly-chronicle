@@ -1,0 +1,76 @@
+{
+  "month": "2024-10",
+  "headline": "Claude 3.5 upgrade + Computer Use; Canvas; DeepSeek V2.5",
+  "models_released_or_updated": [
+    {
+      "id": "claude-3.5-sonnet",
+      "what_changed": "Upgraded 3.5 Sonnet (Oct 22)",
+      "heat": 5
+    },
+    {
+      "id": "claude-3.5-haiku",
+      "what_changed": "3.5 Haiku",
+      "heat": 3
+    },
+    {
+      "id": "claude-computer-use",
+      "what_changed": "Computer Use public beta",
+      "heat": 5
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "Canvas writing/coding workspace (Oct 3)",
+      "heat": 4
+    },
+    {
+      "id": "deepseek-v2.5",
+      "what_changed": "DeepSeek V2.5 merge upgrade (Sep 5 spill/Oct use)",
+      "heat": 3
+    },
+    {
+      "id": "deepseek-v2",
+      "what_changed": "V2 May→ongoing CN OSS heat",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "Computer Use",
+      "summary": "Claude controls desktop UI — agent demo shock.",
+      "links": [
+        "https://www.anthropic.com"
+      ],
+      "date": "2024-10-22"
+    },
+    {
+      "title": "Canvas",
+      "summary": "Side-panel doc/code collaboration in ChatGPT.",
+      "links": [],
+      "date": "2024-10-03"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Computer Use",
+      "note": "AI moves mouse memes"
+    },
+    {
+      "tag": "Canvas",
+      "note": "Not just a chatbox"
+    },
+    {
+      "tag": "DeepSeek性价比",
+      "note": "CN OSS underdog rising"
+    }
+  ],
+  "community_sentiment": "Agents that click; IDE-like ChatGPT; DeepSeek on radar.",
+  "cast_candidates": [
+    "claude-computer-use",
+    "claude-3.5-sonnet",
+    "chatgpt",
+    "deepseek-v2",
+    "o1",
+    "cursor",
+    "operator"
+  ]
+}

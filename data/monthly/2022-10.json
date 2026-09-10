@@ -1,0 +1,43 @@
+{
+  "month": "2022-10",
+  "headline": "LangChain era starts; tooling for LLM apps",
+  "models_released_or_updated": [
+    {
+      "id": "langchain",
+      "what_changed": "LangChain gains traction",
+      "heat": 4
+    },
+    {
+      "id": "github-copilot",
+      "what_changed": "Lawsuit discourse seeds",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "LangChain rise",
+      "summary": "Chains/agents abstraction becomes hobby default.",
+      "links": [
+        "https://github.com/langchain-ai/langchain"
+      ]
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "prompt chains",
+      "note": "Everything is a chain"
+    },
+    {
+      "tag": "Copilot lawsuit chatter",
+      "note": "Doe v. GitHub"
+    }
+  ],
+  "community_sentiment": "Builder energy shifts toward app frameworks.",
+  "cast_candidates": [
+    "langchain",
+    "character-ai",
+    "stable-diffusion",
+    "github-copilot",
+    "gpt-3.5"
+  ]
+}

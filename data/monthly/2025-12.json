@@ -1,0 +1,51 @@
+{
+  "month": "2025-12",
+  "headline": "GPT-5.2; DeepSeek V3.2; year-end agent fatigue/hope",
+  "models_released_or_updated": [
+    {
+      "id": "gpt-5.2",
+      "what_changed": "GPT-5.2 series (Dec 11)",
+      "heat": 4
+    },
+    {
+      "id": "deepseek-v3.2",
+      "what_changed": "V3.2 / Speciale (Dec 1)",
+      "heat": 3
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "Personality sliders etc.",
+      "heat": 2
+    }
+  ],
+  "events": [
+    {
+      "title": "GPT-5.2",
+      "summary": "Professional knowledge-work + long agents framing.",
+      "links": [
+        "https://www.scriptbyai.com/timeline-of-chatgpt/"
+      ],
+      "date": "2025-12-11"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "又一个小数点版本",
+      "note": "Version soup fatigue"
+    },
+    {
+      "tag": "年底Agent总结",
+      "note": "What actually shipped"
+    }
+  ],
+  "community_sentiment": "Incremental flagships; communities inventory what stuck.",
+  "cast_candidates": [
+    "gpt-5.2",
+    "deepseek-v3.2",
+    "chatgpt",
+    "claude-opus-4.5",
+    "gemini-3",
+    "openclaw",
+    "cursor"
+  ]
+}

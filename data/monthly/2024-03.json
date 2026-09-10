@@ -1,0 +1,93 @@
+{
+  "month": "2024-03",
+  "headline": "Claude 3 Opus/Sonnet/Haiku; Devin; Command R; Grok open; Kimi 200万字",
+  "models_released_or_updated": [
+    {
+      "id": "claude-3",
+      "what_changed": "Claude 3 family (Mar 4)",
+      "heat": 5
+    },
+    {
+      "id": "devin",
+      "what_changed": "Cognition Devin demo (Mar)",
+      "heat": 5
+    },
+    {
+      "id": "command-r",
+      "what_changed": "Cohere Command R",
+      "heat": 3
+    },
+    {
+      "id": "grok-1",
+      "what_changed": "Weights Apache 2.0 (Mar 17)",
+      "heat": 4
+    },
+    {
+      "id": "grok-1.5",
+      "what_changed": "Grok-1.5 announced (Mar 28)",
+      "heat": 3
+    },
+    {
+      "id": "kimi",
+      "what_changed": "200万字上下文内测热潮",
+      "heat": 5
+    },
+    {
+      "id": "openhands",
+      "what_changed": "OpenDevin/OpenHands reaction to Devin",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "Claude 3",
+      "summary": "Opus claims LMSYS crown era; Haiku speed tier.",
+      "links": [
+        "https://en.wikipedia.org/wiki/Claude_(language_model)"
+      ],
+      "date": "2024-03-04"
+    },
+    {
+      "title": "Devin",
+      "summary": "AI software engineer demo goes viral.",
+      "links": []
+    },
+    {
+      "title": "Kimi 2M chars",
+      "summary": "Long-context crash/扩容 saga.",
+      "links": [
+        "https://zh.wikipedia.org/zh-cn/Kimi_(%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA)"
+      ]
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Opus摸鱼",
+      "note": "Claude as favorite coworker"
+    },
+    {
+      "tag": "Devin取代程序员",
+      "note": "Job panic wave 2"
+    },
+    {
+      "tag": "Kimi宕机",
+      "note": "Too popular to stay up"
+    },
+    {
+      "tag": "Grok开源",
+      "note": "314B MoE dump"
+    }
+  ],
+  "community_sentiment": "Claude peak; agentic coding demos; CN long-context product wins hearts.",
+  "cast_candidates": [
+    "claude-3",
+    "devin",
+    "kimi",
+    "grok-1",
+    "chatgpt",
+    "gemini-app",
+    "openhands",
+    "cursor",
+    "doubao"
+  ]
+}

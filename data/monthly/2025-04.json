@@ -1,0 +1,65 @@
+{
+  "month": "2025-04",
+  "headline": "Llama 4; o3/o4-mini; GPT-4.1; Udio/Suno legal shadows",
+  "models_released_or_updated": [
+    {
+      "id": "llama-4",
+      "what_changed": "Llama 4 Scout/Maverick (Apr 5)",
+      "heat": 5
+    },
+    {
+      "id": "o3",
+      "what_changed": "o3 and o4-mini (Apr 16)",
+      "heat": 5
+    },
+    {
+      "id": "gpt-4.1",
+      "what_changed": "GPT-4.1 API family (Apr 14)",
+      "heat": 4
+    }
+  ],
+  "events": [
+    {
+      "title": "Llama 4",
+      "summary": "MoE multimodal open-weights Llama.",
+      "links": [
+        "https://ai.meta.com"
+      ],
+      "date": "2025-04-05"
+    },
+    {
+      "title": "o3",
+      "summary": "Next reasoning generation with tools.",
+      "links": [
+        "https://openai.com"
+      ],
+      "date": "2025-04-16"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Llama 4 MoE",
+      "note": "Scout/Maverick naming memes"
+    },
+    {
+      "tag": "o3工具调用",
+      "note": "Think+browse"
+    },
+    {
+      "tag": "音乐版权",
+      "note": "Suno/Udio lawsuit discourse ongoing"
+    }
+  ],
+  "community_sentiment": "Open MoE multimodal; reasoning+tools merge; music IP fights.",
+  "cast_candidates": [
+    "llama-4",
+    "o3",
+    "gpt-4.1",
+    "chatgpt",
+    "claude-3.7-sonnet",
+    "deepseek-r1",
+    "suno",
+    "udio",
+    "cursor"
+  ]
+}

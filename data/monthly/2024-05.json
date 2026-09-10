@@ -1,0 +1,78 @@
+{
+  "month": "2024-05",
+  "headline": "GPT-4o + Sky voice drama; Copilot Workspace; 豆包降价战",
+  "models_released_or_updated": [
+    {
+      "id": "gpt-4o",
+      "what_changed": "GPT-4o (May 13); free tier access",
+      "heat": 5
+    },
+    {
+      "id": "copilot-workspace",
+      "what_changed": "Copilot Workspace announced",
+      "heat": 3
+    },
+    {
+      "id": "doubao",
+      "what_changed": "99.3% price-cut narrative",
+      "heat": 4
+    },
+    {
+      "id": "veo",
+      "what_changed": "Veo video model teased at I/O",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "GPT-4o",
+      "summary": "Omni realtime voice/vision demo; free users get 4-class model.",
+      "links": [
+        "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/"
+      ],
+      "date": "2024-05-13"
+    },
+    {
+      "title": "Sky/Scarlett controversy",
+      "summary": "Voice likeness dispute; Sky paused.",
+      "links": [
+        "https://knowyourmeme.com/memes/events/scarlett-johansson-openai-sky-voice-controversy"
+      ],
+      "date": "2024-05-20"
+    },
+    {
+      "title": "豆包价格战",
+      "summary": "ByteDance API price shock cascades CN cloud pricing.",
+      "links": []
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "her",
+      "note": "Altman tweets 'her'"
+    },
+    {
+      "tag": "Sky声音",
+      "note": "Scarlett discourse"
+    },
+    {
+      "tag": "免费GPT-4o",
+      "note": "Plus value crisis jokes"
+    },
+    {
+      "tag": "降价99%",
+      "note": "CN token price war"
+    }
+  ],
+  "community_sentiment": "Realtime multimodal wow + PR crisis; CN price war; coding agents productize.",
+  "cast_candidates": [
+    "gpt-4o",
+    "chatgpt",
+    "doubao",
+    "claude-3",
+    "gemini-app",
+    "github-copilot",
+    "cursor",
+    "kimi"
+  ]
+}

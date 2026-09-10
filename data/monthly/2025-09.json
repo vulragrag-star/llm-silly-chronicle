@@ -1,0 +1,58 @@
+{
+  "month": "2025-09",
+  "headline": "Sora 2; Claude Sonnet 4.5; DevDay eve; Pulse",
+  "models_released_or_updated": [
+    {
+      "id": "sora",
+      "what_changed": "Sora 2 (Sep 30)",
+      "heat": 5
+    },
+    {
+      "id": "claude-sonnet-4.5",
+      "what_changed": "Sonnet 4.5 (Sep 29)",
+      "heat": 4
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "Pulse proactive updates; MCP tools",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "Sora 2",
+      "summary": "Better physics/audio/control; cameo features.",
+      "links": [
+        "https://openai.com"
+      ],
+      "date": "2025-09-30"
+    },
+    {
+      "title": "Sonnet 4.5",
+      "summary": "Anthropic mid-tier push.",
+      "links": [],
+      "date": "2025-09-29"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Sora 2 cameo",
+      "note": "Insert yourself into clips"
+    },
+    {
+      "tag": "Sonnet默认",
+      "note": "Daily driver wars"
+    }
+  ],
+  "community_sentiment": "Video gen productized further; Sonnet remains workhorse archetype.",
+  "cast_candidates": [
+    "sora",
+    "claude-sonnet-4.5",
+    "gpt-5",
+    "chatgpt",
+    "cursor",
+    "codex-agent",
+    "doubao",
+    "kimi"
+  ]
+}

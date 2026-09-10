@@ -1,0 +1,74 @@
+{
+  "month": "2024-04",
+  "headline": "Llama 3; Phi-3; Memory; Udio; ChatGPT no-login",
+  "models_released_or_updated": [
+    {
+      "id": "llama-3",
+      "what_changed": "Llama 3 8B/70B (Apr 18)",
+      "heat": 5
+    },
+    {
+      "id": "phi-3",
+      "what_changed": "Phi-3",
+      "heat": 3
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "Memory feature testing/rollout",
+      "heat": 4
+    },
+    {
+      "id": "udio",
+      "what_changed": "Udio music rival to Suno",
+      "heat": 4
+    },
+    {
+      "id": "swe-agent",
+      "what_changed": "SWE-agent academic agent",
+      "heat": 2
+    }
+  ],
+  "events": [
+    {
+      "title": "Llama 3",
+      "summary": "Meta open weights leap.",
+      "links": [
+        "https://ai.meta.com"
+      ],
+      "date": "2024-04-18"
+    },
+    {
+      "title": "ChatGPT Memory",
+      "summary": "Cross-chat memory controls.",
+      "links": [
+        "https://openai.com"
+      ]
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Llama 3本地",
+      "note": "HomeLab renaissance"
+    },
+    {
+      "tag": "AI有记忆",
+      "note": "Creepy/helpful duality"
+    },
+    {
+      "tag": "Suno vs Udio",
+      "note": "Music gen platform war"
+    }
+  ],
+  "community_sentiment": "Open weights strong again; memory makes assistants sticky.",
+  "cast_candidates": [
+    "llama-3",
+    "phi-3",
+    "chatgpt",
+    "udio",
+    "suno",
+    "claude-3",
+    "cursor",
+    "kimi",
+    "doubao"
+  ]
+}

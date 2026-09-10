@@ -1,0 +1,58 @@
+{
+  "month": "2026-03",
+  "headline": "GPT-5.4; Composer 2; Claude Code #1 tool narratives",
+  "models_released_or_updated": [
+    {
+      "id": "gpt-5.4",
+      "what_changed": "GPT-5.4 Thinking/Pro (Mar 5)",
+      "heat": 4
+    },
+    {
+      "id": "composer-model",
+      "what_changed": "Composer 2 wave (Mar)",
+      "heat": 5
+    },
+    {
+      "id": "claude-code",
+      "what_changed": "Developer-tool popularity narratives",
+      "heat": 4
+    }
+  ],
+  "events": [
+    {
+      "title": "GPT-5.4",
+      "summary": "Reasoning/coding/agents unified framing.",
+      "links": [
+        "https://www.scriptbyai.com/timeline-of-chatgpt/"
+      ],
+      "date": "2026-03-05"
+    },
+    {
+      "title": "Composer 2",
+      "summary": "Cursor frontier coding model push.",
+      "links": [
+        "https://cursor.com/blog/composer-2"
+      ]
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Composer性价比",
+      "note": "Opus-like at IDE price"
+    },
+    {
+      "tag": "CLI vs IDE",
+      "note": "Claude Code vs Cursor holy war"
+    }
+  ],
+  "community_sentiment": "Coding-tool tribalism peaks; models become teammates with logos.",
+  "cast_candidates": [
+    "composer-model",
+    "cursor",
+    "claude-code",
+    "gpt-5.4",
+    "codex-agent",
+    "openclaw",
+    "deepseek-v4"
+  ]
+}

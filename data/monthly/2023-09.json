@@ -1,0 +1,91 @@
+{
+  "month": "2023-09",
+  "headline": "Mistral 7B shock; 通义/星火公众开放; DALL·E 3; AutoGen; Meta AI",
+  "models_released_or_updated": [
+    {
+      "id": "mistral-7b",
+      "what_changed": "Mistral 7B (Sep)",
+      "heat": 5
+    },
+    {
+      "id": "qwen",
+      "what_changed": "通义千问公众开放 (Sep 13)",
+      "heat": 4
+    },
+    {
+      "id": "spark",
+      "what_changed": "讯飞星火全民开放 (Sep 5)",
+      "heat": 4
+    },
+    {
+      "id": "dalle-3",
+      "what_changed": "DALL·E 3 in ChatGPT (Sep–Oct)",
+      "heat": 5
+    },
+    {
+      "id": "autogen",
+      "what_changed": "Microsoft AutoGen multi-agent",
+      "heat": 3
+    },
+    {
+      "id": "meta-ai",
+      "what_changed": "Meta AI assistant push",
+      "heat": 3
+    },
+    {
+      "id": "hunyuan",
+      "what_changed": "腾讯混元公开叙事",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "Mistral 7B",
+      "summary": "Tiny European model punches up; torrent-friendly culture.",
+      "links": [
+        "https://mistral.ai"
+      ],
+      "date": "2023-09"
+    },
+    {
+      "title": "通义公众开放",
+      "summary": "No invite needed.",
+      "links": [
+        "https://zh.wikipedia.org/wiki/%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE"
+      ],
+      "date": "2023-09-13"
+    },
+    {
+      "title": "DALL·E 3",
+      "summary": "Prompt-following image leap inside ChatGPT.",
+      "links": [],
+      "date": "2023-09"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Mistral magic",
+      "note": "7B > 30B folklore"
+    },
+    {
+      "tag": "DALL·E 3 text",
+      "note": "Readable text in images"
+    },
+    {
+      "tag": "多Agent戏剧",
+      "note": "AutoGen roleplay coding"
+    }
+  ],
+  "community_sentiment": "Small open models awe; CN apps go truly public; image quality jumps.",
+  "cast_candidates": [
+    "mistral-7b",
+    "qwen",
+    "spark",
+    "dalle-3",
+    "chatgpt",
+    "autogen",
+    "meta-ai",
+    "hunyuan",
+    "doubao"
+  ]
+}

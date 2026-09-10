@@ -1,0 +1,91 @@
+{
+  "month": "2024-12",
+  "headline": "DeepSeek-V3; o1 full; Sora public; Gemini 2.0; Llama 3.3; ChatGPT Pro $200",
+  "models_released_or_updated": [
+    {
+      "id": "deepseek-v3",
+      "what_changed": "DeepSeek-V3 (Dec 26)",
+      "heat": 5
+    },
+    {
+      "id": "o1",
+      "what_changed": "Full o1 in ChatGPT (Dec 5)",
+      "heat": 5
+    },
+    {
+      "id": "sora",
+      "what_changed": "Sora public (Dec 9)",
+      "heat": 4
+    },
+    {
+      "id": "gemini-2",
+      "what_changed": "Gemini 2.0",
+      "heat": 4
+    },
+    {
+      "id": "llama-3.3",
+      "what_changed": "Llama 3.3 70B",
+      "heat": 3
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "ChatGPT Pro $200 (Dec 5)",
+      "heat": 4
+    },
+    {
+      "id": "phi-4",
+      "what_changed": "Phi-4",
+      "heat": 2
+    }
+  ],
+  "events": [
+    {
+      "title": "DeepSeek-V3",
+      "summary": "671B MoE open model; cheap API; GitHub heat.",
+      "links": [
+        "https://www.deepseek.com/en/news/deepseek-v3/"
+      ],
+      "date": "2024-12-26"
+    },
+    {
+      "title": "o1 GA + Pro",
+      "summary": "Reasoning model + $200 plan.",
+      "links": [
+        "https://openai.com"
+      ],
+      "date": "2024-12-05"
+    },
+    {
+      "title": "Sora public",
+      "summary": "Text-to-video leaves research-only.",
+      "links": [],
+      "date": "2024-12-09"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "DeepSeek开源之光",
+      "note": "CloseAI jokes intensify"
+    },
+    {
+      "tag": "200美元Pro",
+      "note": "Whale plan memes"
+    },
+    {
+      "tag": "Sora终于来了",
+      "note": "Waitlist graduates"
+    }
+  ],
+  "community_sentiment": "DeepSeek underdog arc begins; reasoning goes mainstream paid; video public.",
+  "cast_candidates": [
+    "deepseek-v3",
+    "o1",
+    "sora",
+    "gemini-2",
+    "chatgpt",
+    "claude-3.5-sonnet",
+    "llama-3.3",
+    "cursor",
+    "doubao"
+  ]
+}

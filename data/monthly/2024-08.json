@@ -1,0 +1,67 @@
+{
+  "month": "2024-08",
+  "headline": "Grok-2; Cursor Composer; Structured Outputs",
+  "models_released_or_updated": [
+    {
+      "id": "grok-2",
+      "what_changed": "Grok-2 beta (Aug 13)",
+      "heat": 4
+    },
+    {
+      "id": "cursor-composer",
+      "what_changed": "Composer multi-file editing wave",
+      "heat": 5
+    },
+    {
+      "id": "cursor",
+      "what_changed": "Series B / valuation jump era (~Aug)",
+      "heat": 4
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "Structured Outputs",
+      "heat": 2
+    }
+  ],
+  "events": [
+    {
+      "title": "Grok-2",
+      "summary": "Arena bragging; image gen via Flux partnership era.",
+      "links": [
+        "https://x.ai/news"
+      ],
+      "date": "2024-08-13"
+    },
+    {
+      "title": "Cursor Composer",
+      "summary": "Multi-file AI edits redefine IDE expectation.",
+      "links": [
+        "https://aitimeline.ai/turning-points/the-ai-coding-explosion"
+      ]
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Composer一键重构",
+      "note": "Whole-repo edits"
+    },
+    {
+      "tag": "Grok Arena冲榜",
+      "note": "LMSYS flex"
+    },
+    {
+      "tag": "Cursor信徒",
+      "note": "Copilot switcher testimonies"
+    }
+  ],
+  "community_sentiment": "Coding IDE product leap; Grok tries seriousness.",
+  "cast_candidates": [
+    "cursor",
+    "cursor-composer",
+    "grok-2",
+    "claude-3.5-sonnet",
+    "gpt-4o",
+    "github-copilot",
+    "doubao"
+  ]
+}

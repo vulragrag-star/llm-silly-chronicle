@@ -1,0 +1,43 @@
+{
+  "month": "2022-03",
+  "headline": "GPT-3.5 lineage; ChatGLM research; Copilot expands",
+  "models_released_or_updated": [
+    {
+      "id": "gpt-3.5",
+      "what_changed": "GPT-3.5 family era begins (Mar 15 reported)",
+      "heat": 3
+    },
+    {
+      "id": "chatglm",
+      "what_changed": "ChatGLM research line active in CN academia",
+      "heat": 2
+    },
+    {
+      "id": "github-copilot",
+      "what_changed": "VS 2022 support (Mar 29)",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "GPT-3.5 reported",
+      "summary": "OpenAI GPT-3.5 family dated around mid-March in timelines.",
+      "links": [
+        "https://www.scriptbyai.com/timeline-of-chatgpt/"
+      ]
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "few-shot prompting",
+      "note": "Prompt engineering as folk craft"
+    }
+  ],
+  "community_sentiment": "Developer-tooling heat rising; consumer chat not mainstream yet.",
+  "cast_candidates": [
+    "gpt-3.5",
+    "github-copilot",
+    "midjourney",
+    "chatglm"
+  ]
+}

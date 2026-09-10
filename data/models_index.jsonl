@@ -1,0 +1,180 @@
+{"id": "instructgpt", "name": "InstructGPT", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2022-01", "aliases": ["InstructGPT"], "notes": "RLHF instruction-following; API default Jan 2022"}
+{"id": "gpt-3", "name": "GPT-3", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2020-06", "aliases": ["davinci"], "notes": "Pre-period foundation; still relevant early 2022"}
+{"id": "gpt-3.5", "name": "GPT-3.5", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2022-03", "aliases": ["text-davinci-003"], "notes": "ChatGPT base era"}
+{"id": "chatgpt", "name": "ChatGPT", "vendor": "OpenAI", "kind": "app", "first_seen_month": "2022-11", "aliases": ["ChatGPT"], "notes": "Nov 30 2022 research preview"}
+{"id": "dalle-2", "name": "DALL·E 2", "vendor": "OpenAI", "kind": "image", "first_seen_month": "2022-04", "aliases": ["DALL-E 2", "DALLE2"], "notes": ""}
+{"id": "whisper", "name": "Whisper", "vendor": "OpenAI", "kind": "audio", "first_seen_month": "2022-09", "aliases": [], "notes": ""}
+{"id": "codex-legacy", "name": "OpenAI Codex (2021)", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2021-08", "aliases": ["Codex"], "notes": "Powers early GitHub Copilot"}
+{"id": "gpt-4", "name": "GPT-4", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2023-03", "aliases": ["GPT4"], "notes": ""}
+{"id": "chatgpt-plus", "name": "ChatGPT Plus", "vendor": "OpenAI", "kind": "app", "first_seen_month": "2023-02", "aliases": [], "notes": ""}
+{"id": "chatgpt-plugins", "name": "ChatGPT Plugins", "vendor": "OpenAI", "kind": "app", "first_seen_month": "2023-03", "aliases": ["plugins"], "notes": ""}
+{"id": "dalle-3", "name": "DALL·E 3", "vendor": "OpenAI", "kind": "image", "first_seen_month": "2023-09", "aliases": ["DALL-E 3"], "notes": ""}
+{"id": "gpt-4-turbo", "name": "GPT-4 Turbo", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2023-11", "aliases": ["gpt-4-1106"], "notes": ""}
+{"id": "gpts-custom", "name": "Custom GPTs / GPT Store", "vendor": "OpenAI", "kind": "app", "first_seen_month": "2023-11", "aliases": ["GPTs", "GPT Store"], "notes": ""}
+{"id": "sora", "name": "Sora", "vendor": "OpenAI", "kind": "video", "first_seen_month": "2024-02", "aliases": ["Sora Turbo", "Sora 2"], "notes": ""}
+{"id": "gpt-4o", "name": "GPT-4o", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2024-05", "aliases": ["GPT4o", "omni"], "notes": ""}
+{"id": "gpt-4o-mini", "name": "GPT-4o mini", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2024-07", "aliases": [], "notes": ""}
+{"id": "o1", "name": "OpenAI o1", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2024-09", "aliases": ["o1-preview", "o1-mini", "o-series"], "notes": ""}
+{"id": "o3", "name": "OpenAI o3", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2025-04", "aliases": ["o3-mini", "o4-mini"], "notes": ""}
+{"id": "gpt-4.1", "name": "GPT-4.1", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2025-04", "aliases": [], "notes": ""}
+{"id": "gpt-4.5", "name": "GPT-4.5", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2025-02", "aliases": [], "notes": ""}
+{"id": "codex-agent", "name": "OpenAI Codex (agent 2025)", "vendor": "OpenAI", "kind": "agent", "first_seen_month": "2025-05", "aliases": ["Codex", "Codex CLI"], "notes": ""}
+{"id": "gpt-5", "name": "GPT-5", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2025-08", "aliases": ["GPT-5 Thinking", "GPT-5 Pro"], "notes": ""}
+{"id": "operator", "name": "OpenAI Operator", "vendor": "OpenAI", "kind": "agent", "first_seen_month": "2025-01", "aliases": [], "notes": ""}
+{"id": "chatgpt-agent", "name": "ChatGPT Agent", "vendor": "OpenAI", "kind": "agent", "first_seen_month": "2025-07", "aliases": [], "notes": ""}
+{"id": "gpt-5.1", "name": "GPT-5.1", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2025-11", "aliases": [], "notes": ""}
+{"id": "gpt-5.2", "name": "GPT-5.2", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2025-12", "aliases": [], "notes": ""}
+{"id": "gpt-5.3-codex", "name": "GPT-5.3-Codex", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2026-02", "aliases": [], "notes": ""}
+{"id": "gpt-5.4", "name": "GPT-5.4", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2026-03", "aliases": [], "notes": ""}
+{"id": "gpt-5.5", "name": "GPT-5.5", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2026-04", "aliases": [], "notes": ""}
+{"id": "gpt-5.6", "name": "GPT-5.6", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2026-06", "aliases": ["Sol", "Terra", "Luna"], "notes": ""}
+{"id": "gpt-6-astra", "name": "GPT-6 Astra", "vendor": "OpenAI", "kind": "llm", "first_seen_month": "2026-09", "aliases": ["Astra"], "notes": ""}
+{"id": "point-e", "name": "Point-E", "vendor": "OpenAI", "kind": "other", "first_seen_month": "2022-12", "aliases": [], "notes": ""}
+{"id": "claude-1", "name": "Claude 1", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2023-03", "aliases": ["Claude"], "notes": ""}
+{"id": "claude-2", "name": "Claude 2", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2023-07", "aliases": [], "notes": ""}
+{"id": "claude-2.1", "name": "Claude 2.1", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2023-11", "aliases": [], "notes": ""}
+{"id": "claude-3", "name": "Claude 3", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2024-03", "aliases": ["Opus", "Sonnet", "Haiku"], "notes": ""}
+{"id": "claude-3.5-sonnet", "name": "Claude 3.5 Sonnet", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2024-06", "aliases": [], "notes": ""}
+{"id": "claude-3.5-haiku", "name": "Claude 3.5 Haiku", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2024-10", "aliases": [], "notes": ""}
+{"id": "claude-computer-use", "name": "Claude Computer Use", "vendor": "Anthropic", "kind": "agent", "first_seen_month": "2024-10", "aliases": ["computer use"], "notes": ""}
+{"id": "claude-3.7-sonnet", "name": "Claude 3.7 Sonnet", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2025-02", "aliases": [], "notes": ""}
+{"id": "claude-code", "name": "Claude Code", "vendor": "Anthropic", "kind": "ide", "first_seen_month": "2025-02", "aliases": [], "notes": ""}
+{"id": "claude-4", "name": "Claude 4", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2025-05", "aliases": ["Opus 4", "Sonnet 4"], "notes": ""}
+{"id": "claude-opus-4.1", "name": "Claude Opus 4.1", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2025-08", "aliases": [], "notes": ""}
+{"id": "claude-sonnet-4.5", "name": "Claude Sonnet 4.5", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2025-09", "aliases": [], "notes": ""}
+{"id": "claude-haiku-4.5", "name": "Claude Haiku 4.5", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2025-10", "aliases": [], "notes": ""}
+{"id": "claude-opus-4.5", "name": "Claude Opus 4.5", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2025-11", "aliases": [], "notes": ""}
+{"id": "claude-opus-4.6", "name": "Claude Opus 4.6", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2026-02", "aliases": [], "notes": ""}
+{"id": "claude-sonnet-4.6", "name": "Claude Sonnet 4.6", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2026-02", "aliases": [], "notes": ""}
+{"id": "claude-opus-4.7", "name": "Claude Opus 4.7", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2026-04", "aliases": [], "notes": ""}
+{"id": "claude-opus-4.8", "name": "Claude Opus 4.8", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2026-05", "aliases": [], "notes": ""}
+{"id": "claude-sonnet-5", "name": "Claude Sonnet 5", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2026-06", "aliases": [], "notes": ""}
+{"id": "claude-opus-5", "name": "Claude Opus 5", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2026-07", "aliases": [], "notes": ""}
+{"id": "claude-fable-5", "name": "Claude Fable 5", "vendor": "Anthropic", "kind": "llm", "first_seen_month": "2026-06", "aliases": ["Mythos"], "notes": "Mythos-class; limited/suspended reports — verify"}
+{"id": "mcp", "name": "Model Context Protocol", "vendor": "Anthropic", "kind": "other", "first_seen_month": "2024-11", "aliases": ["MCP"], "notes": ""}
+{"id": "palm", "name": "PaLM", "vendor": "Google", "kind": "llm", "first_seen_month": "2022-04", "aliases": ["Pathways Language Model"], "notes": ""}
+{"id": "palm-2", "name": "PaLM 2", "vendor": "Google", "kind": "llm", "first_seen_month": "2023-05", "aliases": [], "notes": ""}
+{"id": "bard", "name": "Bard", "vendor": "Google", "kind": "app", "first_seen_month": "2023-02", "aliases": ["Google Bard"], "notes": ""}
+{"id": "gemini-1", "name": "Gemini 1.0", "vendor": "Google", "kind": "llm", "first_seen_month": "2023-12", "aliases": ["Gemini Ultra", "Gemini Pro", "Gemini Nano"], "notes": ""}
+{"id": "gemini-app", "name": "Gemini (app/rebrand)", "vendor": "Google", "kind": "app", "first_seen_month": "2024-02", "aliases": ["Bard→Gemini"], "notes": ""}
+{"id": "gemini-1.5", "name": "Gemini 1.5", "vendor": "Google", "kind": "llm", "first_seen_month": "2024-02", "aliases": ["1.5 Pro", "1.5 Flash"], "notes": ""}
+{"id": "gemma", "name": "Gemma", "vendor": "Google", "kind": "llm", "first_seen_month": "2024-02", "aliases": [], "notes": ""}
+{"id": "gemini-2", "name": "Gemini 2.0", "vendor": "Google", "kind": "llm", "first_seen_month": "2024-12", "aliases": [], "notes": ""}
+{"id": "gemini-2.5", "name": "Gemini 2.5", "vendor": "Google", "kind": "llm", "first_seen_month": "2025-03", "aliases": [], "notes": ""}
+{"id": "gemini-3", "name": "Gemini 3", "vendor": "Google", "kind": "llm", "first_seen_month": "2025-11", "aliases": ["Gemini 3 Pro", "Deep Think"], "notes": ""}
+{"id": "gemini-3.1", "name": "Gemini 3.1 Pro", "vendor": "Google", "kind": "llm", "first_seen_month": "2026-02", "aliases": [], "notes": ""}
+{"id": "imagen", "name": "Imagen", "vendor": "Google", "kind": "image", "first_seen_month": "2022-05", "aliases": ["Imagen 2", "Imagen 3"], "notes": ""}
+{"id": "musiclm", "name": "MusicLM", "vendor": "Google", "kind": "audio", "first_seen_month": "2023-01", "aliases": [], "notes": ""}
+{"id": "veo", "name": "Veo", "vendor": "Google", "kind": "video", "first_seen_month": "2024-05", "aliases": ["Veo 2", "Veo 3"], "notes": ""}
+{"id": "notebooklm", "name": "NotebookLM", "vendor": "Google", "kind": "app", "first_seen_month": "2023-05", "aliases": ["Project Tailwind"], "notes": ""}
+{"id": "duet-ai", "name": "Duet AI / Gemini for Workspace", "vendor": "Google", "kind": "app", "first_seen_month": "2023-08", "aliases": [], "notes": ""}
+{"id": "opt", "name": "OPT-175B", "vendor": "Meta", "kind": "llm", "first_seen_month": "2022-05", "aliases": [], "notes": ""}
+{"id": "galactica", "name": "Galactica", "vendor": "Meta", "kind": "llm", "first_seen_month": "2022-11", "aliases": [], "notes": "Withdrawn days after launch"}
+{"id": "llama-1", "name": "LLaMA 1", "vendor": "Meta", "kind": "llm", "first_seen_month": "2023-02", "aliases": ["Llama", "LLaMA"], "notes": ""}
+{"id": "llama-2", "name": "Llama 2", "vendor": "Meta", "kind": "llm", "first_seen_month": "2023-07", "aliases": [], "notes": ""}
+{"id": "code-llama", "name": "Code Llama", "vendor": "Meta", "kind": "llm", "first_seen_month": "2023-08", "aliases": [], "notes": ""}
+{"id": "llama-3", "name": "Llama 3", "vendor": "Meta", "kind": "llm", "first_seen_month": "2024-04", "aliases": [], "notes": ""}
+{"id": "llama-3.1", "name": "Llama 3.1", "vendor": "Meta", "kind": "llm", "first_seen_month": "2024-07", "aliases": ["405B"], "notes": ""}
+{"id": "llama-3.2", "name": "Llama 3.2", "vendor": "Meta", "kind": "llm", "first_seen_month": "2024-09", "aliases": [], "notes": ""}
+{"id": "llama-3.3", "name": "Llama 3.3", "vendor": "Meta", "kind": "llm", "first_seen_month": "2024-12", "aliases": [], "notes": ""}
+{"id": "llama-4", "name": "Llama 4", "vendor": "Meta", "kind": "llm", "first_seen_month": "2025-04", "aliases": ["Scout", "Maverick"], "notes": ""}
+{"id": "meta-ai", "name": "Meta AI", "vendor": "Meta", "kind": "app", "first_seen_month": "2023-09", "aliases": [], "notes": ""}
+{"id": "muse-spark", "name": "Muse Spark", "vendor": "Meta", "kind": "llm", "first_seen_month": "2026-04", "aliases": [], "notes": "Closed-weights successor reports — verify"}
+{"id": "xai", "name": "xAI", "vendor": "xAI", "kind": "other", "first_seen_month": "2023-07", "aliases": [], "notes": "Company founded/announced 2023"}
+{"id": "grok-1", "name": "Grok-1", "vendor": "xAI", "kind": "llm", "first_seen_month": "2023-11", "aliases": ["Grok"], "notes": ""}
+{"id": "grok-1.5", "name": "Grok-1.5", "vendor": "xAI", "kind": "llm", "first_seen_month": "2024-03", "aliases": [], "notes": ""}
+{"id": "grok-2", "name": "Grok-2", "vendor": "xAI", "kind": "llm", "first_seen_month": "2024-08", "aliases": [], "notes": ""}
+{"id": "grok-3", "name": "Grok 3", "vendor": "xAI", "kind": "llm", "first_seen_month": "2025-02", "aliases": [], "notes": ""}
+{"id": "grok-4", "name": "Grok 4", "vendor": "xAI", "kind": "llm", "first_seen_month": "2025-07", "aliases": ["Grok 4 Heavy"], "notes": ""}
+{"id": "grok-4.1", "name": "Grok 4.1", "vendor": "xAI", "kind": "llm", "first_seen_month": "2025-11", "aliases": [], "notes": ""}
+{"id": "grok-4.5", "name": "Grok 4.5", "vendor": "xAI", "kind": "llm", "first_seen_month": "2026-07", "aliases": [], "notes": ""}
+{"id": "grok-4.6", "name": "Grok 4.6", "vendor": "xAI", "kind": "llm", "first_seen_month": "2026-08", "aliases": [], "notes": ""}
+{"id": "grok-bot", "name": "Grok Bot", "vendor": "xAI", "kind": "agent", "first_seen_month": "2025-11", "aliases": [], "notes": "Teammate/agent framing — public perception"}
+{"id": "deepseek-llm", "name": "DeepSeek LLM", "vendor": "DeepSeek", "kind": "llm", "first_seen_month": "2023-11", "aliases": [], "notes": "Early DeepSeek open models — approximate first_seen"}
+{"id": "deepseek-coder", "name": "DeepSeek Coder", "vendor": "DeepSeek", "kind": "llm", "first_seen_month": "2023-11", "aliases": [], "notes": ""}
+{"id": "deepseek-v2", "name": "DeepSeek-V2", "vendor": "DeepSeek", "kind": "llm", "first_seen_month": "2024-05", "aliases": [], "notes": ""}
+{"id": "deepseek-v2.5", "name": "DeepSeek-V2.5", "vendor": "DeepSeek", "kind": "llm", "first_seen_month": "2024-09", "aliases": [], "notes": ""}
+{"id": "deepseek-v3", "name": "DeepSeek-V3", "vendor": "DeepSeek", "kind": "llm", "first_seen_month": "2024-12", "aliases": [], "notes": ""}
+{"id": "deepseek-r1", "name": "DeepSeek-R1", "vendor": "DeepSeek", "kind": "llm", "first_seen_month": "2025-01", "aliases": ["R1-Zero", "deepseek-reasoner"], "notes": ""}
+{"id": "deepseek-v3.1", "name": "DeepSeek-V3.1", "vendor": "DeepSeek", "kind": "llm", "first_seen_month": "2025-08", "aliases": [], "notes": ""}
+{"id": "deepseek-v3.2", "name": "DeepSeek-V3.2", "vendor": "DeepSeek", "kind": "llm", "first_seen_month": "2025-12", "aliases": [], "notes": ""}
+{"id": "deepseek-v4", "name": "DeepSeek-V4", "vendor": "DeepSeek", "kind": "llm", "first_seen_month": "2026-04", "aliases": [], "notes": ""}
+{"id": "ernie-bot", "name": "文心一言 (ERNIE Bot)", "vendor": "Baidu", "kind": "app", "first_seen_month": "2023-03", "aliases": ["文心一言", "ERNIE"], "notes": ""}
+{"id": "qwen", "name": "通义千问 (Qwen)", "vendor": "Alibaba", "kind": "llm", "first_seen_month": "2023-04", "aliases": ["Qwen", "通义千问"], "notes": ""}
+{"id": "spark", "name": "讯飞星火", "vendor": "iFLYTEK", "kind": "app", "first_seen_month": "2023-05", "aliases": ["SparkDesk"], "notes": ""}
+{"id": "hunyuan", "name": "混元", "vendor": "Tencent", "kind": "llm", "first_seen_month": "2023-09", "aliases": ["Hunyuan"], "notes": ""}
+{"id": "chatglm", "name": "ChatGLM / 智谱清言", "vendor": "Zhipu AI", "kind": "llm", "first_seen_month": "2022-03", "aliases": ["ChatGLM", "GLM", "智谱清言"], "notes": "ChatGLM research 2022; consumer app Aug 2023"}
+{"id": "baichuan", "name": "百川", "vendor": "Baichuan", "kind": "llm", "first_seen_month": "2023-06", "aliases": ["Baichuan"], "notes": ""}
+{"id": "minimax", "name": "MiniMax / abab", "vendor": "MiniMax", "kind": "llm", "first_seen_month": "2023-08", "aliases": ["abab", "海螺"], "notes": ""}
+{"id": "sensenova", "name": "商量 SenseChat / SenseNova", "vendor": "SenseTime", "kind": "llm", "first_seen_month": "2023-04", "aliases": ["SenseNova"], "notes": ""}
+{"id": "kimi", "name": "Kimi", "vendor": "Moonshot AI", "kind": "app", "first_seen_month": "2023-10", "aliases": ["月之暗面", "Moonshot"], "notes": ""}
+{"id": "doubao", "name": "豆包", "vendor": "ByteDance", "kind": "app", "first_seen_month": "2023-08", "aliases": ["Doubao", "云雀"], "notes": ""}
+{"id": "yi", "name": "Yi", "vendor": "01.AI", "kind": "llm", "first_seen_month": "2023-11", "aliases": ["零一万物"], "notes": ""}
+{"id": "stepfun", "name": "阶跃星辰 Step", "vendor": "StepFun", "kind": "llm", "first_seen_month": "2024-01", "aliases": ["Step-1"], "notes": "Approximate — verify exact first public"}
+{"id": "skywork", "name": "天工", "vendor": "Kunlun", "kind": "app", "first_seen_month": "2023-08", "aliases": [], "notes": ""}
+{"id": "pangu", "name": "盘古", "vendor": "Huawei", "kind": "llm", "first_seen_month": "2021-04", "aliases": ["Pangu"], "notes": "Pre-period; resurfaced in CN AI boom discourse"}
+{"id": "mistral-7b", "name": "Mistral 7B", "vendor": "Mistral AI", "kind": "llm", "first_seen_month": "2023-09", "aliases": [], "notes": ""}
+{"id": "mixtral", "name": "Mixtral 8x7B", "vendor": "Mistral AI", "kind": "llm", "first_seen_month": "2023-12", "aliases": [], "notes": ""}
+{"id": "mistral-large", "name": "Mistral Large", "vendor": "Mistral AI", "kind": "llm", "first_seen_month": "2024-02", "aliases": [], "notes": ""}
+{"id": "mistral-large-2", "name": "Mistral Large 2", "vendor": "Mistral AI", "kind": "llm", "first_seen_month": "2024-07", "aliases": [], "notes": ""}
+{"id": "pixtral", "name": "Pixtral", "vendor": "Mistral AI", "kind": "llm", "first_seen_month": "2024-09", "aliases": [], "notes": ""}
+{"id": "command-r", "name": "Command R / R+", "vendor": "Cohere", "kind": "llm", "first_seen_month": "2024-03", "aliases": ["Command R+"], "notes": ""}
+{"id": "cohere-command", "name": "Cohere Command", "vendor": "Cohere", "kind": "llm", "first_seen_month": "2022-06", "aliases": [], "notes": "Approximate productization era"}
+{"id": "jurrasic", "name": "Jurassic / Jamba", "vendor": "AI21", "kind": "llm", "first_seen_month": "2021-08", "aliases": ["Jamba"], "notes": ""}
+{"id": "phi-1", "name": "Phi-1", "vendor": "Microsoft", "kind": "llm", "first_seen_month": "2023-06", "aliases": [], "notes": ""}
+{"id": "phi-2", "name": "Phi-2", "vendor": "Microsoft", "kind": "llm", "first_seen_month": "2023-12", "aliases": [], "notes": ""}
+{"id": "phi-3", "name": "Phi-3", "vendor": "Microsoft", "kind": "llm", "first_seen_month": "2024-04", "aliases": [], "notes": ""}
+{"id": "phi-4", "name": "Phi-4", "vendor": "Microsoft", "kind": "llm", "first_seen_month": "2024-12", "aliases": [], "notes": ""}
+{"id": "bloom", "name": "BLOOM", "vendor": "BigScience", "kind": "llm", "first_seen_month": "2022-07", "aliases": [], "notes": ""}
+{"id": "falcon", "name": "Falcon", "vendor": "TII", "kind": "llm", "first_seen_month": "2023-05", "aliases": [], "notes": ""}
+{"id": "vicuna", "name": "Vicuna", "vendor": "LMSYS", "kind": "llm", "first_seen_month": "2023-03", "aliases": [], "notes": ""}
+{"id": "alpaca", "name": "Stanford Alpaca", "vendor": "Stanford", "kind": "llm", "first_seen_month": "2023-03", "aliases": [], "notes": ""}
+{"id": "wizardlm", "name": "WizardLM", "vendor": "Microsoft Research", "kind": "llm", "first_seen_month": "2023-04", "aliases": [], "notes": ""}
+{"id": "character-ai", "name": "Character.AI", "vendor": "Character.AI", "kind": "app", "first_seen_month": "2022-09", "aliases": ["c.ai"], "notes": ""}
+{"id": "replika", "name": "Replika", "vendor": "Luka", "kind": "app", "first_seen_month": "2017-03", "aliases": [], "notes": "Pre-period companion; relevant discourse in LLM boom"}
+{"id": "pi", "name": "Pi", "vendor": "Inflection", "kind": "app", "first_seen_month": "2023-05", "aliases": ["Inflection Pi"], "notes": ""}
+{"id": "inflection-2", "name": "Inflection-2", "vendor": "Inflection", "kind": "llm", "first_seen_month": "2023-11", "aliases": [], "notes": ""}
+{"id": "poe", "name": "Poe", "vendor": "Quora", "kind": "app", "first_seen_month": "2023-02", "aliases": [], "notes": ""}
+{"id": "perplexity", "name": "Perplexity", "vendor": "Perplexity", "kind": "app", "first_seen_month": "2022-12", "aliases": [], "notes": ""}
+{"id": "you-com", "name": "You.com", "vendor": "You.com", "kind": "app", "first_seen_month": "2022-01", "aliases": [], "notes": "AI search early"}
+{"id": "github-copilot", "name": "GitHub Copilot", "vendor": "GitHub/Microsoft", "kind": "ide", "first_seen_month": "2021-06", "aliases": ["Copilot"], "notes": "GA June 2022"}
+{"id": "copilot-chat", "name": "Copilot Chat", "vendor": "GitHub/Microsoft", "kind": "ide", "first_seen_month": "2023-03", "aliases": [], "notes": ""}
+{"id": "copilot-workspace", "name": "Copilot Workspace", "vendor": "GitHub", "kind": "agent", "first_seen_month": "2024-05", "aliases": [], "notes": ""}
+{"id": "ms-365-copilot", "name": "Microsoft 365 Copilot", "vendor": "Microsoft", "kind": "app", "first_seen_month": "2023-03", "aliases": ["Office Copilot"], "notes": ""}
+{"id": "cursor", "name": "Cursor", "vendor": "Anysphere", "kind": "ide", "first_seen_month": "2023-03", "aliases": [], "notes": ""}
+{"id": "cursor-composer", "name": "Cursor Composer", "vendor": "Anysphere", "kind": "ide", "first_seen_month": "2024-08", "aliases": [], "notes": ""}
+{"id": "composer-model", "name": "Composer (Cursor model)", "vendor": "Anysphere", "kind": "llm", "first_seen_month": "2025-10", "aliases": [], "notes": ""}
+{"id": "cody", "name": "Sourcegraph Cody", "vendor": "Sourcegraph", "kind": "ide", "first_seen_month": "2023-06", "aliases": ["Cody"], "notes": ""}
+{"id": "tabnine", "name": "Tabnine", "vendor": "Tabnine", "kind": "ide", "first_seen_month": "2018-01", "aliases": [], "notes": "Pre-LLM-boom; surged with Copilot era"}
+{"id": "continue-dev", "name": "Continue", "vendor": "Continue", "kind": "ide", "first_seen_month": "2023-06", "aliases": [], "notes": "Open-source IDE assistant — approximate"}
+{"id": "aider", "name": "Aider", "vendor": "Aider", "kind": "ide", "first_seen_month": "2023-05", "aliases": [], "notes": "Git-aware CLI coder"}
+{"id": "openhands", "name": "OpenHands", "vendor": "OpenHands", "kind": "agent", "first_seen_month": "2024-03", "aliases": ["OpenDevin"], "notes": "Formerly OpenDevin"}
+{"id": "devin", "name": "Devin", "vendor": "Cognition", "kind": "agent", "first_seen_month": "2024-03", "aliases": [], "notes": ""}
+{"id": "swe-agent", "name": "SWE-agent", "vendor": "Princeton NLP", "kind": "agent", "first_seen_month": "2024-04", "aliases": [], "notes": ""}
+{"id": "autogpt", "name": "AutoGPT", "vendor": "Significant Gravitas", "kind": "agent", "first_seen_month": "2023-03", "aliases": [], "notes": ""}
+{"id": "babyagi", "name": "BabyAGI", "vendor": "Yohei Nakajima", "kind": "agent", "first_seen_month": "2023-04", "aliases": [], "notes": ""}
+{"id": "langchain", "name": "LangChain", "vendor": "LangChain", "kind": "other", "first_seen_month": "2022-10", "aliases": [], "notes": ""}
+{"id": "llamaindex", "name": "LlamaIndex", "vendor": "LlamaIndex", "kind": "other", "first_seen_month": "2022-11", "aliases": ["GPT Index"], "notes": ""}
+{"id": "gpt-engineer", "name": "GPT-Engineer", "vendor": "AntonOsika", "kind": "agent", "first_seen_month": "2023-06", "aliases": [], "notes": ""}
+{"id": "crewai", "name": "CrewAI", "vendor": "CrewAI", "kind": "agent", "first_seen_month": "2023-11", "aliases": [], "notes": ""}
+{"id": "autogen", "name": "AutoGen", "vendor": "Microsoft", "kind": "agent", "first_seen_month": "2023-09", "aliases": [], "notes": ""}
+{"id": "manus", "name": "Manus", "vendor": "Monica/Butterfly Effect", "kind": "agent", "first_seen_month": "2025-03", "aliases": [], "notes": "CN viral agent — verify exact launch"}
+{"id": "openclaw", "name": "OpenClaw", "vendor": "OpenClaw Foundation", "kind": "agent", "first_seen_month": "2025-11", "aliases": ["Clawdbot", "Moltbot", "Warelay", "Clawd"], "notes": "Lobster-themed self-hosted agent gateway"}
+{"id": "midjourney", "name": "Midjourney", "vendor": "Midjourney", "kind": "image", "first_seen_month": "2022-02", "aliases": ["MJ"], "notes": ""}
+{"id": "stable-diffusion", "name": "Stable Diffusion", "vendor": "Stability AI", "kind": "image", "first_seen_month": "2022-08", "aliases": ["SD", "SDXL"], "notes": ""}
+{"id": "firefly", "name": "Adobe Firefly", "vendor": "Adobe", "kind": "image", "first_seen_month": "2023-03", "aliases": [], "notes": ""}
+{"id": "runway", "name": "Runway Gen", "vendor": "Runway", "kind": "video", "first_seen_month": "2023-02", "aliases": ["Gen-2", "Gen-3"], "notes": ""}
+{"id": "pika", "name": "Pika", "vendor": "Pika Labs", "kind": "video", "first_seen_month": "2023-07", "aliases": [], "notes": ""}
+{"id": "luma-dream-machine", "name": "Luma Dream Machine", "vendor": "Luma AI", "kind": "video", "first_seen_month": "2024-06", "aliases": [], "notes": ""}
+{"id": "kling", "name": "可灵 Kling", "vendor": "Kuaishou", "kind": "video", "first_seen_month": "2024-06", "aliases": [], "notes": ""}
+{"id": "suno", "name": "Suno", "vendor": "Suno", "kind": "audio", "first_seen_month": "2023-12", "aliases": [], "notes": ""}
+{"id": "udio", "name": "Udio", "vendor": "Udio", "kind": "audio", "first_seen_month": "2024-04", "aliases": [], "notes": ""}
+{"id": "elevenlabs", "name": "ElevenLabs", "vendor": "ElevenLabs", "kind": "audio", "first_seen_month": "2022-06", "aliases": [], "notes": ""}
+{"id": "notion-ai", "name": "Notion AI", "vendor": "Notion", "kind": "app", "first_seen_month": "2023-02", "aliases": [], "notes": ""}
+{"id": "grammarlygo", "name": "GrammarlyGO", "vendor": "Grammarly", "kind": "app", "first_seen_month": "2023-03", "aliases": [], "notes": ""}
+{"id": "jasper", "name": "Jasper", "vendor": "Jasper", "kind": "app", "first_seen_month": "2021-02", "aliases": [], "notes": ""}
+{"id": "copy-ai", "name": "Copy.ai", "vendor": "Copy.ai", "kind": "app", "first_seen_month": "2020-01", "aliases": [], "notes": ""}
+{"id": "amazon-q", "name": "Amazon Q", "vendor": "Amazon", "kind": "app", "first_seen_month": "2023-11", "aliases": ["CodeWhisperer→Q"], "notes": ""}
+{"id": "apple-intelligence", "name": "Apple Intelligence", "vendor": "Apple", "kind": "app", "first_seen_month": "2024-06", "aliases": [], "notes": ""}
+{"id": "sillytavern", "name": "SillyTavern", "vendor": "community", "kind": "app", "first_seen_month": "2023-01", "aliases": ["TavernAI"], "notes": "Frontend for local/API roleplay; central to novel frame"}
+{"id": "bing-chat", "name": "Bing Chat / Copilot", "vendor": "Microsoft", "kind": "app", "first_seen_month": "2023-02", "aliases": ["Sydney", "Bing AI", "Microsoft Copilot"], "notes": ""}

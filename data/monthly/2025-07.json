@@ -1,0 +1,64 @@
+{
+  "month": "2025-07",
+  "headline": "Grok 4; ChatGPT Agent; GPT-5 eve; Llama open-weights turn chatter",
+  "models_released_or_updated": [
+    {
+      "id": "grok-4",
+      "what_changed": "Grok 4 + Heavy (Jul 9)",
+      "heat": 5
+    },
+    {
+      "id": "chatgpt-agent",
+      "what_changed": "ChatGPT Agent mode (Jul 17)",
+      "heat": 5
+    },
+    {
+      "id": "gpt-5",
+      "what_changed": "Pre-announcement fever",
+      "heat": 4
+    }
+  ],
+  "events": [
+    {
+      "title": "Grok 4",
+      "summary": "Native tools + search; Heavy multi-agent.",
+      "links": [
+        "https://x.ai/news"
+      ],
+      "date": "2025-07-09"
+    },
+    {
+      "title": "ChatGPT Agent",
+      "summary": "Computer-using agent mode in ChatGPT.",
+      "links": [
+        "https://openai.com"
+      ],
+      "date": "2025-07-17"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Grok Heavy",
+      "note": "Pay more think more"
+    },
+    {
+      "tag": "ChatGPT真Agent",
+      "note": "Operator mainstreamed"
+    },
+    {
+      "tag": "GPT-5要来了",
+      "note": "Countdown posts"
+    }
+  ],
+  "community_sentiment": "Agents leave research demos into default product modes.",
+  "cast_candidates": [
+    "grok-4",
+    "chatgpt-agent",
+    "chatgpt",
+    "claude-4",
+    "codex-agent",
+    "cursor",
+    "deepseek-r1",
+    "operator"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "month": "2022-09",
+  "headline": "Whisper + Character.AI beta — speech and personas",
+  "models_released_or_updated": [
+    {
+      "id": "whisper",
+      "what_changed": "Whisper ASR (Sep 21)",
+      "heat": 4
+    },
+    {
+      "id": "character-ai",
+      "what_changed": "Public beta (Sep 16)",
+      "heat": 5
+    },
+    {
+      "id": "dalle-2",
+      "what_changed": "No-waitlist access (Sep 28 reported)",
+      "heat": 3
+    }
+  ],
+  "events": [
+    {
+      "title": "Character.AI beta",
+      "summary": "Custom characters; LaMDA alumni founders.",
+      "links": [
+        "https://en.wikipedia.org/wiki/Character.ai"
+      ],
+      "date": "2022-09-16"
+    },
+    {
+      "title": "Whisper",
+      "summary": "Open speech recognition model.",
+      "links": [],
+      "date": "2022-09-21"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "talk to celebrities",
+      "note": "c.ai roleplay entertainment"
+    },
+    {
+      "tag": "transcription magic",
+      "note": "Whisper podcasts"
+    }
+  ],
+  "community_sentiment": "Persona chat and audio tooling join image boom.",
+  "cast_candidates": [
+    "character-ai",
+    "whisper",
+    "stable-diffusion",
+    "midjourney",
+    "replika"
+  ]
+}

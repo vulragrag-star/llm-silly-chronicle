@@ -1,0 +1,61 @@
+{
+  "month": "2025-03",
+  "headline": "Gemini 2.5; Manus viral agent; GPT-4o image gen",
+  "models_released_or_updated": [
+    {
+      "id": "gemini-2.5",
+      "what_changed": "Gemini 2.5 series wave",
+      "heat": 4
+    },
+    {
+      "id": "manus",
+      "what_changed": "Manus agent CN/global viral (approx)",
+      "heat": 5
+    },
+    {
+      "id": "chatgpt",
+      "what_changed": "Native 4o image generation (Mar 25)",
+      "heat": 4
+    }
+  ],
+  "events": [
+    {
+      "title": "Manus",
+      "summary": "General agent product goes viral in CN tech circles — verify exact day.",
+      "links": []
+    },
+    {
+      "title": "4o image gen",
+      "summary": "Image gen integrated into GPT-4o chat.",
+      "links": [
+        "https://openai.com"
+      ],
+      "date": "2025-03-25"
+    }
+  ],
+  "memes_and_discourse": [
+    {
+      "tag": "Manus一夜爆火",
+      "note": "Agent product FOMO"
+    },
+    {
+      "tag": "GPT会画了",
+      "note": "Studio Ghibli / style flood"
+    },
+    {
+      "tag": "Gemini 2.5",
+      "note": "Google catch-up discourse"
+    }
+  ],
+  "community_sentiment": "Agent apps go consumer-viral; image styles flood social.",
+  "cast_candidates": [
+    "manus",
+    "gemini-2.5",
+    "chatgpt",
+    "gpt-4o",
+    "claude-code",
+    "deepseek-r1",
+    "cursor",
+    "operator"
+  ]
+}
