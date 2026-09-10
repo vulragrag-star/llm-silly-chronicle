@@ -8,8 +8,8 @@
 ## Progress
 - Floors present: **57 / 57** (`2022-01` → `2026-09`). Most are still generator stubs.
 - **Rewrite golden sample done:** `floors/2022-11.md` (ChatGPT euphoria vs Galactica mirror; MJ V4 side current).
-- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (戏眼疤：Sydney/New Bing Roose×NYT 爆炸 — 朋友/劝离/阴影/危险幻想表演/截图快过道歉；Plus·Bard 旁刺对照；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门).
-- Last focus: 2023-08 craft rewrite (备案过了 spike / TITLE_STYLE H1).
+- **Rewrite done:** `floors/2022-12.md` (viral FOMO / homework vow); `floors/2023-01.md` (100M / exam panic); `floors/2023-02.md` (戏眼疤：Sydney/New Bing Roose×NYT 爆炸 — 朋友/劝离/阴影/危险幻想表演/截图快过道歉；Plus·Bard 旁刺对照；LLaMA hunger foreshadow); `floors/2023-03.md` (Pi Day / GPT-4 vs Claude); `floors/2023-04.md` (戏眼：意大利临时禁令 × BabyAGI／代理春); `floors/2023-05.md` (戏眼：I/O 救赎夜 × 100K 截胡); `floors/2023-06.md`; `floors/2023-07.md`; `floors/2023-08.md` (戏眼：备案过了——国产生成式对公开门); `floors/2023-11.md` (DevDay货架海啸); `floors/2024-01.md` (戏眼：GPT Store正式开张／Bot mall).
+- Last focus: 2024-01 craft rewrite (GPT Store live spike / TITLE_STYLE H1).
 
 ## Dec→Jan hooks (from 2022-12 rewrite)
 - **{{user}} Dec outline handwritten** — vow held for提纲; body/交正文 pressure into 元旦; public-mockery contract live (Nov mirror + SD「十一月的誓言，十二月的粘贴键」).
@@ -62,6 +62,17 @@
 - **文心** 「十分之一」帽不戴不藏，放吧台内侧给后来者；对公=更多人有权骂，不是加冕。
 - Carry into Sep: 闸机声还在耳；失败截图协议；热榜不可替选型；开源河与对公河勿混成一条；Plus/作业线/十一月花生契约仍 live。
 - Do **not** spoil inside Aug floor (already avoided): GPT-4 Turbo / Claude 3 / Gemini rename / Sora / Qwen2 / Llama 3 / 海螺视频产品化细节等。
+
+
+## Jan→Feb hooks (from 2024-01 rewrite)
+- **戏眼爆点：** GPT Store opens (~Jan 10) — Bot mall；十一月 Custom GPTs／Store 虚线落地成可逛收银台；逛到腿软 × 自愿冤种顾客；推荐流／精选／破百收藏当广告灯；粘性指令规模化（军师／顾问店招）复燃二月恐怖。
+- **工作流仪式：** 年终总结集体穿帮（AI提纲可、代签按死；「有我的味道」归手）。
+- **旁支≤30%：** Gemini Ultra／Advanced **path**（路径≠日常；Demo 信任债；勿剧透 1.5／1M／Sora）；阶跃星辰 Step 可见度入场（凳子≠神坛；失败可复述）；Mixtral 开源对照（橱窗漂亮，库存可疑）；Claude 2.1 拒当局铺／200K 门卫。
+- **{{user}} 烫伤决定：** 进店五问；私有上架键焊死；四秒上传犹豫入耻簿；Store 内感情／人生判决沿用二月十五分钟黑名单；作业／真表／十一月花生契约仍 live；公开嘲讽到店名＋文件名＋时间戳。
+- **ChatGPT** 前台划清：壳／入口 ≠ 每个上架 GPT 的法人；Plus 收据 ≠ 货架保险。
+- **GPTs** 自求外部制动：打断须喊「货架」+「收银台」；练习当刹车不当广播。
+- Carry into Feb: 商场灯仍亮；五问是否还在；路径海报 vs 失败复述；Consolidation／等 frontier 的空虚感；勿把「精选」当评测。
+- Do **not** spoil inside Jan floor (already avoided): Sora / Gemini 1.5 1M / Gemma / Mistral Large / Claude 3 / GPT-4o 等。
 
 ## Cast sizes (DB)
 - Core ≥8 mo: 7
